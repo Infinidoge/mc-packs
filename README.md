@@ -1,1 +1,1 @@
-[[View on sisby-folk.github.io]](https://sisby-folk.github.io/mc-packs/)
+[[View on infinidoge.github.io]](https://infinidoge.github.io/mc-packs/)
