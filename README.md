@@ -1,3 +1,9 @@
+# Infinidoge's Modified Tinkerer's Quilt
+
+This is my modified version of TQuilt with some minor additions.
+The more 'weighty' additions will be seen on the Plus/Modded branches.
+Just in case things get upstreamed somehow, I'm trying to maintain the version differences between Base/Plus/Modded.
+
 <center><img alt="Tinkerer's Quilt banner" src="https://user-images.githubusercontent.com/55819817/207277584-6cd91492-0fc6-4cae-9155-f278ea6c7847.png" />
 <b>Tinkerer's Quilt</b> (TQuilt) is a minecraft modpack by Kapesi, Clawby, Herrah and Le'mer.<br/>
 It focuses on <b>Vanilla Gameplay</b>, <b>Accessibility</b>, <b>Discoverability</b>, <b>QoL</b>, and <b>Player Expression</b>.<br/><br/>It's built on Quilt, and has Modrinth and Packwiz releases. Check out the <b>Installation</b> section below.</center>
