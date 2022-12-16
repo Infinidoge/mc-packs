@@ -259,6 +259,8 @@ Mods:
     Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
     Enhanced Block Entities
     EMI
+    EMI Loot
+    EMI Trades
     Enhanced Attack Indicator
     Exordium
     Fabric Language Kotlin
@@ -326,6 +328,7 @@ Mods:
     Sodium Extra
     Sodium
     spark
+    Simple Durability Tooltip
     Starlight (Fabric)
     Status Effect Timer
     Styled Player List
