@@ -616,6 +616,11 @@ hash = "ed2ff9d5b1fe04e1a599b825809b5ab2d729441650b3847222a342c3763a51cb"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "6e2a7ae250c6997f6d6d23a772a267107a3d7fbd7137d13c62e7121ec06e3519"
+metafile = true
+
+[[files]]
 file = "mods/cardinalboats.pw.toml"
 hash = "8542b06b8be9d23a827f66caeb0adb8c33c8ad964491696ec3d9981fd75c0fe2"
 metafile = true
