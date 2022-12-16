@@ -487,7 +487,7 @@ hash = "a23030f504445e960c53d81e492a7c5e047db3afd59ed3914172373a9201c58d"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1045289cfb53c64a1a260c1868fe58fda79455047dc42c25b3c3c4a9a4fbce42"
+hash = "91ad5f1d98a273a743c9851ebccd1cb9c29ba99a0333ee5a9244879a7df0fddc"
 
 [[files]]
 file = "config/yosbr/shaderpacks/BSL_v8.1.02.2.zip.txt"
