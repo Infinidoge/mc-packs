@@ -786,6 +786,11 @@ hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "8d8c5a1095b1176dd838b0352d8931edfe9d76b7fc77e9d18a6af07422428a55"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
@@ -1088,6 +1093,11 @@ hash = "43f11eb7babcc05358ac4e1c4148776ee7fe5c224dc6d92ef7045649c799cbb5"
 metafile = true
 
 [[files]]
+file = "mods/pocket-tools.pw.toml"
+hash = "2ba47e37e771ac853905a65c63e3de00af43c9aa6eac1f65a387c6aa67e0230c"
+metafile = true
+
+[[files]]
 file = "mods/polaroidcamera.pw.toml"
 hash = "1894ed44b4ce2856c01dccde7cc02948d7dd15ad14d3c4ad939b49a6b8121b74"
 metafile = true
@@ -1143,6 +1153,11 @@ hash = "a18f008c9752934ff5d7095aaef6c4b85627a1ac9a6da87ebbb9403dd4f2d7eb"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "ac0f6ee9dfa3fc79f4608651bd603ea6c181725b71b4c9f26fea9afeead421ab"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "58895127695d12757a124219ae3f0ca7286d518179368fe3f6d7753604673cb8"
 metafile = true
@@ -1185,6 +1200,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "987ea7a5a4285eea268c0b3ff8c65ab8bd0d20ddf336cc7184e41eb428b4ca80"
 metafile = true
 
 [[files]]
