@@ -1059,6 +1059,11 @@ hash = "479fbab5be512e0ec20b40a82b56564c76d270c1f84e04b34baf0a5ee4181c6d"
 metafile = true
 
 [[files]]
+file = "mods/scout.pw.toml"
+hash = "9220edac770c544c7c4aab53580f9a01b8e9e7a82e17f4bd7d4432b1b48998c9"
+metafile = true
+
+[[files]]
 file = "mods/simple-durability-tooltip.pw.toml"
 hash = "36c5793fe006b94902672303fba4a074c73f5fce4f6704d27e8fcaf2f08171de"
 metafile = true
@@ -1096,6 +1101,11 @@ metafile = true
 [[files]]
 file = "mods/spectrum.pw.toml"
 hash = "987ea7a5a4285eea268c0b3ff8c65ab8bd0d20ddf336cc7184e41eb428b4ca80"
+metafile = true
+
+[[files]]
+file = "mods/staff-of-traveling.pw.toml"
+hash = "e55f8e41da030e4932b2d2c51350a2e8d25b4114e08a7b0d449811f042d55564"
 metafile = true
 
 [[files]]
