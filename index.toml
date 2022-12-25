@@ -373,10 +373,6 @@ file = "credits.txt"
 hash = "fc1b5f1165ec9c762cd3fc9d6766453e74f8736de9bfc0676aa9e6fb6d126c4c"
 
 [[files]]
-file = "enable_hooks.sh"
-hash = "9e5bea64c2ee7ec80b3f3f2f514dc36f5f0e27297415a19bd8a0759405730daf"
-
-[[files]]
 file = "mods/accurate-maps.pw.toml"
 hash = "3ea92e4f977b25ffad6ffb8336ddeaabf38a6f72243aebc1b7b621da8fac7263"
 metafile = true

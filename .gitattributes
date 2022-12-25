@@ -1,1 +1,3 @@
 * -text
+pack.toml merge=ignore
+index.toml merge=ignore

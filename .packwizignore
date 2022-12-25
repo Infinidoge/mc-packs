@@ -9,3 +9,4 @@ datagen/
 mods/override/
 removed.txt
 git/
+enable_hooks.sh
