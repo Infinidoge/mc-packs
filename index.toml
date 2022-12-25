@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c6bc086f111ee90dd9534f0d2e28f62fc0039fc1e1c1f06ff5c3c17d0b24f728"
+hash = "e5f39c4532d249a052f38f86d5ed31decda80e191f42ca1fa5b1b2ceefcd6b02"
 metafile = true
 
 [[files]]
@@ -986,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "3a9dec902bc4f9c67c4184921adcc2d09aff8934c57c5d03baa29d29c93fc231"
+hash = "126c117b68e9d0e747cba77c9fb013a5bae4d7696a85162fa464585b94d702ae"
 metafile = true
 
 [[files]]
