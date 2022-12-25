@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/qdresloader.pw.toml"
-hash = "d4a8b2c6edf5bb4546508c0edb625b7a50795813b6ffc69a34efc93161df645c"
+hash = "0d7f7f9dad6b4cfd22769c6a991415e2b16577c01a9502c05f9c6d122b1d8874"
 metafile = true
 
 [[files]]
