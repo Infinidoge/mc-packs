@@ -1055,6 +1055,11 @@ hash = "58895127695d12757a124219ae3f0ca7286d518179368fe3f6d7753604673cb8"
 metafile = true
 
 [[files]]
+file = "mods/roundaround-stackables.pw.toml"
+hash = "52a7ae9332b3e709f88fe50386da9eef69f7a401be517f1d904fb4f097db8dee"
+metafile = true
+
+[[files]]
 file = "mods/rusted-iron.pw.toml"
 hash = "479fbab5be512e0ec20b40a82b56564c76d270c1f84e04b34baf0a5ee4181c6d"
 metafile = true
