@@ -727,6 +727,11 @@ hash = "f5fe536e5ed5c4f67a8ecf1d98591e0913b87bcbfe6b08d9ea1adce732359204"
 metafile = true
 
 [[files]]
+file = "mods/fox-plushies.pw.toml"
+hash = "2506864b4b09b94a6cdd7162512af422a12d031cf7eb6a090a8be6a0be6fb0f7"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "8734e4d8118d6723447c0cf958c906da59caa8899bf06b0efabc9c80c1ff331b"
 metafile = true
