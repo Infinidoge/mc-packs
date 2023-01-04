@@ -453,6 +453,11 @@ hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+hash = "f260530e165404ac8ca8baf8530038bebc74101ace0cfc48e41cc0f1f0a40c1b"
+metafile = true
+
+[[files]]
 file = "mods/blanket.pw.toml"
 hash = "b0f1f64f998f86fec1bbaf06eb39c08ea3c712b590170d3277e899a74f045c2f"
 metafile = true
