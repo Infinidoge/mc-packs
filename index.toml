@@ -653,6 +653,11 @@ hash = "3dbaa5547de693172431a16b53fd042ef6b0d2658d0f5669b60951dec02b9731"
 metafile = true
 
 [[files]]
+file = "mods/excorrelation.pw.toml"
+hash = "b282ef5aac0526ce966ae6461bc53be9c4545fb46182575b8e2c835961df5187"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
