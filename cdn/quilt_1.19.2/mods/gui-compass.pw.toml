@@ -1,0 +1,13 @@
+name = "GUI Compass"
+filename = "guicompass-fabric_1.19.2-2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZORMkttv/versions/2NSRrvMX/guicompass-fabric_1.19.2-2.9.jar"
+hash-format = "sha1"
+hash = "13bff92a18cd54f9a15c8b970ab7ecd9bbc5ae9d"
+
+[update]
+[update.modrinth]
+mod-id = "ZORMkttv"
+version = "2NSRrvMX"

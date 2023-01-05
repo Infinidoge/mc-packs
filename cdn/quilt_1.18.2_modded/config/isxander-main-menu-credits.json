@@ -1,0 +1,35 @@
+{
+	"main_menu": {
+		"top_left": [
+		],
+		"top_right": [
+
+		],
+		"bottom_left": [
+			{"text":"Tinkerer's Quilt Modded"}
+		],
+		"bottom_right": [
+
+		],
+		"mod_blacklist": [
+
+		]
+	},
+	"pause_menu": {
+		"top_left": [
+
+		],
+		"top_right": [
+
+		],
+		"bottom_left": [
+			{"text":"Tinkerer's Quilt Modded","color":"gray"}
+		],
+		"bottom_right": [
+
+		],
+		"mod_blacklist": [
+
+		]
+	}
+}
