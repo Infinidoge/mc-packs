@@ -7,6 +7,5 @@ README.md
 LICENSE
 datagen/
 mods/override/
-removed.txt
-git/
 enable_hooks.sh
+git/

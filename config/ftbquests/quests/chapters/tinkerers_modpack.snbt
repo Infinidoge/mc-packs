@@ -1,585 +1,403 @@
 {
-	id: "26D6454CBC062E3D"
-	group: "735E26125A90EB5D"
-	order_index: 0
-	filename: "tinkerers_modpack"
-	title: "Introduction"
-	icon: "minecraft:bookshelf"
-	default_quest_shape: ""
 	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "tinkerers_modpack"
+	group: "735E26125A90EB5D"
+	icon: "minecraft:bookshelf"
+	id: "26D6454CBC062E3D"
+	order_index: 0
+	quest_links: [ ]
 	quests: [
 		{
+			description: [
+				"This is a vanilla-compatible modpack made by &2clawby&r, &7kapesi&r, &5hornby&r, &dlaughter&r, &cherrah&r, &4metal&r, and &3bea&r"
+				""
+				"It focuses on small changes to make the game feel smoother and more accessible, like this quest book."
+				""
+				"To access these quests, use the quest book or press &7[&r&6J&r&7]&r§r at any time."
+				""
+				"This quest category contains &dbasic information about the modpack&r, for all players."
+			]
+			icon: "ftbquests:book"
+			id: "15402DCFAC7CC56A"
+			rewards: [{
+				auto: "enabled"
+				id: "7F1DBC92AA84645F"
+				item: "ftbquests:book"
+				type: "item"
+			}]
+			shape: "rsquare"
+			subtitle: "Humans are also allowed!"
+			tasks: [{
+				disable_toast: true
+				icon: "minecraft:grass_block"
+				id: "774A1B2AF13DC558"
+				stat: "minecraft:play_time"
+				title: "Start a New World"
+				type: "stat"
+				value: 1
+			}]
 			title: "Welcome to §a§lTinkerer's Quilt!§r"
 			x: 0.0d
 			y: -1.0d
-			shape: "rsquare"
-			subtitle: "Humans are also allowed, but you're on thin ice, buddy!"
-			description: [
-				"This is a Vanilla-Compatible Modpack made by Kapesi, Clawby, Le'mer and Herrah"
-				""
-				"It avoids adding any blocks or items."
-				""
-				"Instead, it focuses on minor Quality of Life (QoL) changes, tweaks, and simple added features."
-				""
-				"To access these quests, use the quest book or press §nJ§r at any time."
-				""
-				"Quests are split into several categories, which are shown on the collapsible left pane."
-				"§l§ePlease move your mouse to the left of the screen and click the pin when you close this quest!!!§r"
-				""
-				"Quests give rewards, and can guide you through the progression of the game and what's out there in the world!"
-				""
-				"Some quests just provide information, and only need their task to be \"Clicked\" to complete them."
-			]
-			id: "15402DCFAC7CC56A"
-			tasks: [{
-				id: "774A1B2AF13DC558"
-				type: "stat"
-				title: "Start a New World"
-				icon: "ftbquests:book"
-				disable_toast: true
-				stat: "minecraft:play_time"
-				value: 1
-			}]
-			rewards: [
-				{
-					id: "7F1DBC92AA84645F"
-					type: "item"
-					auto: "enabled"
-					item: "ftbquests:book"
-				}
-				{
-					id: "590D6DB22646789C"
-					type: "item"
-					item: "minecraft:bread"
-					count: 10
-				}
-			]
 		}
 		{
-			title: "Basic Controls"
-			icon: "minecraft:command_block"
-			disable_toast: true
-			x: -2.0d
-			y: 0.5d
-			shape: "octagon"
-			subtitle: "Zoom, Crawl, and More!"
-			description: [
-				"Use §nWASD§r to move, §nSpace§r to jump, §nShift§r to sprint, and §nCtrl§r to sneak!"
-				""
-				"You can change these and further binds in the controls menu!"
-			]
 			dependencies: ["15402DCFAC7CC56A"]
-			hide: true
 			dependency_requirement: "one_started"
-			id: "7840EB3C8B8048EF"
-			tasks: [{
-				id: "1458865ACC4EFFB5"
-				type: "checkmark"
-				title: "Click Here"
-			}]
-		}
-		{
-			title: "Character Customization"
-			icon: "minecraft:dragon_breath"
-			disable_toast: true
-			x: 2.0d
-			y: 0.5d
-			shape: "octagon"
-			subtitle: "gender"
-			description: ["You can use /showarmor and /hidearmor to disable armor showing over your skin."]
-			dependencies: ["15402DCFAC7CC56A"]
-			hide: true
-			id: "227C88C00E509DAD"
-			tasks: [{
-				id: "636D01F223970749"
-				type: "checkmark"
-				title: "Click Here!"
-			}]
-			rewards: [{
-				id: "5640B17D2DD06407"
-				type: "item"
-				item: {
-					id: "minecraft:leather_boots"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-		}
-		{
-			title: "Ok Zoomer"
-			icon: "minecraft:spyglass"
-			disable_toast: true
-			x: -3.0d
-			y: 1.0d
-			shape: "square"
-			subtitle: "Press C!"
 			description: [
-				"Ok Zoomer allows you to zoom in your field of view at any time."
+				"&7[Fabrication]&r Press &7[&r&6Z&r&7]&r to toggle between standing, sneaking, and prone."
 				""
-				"Hold §nC§r to zoom and see far away objects."
+				"&7[PicoHUD/WTHIT]&r Hold &7[&r&6ALT&r&7]&r to show your &3location&r, the &3time&r, and information about what's in front of you."
+				""
+				"&7[OkZoomer]&r Hold &7[&r&6C&r&7]&r to zoom in on far away objects."
+				""
+				"&7[Noteable]&r Press &7[&r&6N&r&7]&r to open your notes, where you can write things down for this world."
+				""
+				"&7[LambDynamicLights/ClientTweaks]&r Held items like &3Torches&r will &dlight up their surroundings&r. Press &7[&r&6F&r&7]&r to swap one to your &3off-hand&r, where it can't be placed accidentally."
+				""
+				"&7[Reacharound]&r When a &3visual [- -] indicator&r appears at the crosshair, you can place blocks on &dnormally unreachable sides&r - Useful for building &dbridges, walls, and downward staircases&r."
 			]
-			dependencies: ["7840EB3C8B8048EF"]
+			disable_toast: true
 			hide: true
-			id: "7FB0EF27995193D0"
-			tasks: [{
-				id: "22C4AF07A114E0C3"
-				type: "checkmark"
-				title: "Click Here!"
-			}]
-		}
-		{
-			title: "Ears"
 			icon: {
-				id: "minecraft:turtle_helmet"
 				Count: 1b
+				id: "minecraft:fishing_rod"
 				tag: {
 					Damage: 0
 				}
 			}
-			disable_toast: true
-			x: 1.0d
-			y: 1.0d
-			shape: "square"
-			subtitle: "Custom Nonhuman Skins!"
-			description: [
-			    "Ears allows you to have custom horns, wings, ears, claws, and more! You can create your own ears-compatible skin online - Press §nALT+M§r and click \"Ears\" to learn more."
-			    ""
-			    "In the Ears Skin Manipulator (§nALT+M§r->Ears), there's an option to enable a chest bump on your skin if you open the console (§nF12§r) and enter \"xyzzy\""
-			]
-			dependencies: ["227C88C00E509DAD"]
-			hide: true
-			id: "750E0AD647A0E1B9"
-			tasks: [{
-				id: "1596BC71E3F57772"
-				type: "checkmark"
-				title: "Click Here!"
+			id: "7840EB3C8B8048EF"
+			rewards: [{
+				id: "2B52865B1A2AB9EB"
+				item: "minecraft:lantern"
+				type: "item"
 			}]
+			shape: "octagon"
+			subtitle: "Movement, Information, and Crafting"
+			tasks: [{
+				disable_toast: true
+				id: "1458865ACC4EFFB5"
+				title: "Click Here!"
+				type: "checkmark"
+			}]
+			title: "Pack Controls"
+			x: -1.5d
+			y: 0.0d
 		}
 		{
-			title: "Fabric Tailor"
-			icon: "minecraft:loom"
-			disable_toast: true
-			x: 3.0d
-			y: 1.0d
-			shape: "square"
-			subtitle: "Swap your skin any time!"
+			can_repeat: true
+			dependencies: ["15402DCFAC7CC56A"]
 			description: [
-				"Tailor allows you to change what skin you're using at any time by pressing §nALT+T§r"
+				"&7[Origins/Minus/Statures]&r Press &7[&r&6ALT+O&r&7]&r to review your selected &3origin&r and &3stature&r, affecting your &dabilities&r and &dsize&r. "
 				""
-				"By clicking the pink arrow block, skins can be loaded directly from your §l.minecraft/§r folder, by typing their filename."
+				"&7[Fabrication]&r Type &6/hidearmor&r to hide some or all &3Armor&r to better show your skin. Type &6/showarmor&r to reverse this change. "
 				""
-				"To load a skin from the §l/skins/§r folder, simply type §lskins/[filename]§r"
+				"&7[Drogstyle/StyledNicknames]&r In Multiplayer, type &6/nick&r to set your nickname, and &6/colour&r and &6/bio&r to style it."
+				""
+				"&7[Fabric Tailor]&r Press &7[&r&6ALT+T&r&7]&r to change your skin in this world, including drag-n-dropping a skin file into the &3local skin upload&r tab."
+				""
+				"&7[Ears]&r Your skin can include &dears, claws, tails, wings, horns&r, and other features when added to the skin file and configured using the &3Ears Skin Manipulator&r online."
+				""
+				"&7[Switchy]&r Press &7[&r&6;&r&7]&r to open the &3preset switcher&r, which allows you to create &3player profiles&r in this world. Profiles can contain &dorigins, skins, nicknames, and optionally inventories and position&r!"
 			]
-			dependencies: ["227C88C00E509DAD"]
-			hide: true
-			id: "25F883DE9018F64F"
-			tasks: [{
-				id: "67C587D15AB24543"
-				type: "checkmark"
-				title: "Click Here!"
-			}]
-		}
-		{
-			title: "Illuminations Pride"
-			icon: "minecraft:soul_lantern"
 			disable_toast: true
+			hide: true
+			icon: "minecraft:dragon_breath"
+			id: "227C88C00E509DAD"
+			optional: true
+			rewards: [{
+				auto: "enabled"
+				command: "/origin gui @p"
+				icon: "origins:orb_of_origin"
+				id: "5F931878C79AE893"
+				player_command: false
+				title: "Origin Selection Screen"
+				type: "command"
+			}]
+			shape: "octagon"
+			subtitle: "Origins, Skins, and Switches!"
+			tasks: [{
+				disable_toast: true
+				id: "636D01F223970749"
+				title: "Click here to reselect your Origin!"
+				type: "checkmark"
+			}]
+			title: "Character Customization"
 			x: 1.5d
-			y: 2.0d
-			shape: "square"
-			subtitle: "Bling"
-			description: ["You can set up an Illuminations pride heart accessory at §lilluminations.uuid.gg§r"]
-			dependencies: ["227C88C00E509DAD"]
-			hide: true
-			id: "2EC9784A91A2F9CC"
-			tasks: [{
-				id: "1696B8578E406417"
-				type: "checkmark"
-				title: "Click Here!"
-			}]
+			y: 0.0d
 		}
 		{
-			title: "Switchy"
-			icon: "minecraft:lever"
-			disable_toast: true
-			x: 2.5d
-			y: 2.0d
-			shape: "square"
-			subtitle: "funky plural modpack :)"
+			dependencies: ["15402DCFAC7CC56A"]
 			description: [
-				"Switchy allows you to save player customisation to presets, and swap them freely!"
+				"&7[ModMenu]&r Press &7[&r&6ALT+M&r&7]&r to open the mod menu, allowing you to change options for mods in the pack."
 				""
-				"Make a new preset with §l/switchy new§r, then set up your skin, origin, and (in multiplayer) nickname, pronouns, color, and bio."
+				"&7[Iris]&r Press &7[&r&6ALT+I&r&7]&r to configure &3shaders&r, and &7[&r&6I&r&7]&r to toggle them once configured."
 				""
-				"When you're done, just §l/switchy new§r another preset and customize again! afterwards, you can use §l/switch§r to quickly change between them."
+				"&7[Presence Footsteps]&r Press &7[&r&6ALT+P&r&7]&r to adjust the volume or gait of your footsteps, including number of legs."
+				""
+				"&7[LambdaBetterGrass]&r You can change whether &3Grass Blocks&r connect vertically from the &3Better Grass&r mod menu."
+				""
+				"&7[Charmonium]&r You can adjust the volume of audio ambience from the &3Charmonium&r mod menu."
 			]
-			dependencies: ["227C88C00E509DAD"]
-			hide: true
-			id: "1C5E62A1B4B818B6"
-			tasks: [{
-				id: "26AAEFF5A4721389"
-				type: "checkmark"
-				title: "Click Here!"
-			}]
-		}
-		{
-			title: "Crawling"
-			icon: "minecraft:oak_trapdoor"
 			disable_toast: true
-			x: -1.0d
-			y: 1.0d
-			shape: "square"
-			subtitle: "Why not?"
-			description: [
-				"Fabrication adds many small mechanic changes."
-				""
-				"By pressing §nZ§r, you can toggle between standing, sneaking, and crawling - useful for entering tight spaces."
-			]
-			dependencies: ["7840EB3C8B8048EF"]
-			hide: true
-			id: "3897F1E5A9B9F288"
-			tasks: [{
-				id: "084362F3F8C026F7"
-				type: "checkmark"
-				title: "Click Here!"
-			}]
-		}
-		{
-			title: "What The Hell Is That?"
-			icon: "minecraft:book"
-			disable_toast: true
-			x: -2.5d
-			y: 2.0d
-			shape: "square"
-			subtitle: "In-Game Wiki Part 1"
-			description: [
-				"WTHIT provides useful world tooltips."
-				""
-				"If you want to know about a block or entity you're looking at, you can hold §nALT§r to see information about it."
-			]
-			dependencies: ["7840EB3C8B8048EF"]
-			hide: true
-			id: "3370C1D403E805EE"
-			tasks: [{
-				id: "789FA5A1933F692F"
-				type: "checkmark"
-				title: "Click Here"
-			}]
-		}
-		{
 			icon: "minecraft:repeating_command_block"
-			disable_toast: true
-			x: 0.0d
-			y: 2.5d
+			id: "337730F25EC36332"
+			rewards: [{
+				count: 10
+				id: "7F93E999EA1BDBC4"
+				item: "minecraft:bread"
+				type: "item"
+			}]
 			shape: "octagon"
 			subtitle: "Tweak Stuff!"
-			description: [
-				"At any time, you can press §nALT+M§r to enter the mod settings menu."
-				""
-				"This grants access to many of the below options."
-			]
-			dependencies: ["15402DCFAC7CC56A"]
-			id: "337730F25EC36332"
 			tasks: [{
+				disable_toast: true
 				id: "22742977937BA2B1"
+				title: "Click Here!"
 				type: "checkmark"
-				title: "Configuration"
 			}]
-		}
-		{
-			icon: "minecraft:orange_stained_glass"
-			disable_toast: true
-			x: -1.0d
-			y: 3.5d
-			shape: "square"
-			subtitle: "Pretty Lighting!"
-			description: ["Iris provides shader options to the pack, which can be set with §nALT+I§r and then toggled with §nI§r"]
-			dependencies: ["337730F25EC36332"]
-			hide: true
-			id: "4CF64C7CE9868214"
-			tasks: [{
-				id: "6B3CFBCE6D2F59FF"
-				type: "checkmark"
-				title: "Iris Shaders"
-			}]
-		}
-		{
-			icon: "minecraft:music_disc_cat"
-			disable_toast: true
-			x: 1.0d
-			y: 3.5d
-			shape: "square"
-			subtitle: "Aural Ambience"
-			description: [
-				"Charmonium adds ambience tracks to various biomes and situations."
-				""
-				"Their volume can be tweaked and individual ambience tracks disabled in the configuration menu."
-			]
-			dependencies: ["337730F25EC36332"]
-			hide: true
-			id: "13C62F809AC9E5C0"
-			tasks: [{
-				id: "6FA74E220F002409"
-				type: "checkmark"
-				title: "Charmonium"
-			}]
-		}
-		{
-			icon: "minecraft:note_block"
-			disable_toast: true
+			title: "Pack Configuration"
 			x: 0.0d
-			y: 4.0d
-			shape: "square"
-			subtitle: "Species-Apt Footsteps"
-			description: [
-				"Presence footsteps greatly enhances the footstep sound effects found in the game. It has different effects for many block types and other sounds like walking through tall grass."
-				""
-				"It also has options for footsteps more befitting of winged players, or quadrupedal players. You can access the settings to toggle this and the volume with §nALT+P§r"
-			]
-			dependencies: ["337730F25EC36332"]
-			hide: true
-			id: "400B5F405E1E93F9"
-			tasks: [{
-				id: "6EDE69526CCB82A3"
-				type: "checkmark"
-				title: "Presence Footsteps"
-			}]
+			y: 1.0d
 		}
 		{
-			title: "Notes"
-			icon: "minecraft:writable_book"
+			dependencies: ["15402DCFAC7CC56A"]
+			description: [
+				"&7[Inventory Tabs]&r Press &7[&r&6Tab&r&7]&r in the inventory to &dchange workstations&r, or &6Click&r the visual tabs around the screen. "
+				""
+				"&7[MouseWheelie]&r &6Middle Click&r in any inventory to &dsort items&r. Hold &7[&r&6Space&r&7]&r while clicking an inventory to &drestock from it&r, or while clicking your inventory to &dquick store to it&r."
+				""
+				"&7[Inspecio]&r Tooltips contain &ddetailed item information&r, such as item contents, attributes, and effects."
+				""
+				"&7[Portable Crafting]&r Press &7[&r&6V&r&7]&r to &dopen your crafting table anywhere&r, if you have one."
+				""
+				"&7[EMI]&r Press &7[&r&6R&r&7]&r on an item to see its &drecipes&r, or &7[&r&6U&r&7]&r to see its &dusages&r."
+				""
+				"The &3right pane&r shows what you can craft right now. &6Click&r an item to add it to the workstation. &6CTRL+Click&r to craft it instantly."
+				""
+				"Press &7[&r&6CTRL+F&r&7]&r to search up items and blocks instead. &6Click&r to see recipes, or &6Right-Click&r to see usages."
+			]
 			disable_toast: true
-			x: -1.5d
-			y: 2.0d
-			shape: "square"
-			subtitle: "Keep track of things!"
-			description: [
-				"Press §nN§r at any time to access the Notes menu."
-				""
-				"Here you can take notes to help remember what you're up to, points of interest, and more!"
-			]
-			dependencies: ["7840EB3C8B8048EF"]
 			hide: true
-			id: "2B3376C79B6DB1C5"
-			tasks: [{
-				id: "164B9DCDA58586E1"
-				type: "checkmark"
-				title: "Click Here!"
-			}]
-		}
-		{
-			title: "EMI"
-			icon: {
-				id: "minecraft:enchanted_book"
-				Count: 1b
-				tag: {
-					StoredEnchantments: [{
-						id: "minecraft:luck_of_the_sea"
-						lvl: 3s
-					}]
+			icon: "minecraft:crafting_table"
+			id: "438625063C95601F"
+			rewards: [{
+				id: "12ED530D4B5BB824"
+				item: {
+					Count: 1b
+					id: "minecraft:leather_boots"
+					tag: {
+						Damage: 0
+					}
 				}
-			}
-			disable_toast: true
-			x: -3.0d
-			y: 3.0d
-			shape: "square"
-			subtitle: "In-Game Wiki Part 2 through ∞"
-			description: [
-				"EMI provides an in-game wiki for how to find or acquire almost any item in the game."
-				""
-				"In any inventory, you can hover over an item and press §nR§r (recipe) to find out how to make or find it"
-				""
-				"You can also press §nU§r (usages) to find out what you can craft an item into."
-				""
-				"Additionally, EMI provides a searchable pane of every item, shown on the right of the screen. Press §nCTRL+O§r to toggle this at any time."
-				""
-				"§nR§r and §nU§r can be used here, or left and right clicking, respectively."
-				""
-				"By clicking the crafting table icon in the bottom right, EMI will instead show craftable §oRecipes§r - §nClick§r or §nShift+Click§r will then place the recipe into the crafting grid."
-			]
-			dependencies: ["3370C1D403E805EE"]
-			id: "393F164200CAC675"
-			tasks: [{
-				id: "29C23CC02A755D6D"
-				type: "checkmark"
-				title: "Click Here!"
+				type: "item"
 			}]
-		}
-		{
-			title: "Origins"
-			icon: "origins:orb_of_origin"
-			disable_toast: true
-			x: 3.0d
-			y: 0.0d
-			shape: "square"
-			subtitle: "It's free species :)"
-			description: [
-				"Origins provides a system for gaining various attributes, advantages, and disadvantages based on an §oOrigin§r"
-				""
-				"This pack uses custom, simpler origins. You can also choose a §oStature§r, affecting your character's size."
-				""
-				"Some origins have active abilities, bound to §nG§r and §nH§r - press §nALT+O§r any time to review your origin."
-			]
-			dependencies: ["227C88C00E509DAD"]
-			hide: true
-			id: "1FE5F243E8C8329E"
+			shape: "octagon"
+			subtitle: "Mining *and* Crafting"
 			tasks: [{
-				id: "2B53462C6E1880B8"
-				type: "checkmark"
+				disable_toast: true
+				id: "2797C82C4C23C124"
 				title: "Click Here!"
+				type: "checkmark"
 			}]
-		}
-		{
-			title: "Quests"
-			icon: "ftbquests:barrier"
-			disable_toast: true
+			title: "Crafting Controls"
 			x: 0.0d
 			y: -3.0d
-			shape: "octagon"
-			subtitle: "Literally what is this screen"
-			description: [
-				"Welcome to Quests! This is a system supplied by §oFTB Quests§r and filled out specifically for this modpack."
-				""
-				"Quests are similar to achievements in other games, but they have a specific order, as well as providing rewards."
-				""
-				"Here they provide direction - You'll see features of the game you've maybe never delved into, and get information on the fine details of minecraft and this pack."
-			]
+		}
+		{
 			dependencies: ["15402DCFAC7CC56A"]
-			hide: true
-			id: "71F61BF18E54FCCE"
-			tasks: [{
-				id: "2D6C6B3CC2F0EBFF"
-				type: "checkmark"
-				title: "Click Here!"
-			}]
-		}
-		{
-			title: "Quest Legend"
-			icon: "ftbquests:missing_item"
-			disable_toast: true
-			x: 0.5d
-			y: -4.5d
-			shape: "square"
-			subtitle: "Symbols for Nerds"
 			description: [
-				"Rounded Rectangles - 'Entry' quests. Starts a sequence of other quests."
+				"&7[Apathy]&r On &3Easy Difficulty&r, mobs &dwill not attack you&r unless you attack them first - including guard mobs and bosses. On Normal and above servers, type &6/apathy set join neutral&r to enable this for just you."
 				""
-				"Squares - 'Info' quests. They usually have no tasks but a checkmark and (usually) no rewards."
+				"&7[YIGD]&r On death, a &3Grave&r will be placed that &dcontains your items&r. Simply &6Right-Click&r the grave to restore them. When respawning, you'll receive a &3Compass&r that points to your grave."
 				""
-				"Octagons - Info quest pack. Shows more info quests when completed."
+				"&7[SaveThePets]&r You can't accidentally hit your tamed animals like &aHorses&r or &aWolves&r. On death, tamed animals drop a note that, when used on a &3Copper Block&r, will &drevive&r them. "
 				""
-				"Circles - Standard quests."
+				"&7[Pettable]&r Animals can be pet with &6Middle-Click&r to &drestore some health&r."
 				""
-				"Pentagons - 'Feat'/'Diety' Quests. A crowning achievement in the game, with hefty rewards."
-				""
-				"Hexagons - 'Special Interest' quests. An opportunity to dive into a niche mechanic. Might have sub-quests."
-				""
-				"Triangles - Optional quests. Bugged."
+				"&7[HorseBuff/Fabrication]&r Saddled &aHorses&r &dwill not wander&r from where they're left. &6Sneak+Right-Click&r to unsaddle mobs."
 			]
-			dependencies: ["71F61BF18E54FCCE"]
-			hide: true
-			id: "17EA8F543FBC7A6B"
-			tasks: [{
-				id: "44259D76A7BD8554"
-				type: "checkmark"
-				title: "Click Here!"
-			}]
-		}
-		{
-			title: "Category Legend"
-			icon: "minecraft:bookshelf"
 			disable_toast: true
-			x: -0.5d
-			y: -4.5d
-			shape: "square"
-			subtitle: "Categorization for Nerds"
-			description: [
-				"The quest screen has a pinnable left pane - hover over the left side of the screen to see it."
-				""
-				"§l§nInformation§r: Modpack Information. §oIntroduction§r covers the main features, while §oDiscrepancies§r covers slight differences."
-				""
-				"§l§nThe Basics§r: Gearing up to play, Nether progression, and End progression."
-				""
-				"§l§nGodseeking§r: Dive further into the game's mechanics, and be rewarded by their patrons."
-				""
-				"§lHomesteading§r: Building Bases, Workshops and Mechanisms, Farming, and Modes of Transport."
-				""
-				"§lSelf-Defense§r: All aspects of combat, down to the most niche."
-				""
-				"§lExploration§r: Places to go, Things to see, Villagers to meet."
-			]
-			dependencies: ["71F61BF18E54FCCE"]
-			hide: true
-			id: "3BACF138C63C57B9"
+			icon: "minecraft:structure_void"
+			id: "7DCD80F80208292A"
+			shape: "octagon"
+			subtitle: "Apathy, Graves, and Pets"
 			tasks: [{
-				id: "700E335DABA81566"
-				type: "checkmark"
-				title: "Click Here!"
 				disable_toast: true
+				id: "13A47D4ACD23046E"
+				title: "Click Here!"
+				type: "checkmark"
 			}]
+			title: "Difficulty Changes"
+			x: -1.5d
+			y: -2.0d
 		}
 		{
-			title: "Origin swaps for Systems"
-			icon: "origins:orb_of_origin"
-			disable_toast: true
-			x: 4.0d
-			y: -0.5d
-			shape: "gear"
-			subtitle: "bc y'know euphoria or whatever"
+			dependencies: ["15402DCFAC7CC56A"]
 			description: [
-				"§oSwitchy§r still requires a way to change origins for each new profile, so here's an §oOrb of Origin§r - which does just that. Click the checkbox again to receive another."
+				"&7[Tinkerer's Quilt]&r There are alternative recipes for &dLeather, Slimeballs, and Glow Ink Sacs&r that don't require killing their respective mobs. &dArrows&r can also be scavenged from &cskeletons&r."
 				""
-				"Utilize these with §oSwitchy§r to have one origin per profile"
+				"&7[Fabrication]&r Villagers will &drotate their stock every day&r: You're more likely to see special items, but &dcan't buy them infinitely&r."
+				""
+				"&7[Tinkerer's Smithing]&r There are recipes to &dupgrade&r equipment to better materials at the &3Smithing Table&r - or the &3Crafting Table&r for &3unenchanted&r gear."
+				""
+				"There are also matching recipes to &drepair&r equipment at the &3Anvil&r or the &3Crafting Table&r, costing no experience or work."
+				""
+				"Additionally, equipment that with an &3enchantment&r or a custom name can be &drepaired after it breaks&r"
+				""
+				"Finally, equipment can be &dde-worked&r one stage using &3Netherite Scrap&r at an &3Anvil&r, making adding enchantments &dcost less experience&r."
 			]
-			dependencies: ["1FE5F243E8C8329E"]
-			optional: true
-			id: "28721A928E53EFE4"
+			disable_toast: true
+			icon: "minecraft:smithing_table"
+			id: "00BF3119EB22417C"
+			shape: "octagon"
+			subtitle: "Sentimentality and Vegetarianism"
 			tasks: [{
-				id: "70AAE40641A21AE7"
-				type: "checkmark"
+				disable_toast: true
+				id: "47D97349DBC5E67F"
 				title: "Click Here!"
+				type: "checkmark"
 			}]
-			rewards: [
-				{
-					id: "0FC010DA675D28F9"
-					type: "item"
-					auto: "enabled"
-					item: "origins:orb_of_origin"
-				}
-				{
-					id: "0D8C55F794F90741"
-					type: "command"
-					title: "Repeatable Quest"
-					icon: "ftbquests:book"
-					team_reward: false
-					auto: "invisible"
-					command: "/ftbquests change_progress @p reset 28721A928E53EFE4"
-					player_command: false
-				}
-			]
+			title: "Crafting Rebalance"
+			x: 1.5d
+			y: -2.0d
 		}
 		{
-			title: "Portable Crafting Standalone"
-			icon: "minecraft:crafting_table"
-			disable_toast: true
-			x: -3.0d
-			y: 0.0d
-			shape: "square"
-			subtitle: "I made this :)"
 			description: [
-				"Portable Crafting Standalone allows you to open the crafting grid anywhere, as long as you have a crafting table in your inventory."
+				"&2&lWorld Interaction&r"
 				""
-				"Just press §nV§r and get Crafting!"
+				"&7[Fabrication]&r "
+				"&3Block&r drops are picked up instantly."
+				"&3Cactus&r doesn't delete items."
+				"The void deals damage and recalls you."
+				"&3Campfires&r must be lit."
+				"&3Obsidian&r breaks faster."
+				"Filling &3Bottles&r provides air."
+				"&3Cactus Blocks&r don't hurt with armor."
+				"&3Bushes&r don't hurt with armor/sneaking."
+				"&cEndermen&r and &cCreepers&r don't grief."
+				"&aVillagers&r follow &3Emerald Blocks&r."
+				"&cSpiders&r can't climb &3Glazed Blocks&r, or when wet."
+				"&cCreepers&r can't climb &3Ladders&r/&3Vines&r."
+				"Water sources spread more easily."
+				"&3Water Cauldrons&r can evaporate."
+				"No random lava in the nether."
+				"&2Void&r damages and recalls."
+				""
+				"&7[Carpet]&r "
+				"&3Nether portals&r move players faster."
+				"&3Chorus Fruit&r resets fall damage."
+				"&cSpider Jockeys&r can drop &3Enchanted Golden Apples&r"
+				""
+				"&7[CleanCut]&r Enemies can be &dattacked through grass&r."
+				"&7[Couplings]&r &3Double doors&r move together."
+				"&7[Coyote Time]&r Jumping is more lenient."
+				"&7[Leaves Us In Peace]&r &3Leaves&r decay faster."
+				"&7[YIGD]&r 5% &3experience&r is lost on death."
+				"&7[SnowUnderTrees]&r &3Snow&r generates under trees."
+				"&7[DualRide]&r &aHorses&r seat two players."
+				"&7[VehicleFix]&r Mounted players collide properly."
+				""
+				"&7[BoringDefaultGameRules]&r"
+				"&cPhantoms&r do not spawn. &7(/gamerule doInsomnia)&r"
+				"&cWardens&r do not spawn. &7(/gamerule doWardenSpawning)&r"
+				"{@pagebreak}"
+				"&2&lInterfaces&r"
+				""
+				"&7[Fabrication]&r  "
+				"Chat §o*italics*§r*, §l**bold**§r, ~~§mstrike§r~~."
+				"Old commands still work."
+				"&3Maps&r show their number."
+				"Important enchantments show a letter."
+				""
+				"&7[Appleskin]&r &3Hunger bar&r shows saturation."
+				"&7[Enhanced Attack Indicator]&r The &3attack indicator&r shows various progresses."
+				"&7[Status Effect Timer]&r &3Status effects&r show their remaining time."
+				"&7[MCWifiPnP]&r The &3open to LAN&r button works for online play (most networks)."
+				"&7[CrunchyAdvancements]&r &3advancements&r are hidden."
+				"&7[Crowmap]&r &3Maps&r fill from the inventory."
+				"&7[NoRecipeBook]&r The &3Recipe Book&r is hidden."
+				""
+				"{@pagebreak}"
+				"&2&lFarming&r"
+				""
+				"&7[Fabrication]&r "
+				"&3Bone Meal&r can grow &3Moss Carpet&r."
+				"Farms are &dtrample-resistant&r."
+				"&3Dragon Eggs&r always spawn and are breakable."
+				""
+				"&7[Carpet]&r"
+				"&3Bone Meal&r grows &3Sugarcane&r, &3Cactus&r, &3Lily Pads&r, and &3Coral&r."
+				"&3Blaze Powder&r grows &3Nether Wart&r."
+				"&3Blackstone&r generates instead of &3Basalt&r above &3Soul Sand&r."
+				"&3Deepslate&r can generate from water and lava &7(below y:0)&r."
+				"&cGuardians&r turn into &cElder Guardians&r when struck by lightning."
+				"&aClerics&r farm &3Nether Wart&r."
+				""
+				"&7[ChickensShed]&r &aChickens&r occasionally drop &3Feathers&r."
+				"&7[FeedTheBees]&r &aBees&r don't die from stinging, and can be healed with &3Sugar&r."
+				"&7[FishingReal]&r &aFish&r are reeled alive."
+				"&7[RightClickHarvest]&r &3Hoes&r harvest and replant on &7[&r&6Right-Click&r&7]&r."
+				"{@pagebreak}"
+				"&2&lEquipment&r"
+				""
+				"&7[Fabrication]&r "
+				"&3Infinity&r doesn't need &3Arrows&r."
+				"&3Impaling&r works on wet mobs."
+				"&3Tridents&r get &3Power&r and &3Sharpness&r."
+				"&3Feather Falling V&r redirects all damage."
+				"&3Soul Speed&r doesn't damage boots."
+				"&3Infinity&r on &3Crossbows&r."
+				"&3Arrows&r travel faster underwater."
+				"&3Channeling II&r works in rain."
+				"&3Bundles&r can fit 8 tools."
+				"&3Loyalty Tridents&r return from voids."
+				"&3Anvils&r aren't damaged by use."
+				""
+				"&7[TaxFreeLevels]&r &3Experience&r costs are normalised, including &3renaming&r."
+				"&7[EasierEnchanting]&r &3Enchanting Tables&r can be rerolled for 6 &3Lapis Lazuli&r."
+				"&7[ShieldLib]&r &3Shields&r can be table enchanted."
+				"&7[Tinkerer's Smithing]&r Equipment combine cost is order-agnostic."
+				"{@pagebreak}"
+				"&2&lMachines&r"
+				""
+				"&7[Fabrication]&r "
+				"&3Minecarts&r are silent."
+				"&3Furnace Carts&r are efficient and fast, can be pushed, and load chunks."
+				"&3Chest Carts&r don't slow down when full."
+				"&3Magenta Terracotta&r can make &3Powered Rails&r and &3Detector Rails&r directional."
+				"&3Comparators&r work on &3Powered Rails&r."
+				"&3Furnace&r output slots give &3experience&r."
+				"&3Note Blocks&r work from any side, tune to &3Stick&r stacks, and tune down when sneaking."
+				"&3Wool&r silences functional mechanisms."
+				""
+				"&7[Carpet]&r"
+				"&3Cactus&r rotates blocks with &7[&r&6Right-Click&r&7]&r"
+				"&3Dispensers&r do more things &7(see Homesteading: Mechanisms)&r."
+				"&3Hopper Carts&r can insert, and delay like &3Hoppers&r."
+				"&3Chains&r link blocks when pushed."
+				"Allow &3Piston&r double-retraction."
+				"Non-positional &3Redstone Dust&r."
+				"&3Repeaters&r don't miss quick pulses."
+				""
+				"&7[ClickThrough]&r &7[&r&6Sneak&r&7]&r to interact with &3Item Frames&r and &3Signs&r on chests"
 			]
-			dependencies: ["7840EB3C8B8048EF"]
-			hide: true
-			id: "438625063C95601F"
+			disable_toast: true
+			icon: "minecraft:writable_book"
+			id: "1474F51D2832FCD5"
+			shape: "octagon"
+			subtitle: "You don't have to read this."
 			tasks: [{
-				id: "2797C82C4C23C124"
-				type: "checkmark"
+				disable_toast: true
+				id: "2B6CD287B75CD676"
 				title: "Click Here!"
+				type: "checkmark"
 			}]
+			title: "Vanilla Discrepancies"
+			x: 0.0d
+			y: 3.0d
 		}
 	]
+	title: "Introduction"
 }
