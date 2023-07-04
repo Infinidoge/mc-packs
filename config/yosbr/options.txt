@@ -1,6 +1,10 @@
 version:3120
 resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix"]
 autoJump:false
+fullscreen:false
+darkMojangStudiosBackground:true
+key_key.sneak:key.keyboard.left.shift
+key_key.sprint:key.keyboard.r
 key_[Fabrication] Toggle Stance:key.keyboard.z
 key_key.advancements:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.m
