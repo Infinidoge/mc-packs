@@ -4,230 +4,158 @@ This is my modified version of TQuilt with some minor additions.
 The more 'weighty' additions will be seen on the Plus/Modded branches.
 Just in case things get upstreamed somehow, I'm trying to maintain the version differences between Base/Plus/Modded.
 
-<center><img alt="Tinkerer's Quilt banner" src="https://user-images.githubusercontent.com/55819817/207277584-6cd91492-0fc6-4cae-9155-f278ea6c7847.png" />
-<b>Tinkerer's Quilt</b> (TQuilt) is a minecraft modpack by Kapesi, Clawby, Herrah and Le'mer.<br/>
-It focuses on <b>Vanilla Gameplay</b>, <b>Accessibility</b>, <b>Discoverability</b>, <b>QoL</b>, and <b>Player Expression</b>.<br/><br/>It's built on Quilt, and has Modrinth and Packwiz releases. Check out the <b>Installation</b> section below.</center>
-
----
-
-Tinkerer's Quilt is _vanilla world compatible_, with **no new items, blocks, or worldgen**.
-
-Instead, this modpack:
-
-- **Guides players through vanilla** with in-game quests and info - no wiki required.
-- **Enhances game Quality of Life** improvements for accessibility and smoother gameplay.
-- **Makes the game easier** with simplified gear crafting, reduced death penalty, and helpful quest rewards.
-- **Encourages player expression** with better skins, origins, and more ways to build.
-
-TQuilt is not a client or minimalist pack! It has ~120 mods and should be installed on both sides.
+<center><img alt="Tinkerer's Quilt banner" src="https://cdn.modrinth.com/data/vrkQdo9Y/images/8088722fdded8e265ca038739b4a5605c6dfb1d4.png" />
+A modpack that adds nothing.<br/>
+Making minecraft smoother, more discoverable, and have the exact same amount of items since 2021.<br/>
+</center>
 
 ---
 
 # Pack Features
 
-<center>
+## No Items, No Blocks, All Service [Vanilla-Compaibility]
 
-## Vanilla Quests
+Tinkerer's Quilt is **Vanilla Compatible** - It doesn't add any new blocks items, or world features.
 
-</center>
-<details>
-<summary>Click to Expand</summary><center>
+It's still a **mixed-side** modpack - it needs to be **installed on both the client and any servers** you connect to.
 
-**_"It's like FTB Academy for Vanilla!"_** - Us, just now
+If you want to play with Tinkerer's Quilt's tweaks on servers with vanilla players, try [Tinkerer's Silk](https://modrinth.com/modpack/tinkerers-silk/gallery).
 
-TQuilt's quests guide players through the core progression of minecraft, and explore its main gameplay opportunities.
+## A Playable Minecraft Wiki [Vanilla Quests]
 
-### The Basics
-
-<img width="425" height="260" src="https://user-images.githubusercontent.com/55819817/174097642-a5949541-b8e6-419b-bbfe-b3e4ecf90be8.png"><img width="325" height="260" src="https://user-images.githubusercontent.com/55819817/174098114-c5630f29-efaa-4473-9eb4-e53c4325f002.png">
-
-_The Basics_ covers core game progression - Simple quests with clear instructions, all the way to Beacons and Elytra.
-
-### Godseeking
-
-Explore the main mechanics and content of Vanilla, categorised by **Homesteading**, **Self-Defense**, and **Exploration**.  
-Do you want to...<br/>
-
-⚔️ Know every weapon and kill every enemy?<br/>
-🏠 Make bases in many environments?<br/>
-🌾 farm anything and everything, including crops?<br/>
-🗺️ Explore the world and what's found there?<br/>
-🛠️ Craft the best gear in your own workshop?<br/>
-🛣️ Build transit infrastructure and achieve ludicrous speed?<br/>
-⚙️ Make terrifyingly complex machines and mechanisms?
-
-_Godseeking_ will guide you through it like an in-game wiki.  
-Here's the Homesteading category with all quests hacked to be visible, as an example of scope:
-
-![godseeking_homesteading](https://user-images.githubusercontent.com/55819817/207265090-0cc4dd88-07b5-492c-81ef-0cf85f5cba68.png)
-
-These quests can help players discover these parts of the game, and have rewards to provide helpful shortcuts.  
-Complete all quests of a special interest to complete its **Patron Quest** for normally unobtainable rewards!
-
-### Information
-
-<img width="380" height="400" src="https://user-images.githubusercontent.com/55819817/174103926-52a741ac-6d36-44e4-8153-be5fb7aff6c1.png"><img width="380" height="400" src="https://user-images.githubusercontent.com/55819817/174105386-7985c35c-fc25-4d8b-bb5a-724d55a7ebf7.png">  
-Quests are also home to information about the pack itself, as a helpful reference guide - no need to read this page!  
-**Introduction** quests cover's the pack's main features, while **Discrepancies** quests helps players know what isn't vanilla.
-
-</center>
-</details>
-
-<center>
-
-## Homebrew
-
-</center>
+Tinkerer's Quilt adds **166 quests** that help players explore minecraft.<br/>
+From **basic game progression** to **niche mechanics** like mechanisms, building furniture, and **using beds as weapons**.
 
 <details>
-<summary>Click to Expand</summary><center>
+<summary>Click to show Quest Previews</summary>
 
-This modpack started in January 2021 as a skyrim-style "modding guide" - just throwing mods together and configuring them lightly.
+#### The Basics - Overworld, Nether, End<br/>
 
-But it quickly took shape when we realized people often struggle to get past the first half-hour of the game.
+![Quests: The Basics](https://cdn.modrinth.com/data/vrkQdo9Y/images/9093fe651282b211fb41a564e397ad56f39d15c1.png)
 
-Turns out if you want a modpack to feel cohesive, feel good, and match a vision - you need to get your hands dirty.
+#### Homesteading - Transport, Housing, Farming (Renewables), Workshopping (Mechanisms)
 
-We made **six mods**:
+![Quests: Homesteading](https://cdn.modrinth.com/data/vrkQdo9Y/images/5f5b0a4862a17bbce88b14ff54823a0619c4840c.png)
 
-[Portable Crafting Standalone](https://modrinth.com/mod/portable-crafting-standalone) - Press V or click a tab to use the crafting table in your inventory.<br/>
-[Totem Anywhere Standalone](https://modrinth.com/mod/totem-anywhere-standalone) - Totem of undying convenience - uses totems from inventory.<br/>
-[Crunchy Crunchy Advancements](https://modrinth.com/mod/crunchy-crunchy-advancements) - Hides and removes advancements - quests and [EMI](https://modrinth.com/mod/emi) cover all you need.<br/><br/>
-[Tinkerer's Statures](https://modrinth.com/mod/tinkerers-statures) - Allows choosing player height on spawn.<br/>
-![screenshot](https://user-images.githubusercontent.com/55819817/174215100-2b630688-8ef5-4429-b82e-9516c132915a.png)<br/><br/>
-[Origins Minus](https://modrinth.com/mod/origins-minus) - A full set of origins optimised for simplicity, not balance.<br/>
-![originsminus_transparent](https://user-images.githubusercontent.com/55819817/207250617-c4d83703-817c-47b7-8ddf-d2e915807df4.png)<br/><br/>
-[Tinkerer's Smithing](https://modrinth.com/mod/tinkerers-smithing) - Repair for no XP cost, lower repair cost with scrap, and upgrade tool materials.<br/>
-![tinkerers-smithing-banner](https://user-images.githubusercontent.com/55819817/207277119-c8b933ce-1055-4a48-95b6-ad7d83e09b8a.png)<br/>
-_Flattens mending power creep, encouraging players to keep "Sentimental" tools as much as they like._<br/>
-_Tool material upgrades cost the exact same as a fresh tool - but keep the enchantments._<br/>
-_Quicker tools with less junk - upgrade wood to stone to iron from the 2x2 crafting grid._<br/><br/>
-[Switchy](https://modrinth.com/mod/switchy) - Change your origin, skin, and more between presets with a single command.
-![switchy banner](https://user-images.githubusercontent.com/55819817/207276993-bd723741-8f33-485f-8495-2961007b7e89.png)<br/><br/>
+#### Self-Defense - Armaments, Challenges, Foes
 
-**Two data packs**:
+![Quests: Self-Defense](https://cdn.modrinth.com/data/vrkQdo9Y/images/c6da473727616e599ba5e2b00bccba73e52e6bd9.png)
 
-[Tinkerer's Vegetarian](https://github.com/sisby-folk/mc-packs/tree/quilt_1.19.2/config/openloader/data/tinkerers_vegetarian) (NBT) - recipes for potions, leather, books, and more, without killing passive mobs.<br/>
-[Tinkerer's Copper Beacons](https://github.com/sisby-folk/mc-packs/tree/quilt_1.19.2/config/openloader/data/tinkerers_copper_beacons) - Allows beacons made of unexposed copper blocks. A use for copper and wax.<br/>
+#### Exploration - Wanderer, Sightseer, Naturalist
 
-**194 quests**:<br/>
+![Quests: Exploration](https://cdn.modrinth.com/data/vrkQdo9Y/images/d53599b09dd8b70e7dbbee1d36fc7f2da2fe5dc8.png)
 
-just as much flavour text - queer humour, observations, and a weird mix of references.<br/>
-1074 lines of quest descriptions - tutorials, explanations, and so on.<br/>
-Meticulously symmetrical and grouped quest positioning. No, really.<br/>
-
-**And of course, configured ~125 mods:**
-
-You know - removing feature overlap, rebalancing mods,<br/>rebalancing vanilla via tweak mods. (Shoutouts to Fabrication and Apathy)<br/>
-Ruining everyone's life by shipping a default `options.txt` file.<br/>
-PR'ing improvements to mods. (_does it count as configuration if you apply it directly to the source code?_)<br/>
-Reporting bugs to devs. (_does it count as configuration if you "configure" the mod to work better by asking nicely?_)<br/>
-
-</center>
 </details>
 
-<center>
+| Relevant Mod                                                                             | Summary                                          |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 🛠️ [Crunchy Crunchy Advancements](https://modrinth.com/mod/crunchy-crunchy-advancements) | Removes advancements so you can focus on quests. |
 
-## Headliner Mods
+## My Other Modpack Description Is A Quest [In-Game Documentation]
 
-</center>
-<details>
-<summary>Click to Expand</summary><center>
+Tinkerer's Quilt has all the information you need to know about the pack **in-game**.
 
-All present minecraft modding is built on a decade of work from other people (and non-people, we don't discriminate).
+No wiki, nothing - you **don't even need to read this whole description**.
 
-Here's what others are bringing to this pack.
+Most of the information is available in the **Introduction Quest Category**:
+![Quests: Introduction](https://cdn.modrinth.com/data/vrkQdo9Y/images/54e0e54c3c6097660e3810a7d7149ccd503c6af1.png)
 
-### Player Expression
+| Relevant Mod                                             | Summary                                                             |
+| -------------------------------------------------------- | ------------------------------------------------------------------- |
+| [EMI](https://modrinth.com/mod/emi)                      | An advanced recipe book for learning how to craft and use any item. |
+| [What The Hell Is That?](https://modrinth.com/mod/wthit) | Hold alt to see information on the block or mob you're looking at.  |
+| 🛠️ [PicoHUD](https://modrinth.com/mod/picohud)           | Hold alt to see your location, direction, and the in-game time.     |
 
-Letting players express themselves with player customisation, builds, and even farming and cooking, is core to TQuilt.
+## Smooth As Butter [Game Rebalancing / QoL]
 
-| Mod                                                               | Description                                                                                      |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [Ears](https://ears.unascribed.com/)                              | Improved skins with support for tails, horns, ears, claws, wings and more species/gender things! |
-| [Fabric Tailor](https://modrinth.com/mod/fabrictailor)            | Swap your skin in-game. Great for plural systems.                                                |
-| [Origins](https://modrinth.com/mod/origins)                       | Choose an _Origin_, with abilities, limitations, and maybe some euphoria (we don't know you)     |
-| [Drogtor](https://github.com/unascribed/Drogtor)                  | Change player name, color, and bio (e.g. pronouns) any time.                                     |
-| [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Footstep audio redone - allows swapping between bi/quadrupedal, with winged options.             |
-| [Fabrication](https://modrinth.com/mod/fabrication)               | A huge tweak mod, includes hiding armor and improvements for minecart networks.                  |
-| [Carpet](https://github.com/gnembon/fabric-carpet)                | Many server tweaks, includes more uses for dispensers, and more regrowables.                     |
+Tinkerer's Quilt focuses rebalancing on making the game accessible to more people, but also taking the sting out of **frustrating parts of vanilla**.
 
-### Usability and Accessibility
+It's not just about making the game easier - with annoyances alleviated in death, movement, and equipment mechanics, more experienced players can **crank the difficulty** and have a blast!
 
-| Mod                                                                    | Description                                                                        |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [EMI](https://modrinth.com/mod/emi)                                    | An advanced recipe book for learning how to craft and use any item.                |
-| [What The Hell Is That?](https://modrinth.com/mod/wthit)               | Hold alt to see information on the block or mob you're looking at.                 |
-| [Notes](https://www.curseforge.com/minecraft/mc-mods/notes-fabric)     | Allows players to take in-game notes about their plans, locations to revisit, etc. |
-| [Reacharound](https://modrinth.com/mod/reacharound)                    | Build midair bridges without sneaking, and even downwards stairs.                  |
-| [Project: Save The Pets!](https://modrinth.com/mod/projectsavethepets) | Prevents pet harm and adds a pet revival system.                                   |
-| [Horse Buff](https://modrinth.com/mod/horsebuff)                       | Improves and protects horses, making them easier to take out on adventures.        |
-| [Fabrication](https://modrinth.com/mod/fabrication)                    | A multitude of minor improvements, such as automatic block pickup and crawling.    |
-| [You're In Grave Danger](https://modrinth.com/mod/yigd)                | Leaves a grave on death with your items and XP that won't de-spawn.                |
-| [Apathy](https://modrinth.com/mod/apathy)                              | Mobs are neutral on easy difficulty, and will only attack you if provoked.         |
+| Relevant Mod                                                                  | Summary                                                                            |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [Apathy](https://modrinth.com/mod/apathy)                                     | Mobs are neutral on easy difficulty, and will only attack you if provoked.         |
+| [You're In Grave Danger](https://modrinth.com/mod/yigd)                       | Leaves a grave on death with your items and XP that won't de-spawn.                |
+| 🛠️ [Tinkerer's Smithing](https://modrinth.com/mod/tinkerers-smithing)         | Repair, upgrade, and maintain your favourite tools.                                |
+| [Project: Save The Pets!](https://modrinth.com/mod/projectsavethepets)        | Prevents pet harm and adds a pet revival system.                                   |
+| [Horse Buff](https://modrinth.com/mod/horsebuff)                              | Improves and protects horses, making them easier to take out on adventures.        |
+| [Reacharound](https://modrinth.com/mod/reacharound)                           | Build midair bridges without sneaking, and even downwards stairs.                  |
+| [Fabrication](https://modrinth.com/mod/fabrication)                           | A multitude of minor improvements, like automatic block pickup and crawling.       |
+| [Noteable](https://modrinth.com/mod/noteable)                                 | Allows players to take in-game notes about their plans, locations to revisit, etc. |
+| 🛠️ [Portable Crafting](https://modrinth.com/mod/portable-crafting-standalone) | Open the crafting table from your inventory.                                       |
 
-### Visuals
+## Three Demons, Two Lizards, a Bug, and a Fish all walk into a Bar [Character Customization]
 
-| Mod                                       | Description                                                                                                                                                                                                                                          |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Sodium](https://modrinth.com/mod/sodium) | Present-day holy grail of performance mods.                                                                                                                                                                                                          |
-| [Iris](https://modrinth.com/mod/iris)     | Optifine-compatible shaders. We recommend [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders) or [Super Duper Vanilla](https://www.curseforge.com/minecraft/customization/super-duper-vanilla-shaders/files/). |
-| [Lucium](https://modrinth.com/mod/lucium) | Improvements to Fancy graphics.                                                                                                                                                                                                                      |
+Tinkerer's Quilt **Encourages player expression** with better skins, origins, and more ways to build.
 
-</center>
-</details>
+| Relevant Mod                                                      | Summary                                                                                                                                                         |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Ears](https://ears.unascribed.com/)                              | Skins with tails, horns, ears, claws, wings and more!                                                                                                           |
+| [Fabric Tailor](https://modrinth.com/mod/fabrictailor)            | Swap your skin in-game.                                                                                                                                         |
+| 🛠️ [Drogstyle](https://modrinth.com/mod/drogtor)                  | Change player name, color, and bio (e.g. pronouns) any time.                                                                                                    |
+| 🛠️ [Switchy](https://modrinth.com/mod/switchy)                    | Swap between player profiles with names, skins, or even inventories!                                                                                            |
+| [Origins](https://modrinth.com/mod/origins)                       | Choose an _Origin_, with abilities and limitations.                                                                                                             |
+| 🛠️ [Origins Minus](https://modrinth.com/mod/origins-minus)        | Simple origins with fun abilities!                                                                                                                              |
+| 🛠️ [Tinkerer's Statures](https://modrinth.com/mod/origins-minus)  | Choose your height and size with origins!                                                                                                                       |
+| [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Footstep audio redone - allows changing footstep gait for quadrupeds/etc.                                                                                       |
+| [EmoGG](https://modrinth.com/mod/emogg)                           | Allows emoji in chat, including discord [twemoji](https://github.com/twitter/twemoji), [Mothcharm's nice emoji](https://mothcharm.carrd.co/#emoji), and extras. |
+| [Fabrication](https://modrinth.com/mod/fabrication)               | A huge tweak mod, includes hiding armor and improvements for minecart networks.                                                                                 |
+| [Carpet](https://github.com/gnembon/fabric-carpet)                | Many server tweaks, including mechanism and renewable expansions.                                                                                               |
+
+## Pretty Pretty [Visuals]
+
+Tinkerer's Quilt is just as opinionated about visuals as it is about everything else - it includes various visual tweaks and improvements for clarity, performance, and often just plain aesthetic!
+
+In addition to the below, Tinkerer's Quilt has support for the majority of optifine-format resource packs, including things like connected textures and custom skyboxes, thanks to [optifine alternative mods](https://lambdaurora.dev/optifine_alternatives/) made by the community.
+
+| Relevant Mod                                                                       | Summary                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Vanilla Tweaks](https://vanillatweaks.net/)                                       | Decaying tools, less obtrusive shields and fire, and minor texture changes.                                                                                                                                                                |
+| [Sodium](https://modrinth.com/mod/sodium)                                          | Client go fast.                                                                                                                                                                                                                            |
+| [Iris](https://modrinth.com/mod/iris)                                              | Allows using shaders like [Complementary](https://modrinth.com/shader/complementary-shaders-v4), [Prismarine](https://github.com/Septonious/Prismarine-Shader), and [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla) |
+| [Xali's Enchanted Books](https://modrinth.com/resourcepack/xalis-enchanted-books)  | Unique textures for enchanted books.                                                                                                                                                                                                       |
+| [Sully's Peeves](https://www.curseforge.com/minecraft/texture-packs/sullys-peeves) | Texture improvements for many everyday blocks and items.                                                                                                                                                                                   |
+
+---
 
 # More Info
 
-<center>
-
 ## Installation
 
-</center>
+### Stable (Modrinth)
 
-<details>
-<summary>Click to Expand</summary>
+Use your modrinth-supporting launcher of choice (e.g. [Prism](https://prismlauncher.org/)) - follow [modrinth instructions](https://docs.modrinth.com/docs/modpacks/playing_modpacks/#multimc-and-prism-launcher), then manually download the mods listed in the [changelog](https://modrinth.com/modpack/tinkerers-quilt/changelog) for your version.
 
-### **Packwiz**
+### Edge (Packwiz)
+
+This pack version auto-updates every launch. Slightly higher chance of experiencing pack-jank.
 
 - Install [Prism Launcher](https://prismlauncher.org/) and [Java 17](https://adoptium.net/temurin/releases/) (on Windows? choose `Windows-x64-JRE-17-.msi`)
   - Alternatively, run `winget install "Prism Launcher"` and `winget install --id EclipseAdoptium.TemurinJRE.17`.
-  - [MultiMC](https://multimc.org/) is also supported.
 - Download Tinkerer's Quilt from the [packwiz downloads page](https://sisby-folk.github.io/mc-packs/).
-- Drag and drop onto an open Prism/MultiMC window, press OK, and double click it to play!
-  - When prompted for optional mods, press OK to continue, or customise to your liking first.
-  - The pack will auto-update on every launch. To disable this, turn off **custom commands** in Edit Instance -> Settings.
+- Drag and drop onto an open Prism window, press OK, and double click it to play!
+  - To disable auto-updates, turn off **custom commands** in Edit Instance -> Settings.
 
-#### **Packwiz Server**
+#### Packwiz Server
 
 - Download the server from the [packwiz downloads page](https://sisby-folk.github.io/mc-packs/).
 - Run the included Quilt Installer, selecting your minecraft version and the latest non-beta loader version.
 - Run the `Update` script to install the pack, then the `Start` script to run the server
 
-### Modrinth
-
-Follow [modrinth instructions](https://docs.modrinth.com/docs/modpacks/playing_modpacks/#multimc-and-prism-launcher), then manually download the mods listed in the [changelog](https://modrinth.com/modpack/tinkerers-quilt/changelog) for your version.
-
-</details>
-
-<center>
-
 ## Full Modlist
 
-</center>
-
 <details>
-<summary>Click to Expand</summary>
+<summary>Click to show List</summary>
 
 ```
 Resource Packs:
     Axolotl Bucket Variants
     Sully's Peeves
+    Vanilla Tweaks
     Varied Connected Bookshelves
     xali's Enchanted Books
 
 Mods:
-    Accurate Maps
     Advancements Debug
     Ambient Environment
     Animatica
@@ -236,19 +164,19 @@ Mods:
     Architectury API
     bad packets
     Balm
-    Better Biome Blend
+    BedrockWaters
     Better End Sky
-    Blanket
     Boring Default Game Rules
     Cardinal Ice Boats
     Carpet Extra
     Carpet-Fixes
     Carpet
     Charmonium
+    ChickensShed
     Chunks fade in
     CIT Resewn
-    CleanCut
-    Client Tweaks (Fabric Edition)
+    ClickThrough
+    Client Tweaks
     Cloth Config API
     Colormatic
     Continuity
@@ -256,43 +184,41 @@ Mods:
     Coyote Time
     Crowmap
     Crunchy Crunchy Advancements
-    Cull Less Leaves
-    DeftuLib
-    Drogtor the Nickinator
-    Dyeable Fishing Lines
+    Drogstyle
+    [Jar/Fork] Dyable Fishing Lines
     Dynamic FPS
     Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
+    EasierEnchanting
     Enhanced Block Entities
     EMI
-    EMI Loot
     EMI Trades
     Enhanced Attack Indicator
     Exordium
-    Fabric Language Kotlin
-    Fabric Shield Lib
     Window Title Changer
     Fabrication
+    Fabric Shield Lib
     Fabric Tailor
     Falling Leaves
     FastOpenLinksAndFolders
+    Feed the Bees
     FerriteCore
-    kennytvs-epic-force-close-loading-screen-mod-for-fabric
-    ForgetMeChunk
+    [Fork/Jar] Fishing Real
     FTB Library (Fabric)
     FTB Quests (Fabric)
     FTB Teams (Fabric)
     Horse Buff
-    Hwyla Addon Horse Info
     Idwtialsimmoedm
     ImmediatelyFast
     Indium
+    [Jar/Fork] Inventory Tabs
     Inspecio
     Iris Shaders
     Item Filters
     Item Model Fix
     JamLib
+    Kaffee's Dual Ride
     Keep My Hand
-    Kiwi 🥝 (Fabric)
+    Kiwi 🥝
     Krypton
     LambdaBetterGrass
     LambDynamicLights
@@ -300,124 +226,116 @@ Mods:
     Leaves Us In Peace
     Lithium
     Lucium
+    Luna Slimes
     Main Menu Credits
     LAN World Plug-n-Play (mcwifipnp)
     Memory Leak Fix
     Mod Menu
     More Culling
     Mouse Wheelie
-    Nbt Crafting
-    No Fade
+    Music Notification
     NoRecipeBook (Fabric)
     Not Enough Animations
     Noteable
     Ok Zoomer
-    Open Loader
+    [Jar/Fork] Origins
     Origins Minus
-    Origins
+    oωo (owo-lib)
     Pehkui
     Pettable
-    Portable Crafting Standalone
+    PicoHUD
+    Portable Crafting
     Presence Footsteps
     Project: Save the Pets!
-    Puzzle
+    QDResLoader
+    Quilt Kotlin Libraries (QKL)
     Quilt Standard Libraries
     Quilt Loading Screen
-    Raised
     Reacharound
     Reese's Sodium Options
-    Reroll
     RightClickHarvest
+    Simple Durability Tooltip
     Simple Fog Control
-    Smooth Boot (Fabric)
+    Skip Transitions
+    Snow! Real Magic! ⛄
+    Snow Under Trees (Fabric)
     Sodium Extra
     Sodium
-    spark
-    Simple Durability Tooltip
     Starlight (Fabric)
     Status Effect Timer
+    Styled Chat
+    Styled Nicknames
     Styled Player List
+    SwingThrough
     Switchy Inventories
-    Switchy Teleport
+    Switchy Proxy
+    Switchy Resource Packs
+    [Jar/Fork] Switchy Teleport
     Switchy
+    SwitchyKit
     Tax Free Levels
-    TieFix
     Tinkerer's Smithing
     Tinkerer's Statures
     Loading Screen Tips
     ToolTipFix
-    Totem Anywhere Standalone
+    Totem Anywhere
     VehicleFix
     Visuality
     WTHIT Plugins
     WTHIT
-    YetAnotherConfigLib
     You're in Grave Danger
     Your Options Shall Be Respected (YOSBR)
 
 Recommended Shader Packs:
     BSL Shaders
-    Complementary Reimagined Shaders
-    Complementary Shaders
+    Builder's QOL Shaders
+    Complementary Reimagined
+    Complementary Shaders v4
     Prismarine Shaders
+    Rethinking Voxels
     Sildurs Enhanced Default Shaders
-    Super Duper Vanilla Shaders
-
-Override mods:
-    fishing-1.2.0.jar
-    illuminations-1.10.8.jar
-    inventorytabs-0.9.0-beta-1.19.x.jar
-    VanillaTweaks_c667075.zip
-    VanillaTweaks_r324798.zip
-
-Data Packs:
-    Tinkerer's Vegetarian
-    Tinkerer's Copper Beacons
+    Solas Shader
+    Super Duper Vanilla
 ```
 
-</details>
-
-<center>
-
-## Alpha Versions
-
-</center>
-
-<details>
-<summary>Click to Expand</summary>
-
-Tinkerer's Quilt is designed to allow players to add their own mods.  
-**Plus** and **Modded** is us giving that a shot - but it's **not ready for release yet**.
-
-**The packwiz version is not save safe. Do not use the auto updater if you are keeping a save.**
-
-- **Plus** is a Vanilla+ extension of base, expanding on **Godseeking**:
-  - **Homesteading** - More farming/ranching, much more cooking, more building blocks, and more decorations.
-  - **Exploration** - More traversal options, new nether/end, new biomes, new structures, and a seasonal world.
-  - **Combat** - Spears, chef's knives, and... compact mechanically propelled halfdoors? Plus new dungeons.
-- **Modded** uses TQuilt as a base for heavy content mods, like [Botania](https://modrinth.com/mod/botania), [Create](https://modrinth.com/mod/create-fabric), [Yttr](https://modrinth.com/mod/yttr), and [Hephaestus](https://modrinth.com/mod/hephaestus).
+If you can't get by without a map mod, try our [fork of Antique Atlas](https://github.com/sisby-folk/AntiqueAtlas/releases/tag/v8.0.1%2Bitemless) without items.
 
 </details>
 
-<center>
+## Afterword
 
-## Special Thanks
+All present minecraft modding is built on a decade of work from other people (and non-people, we don't discriminate).
 
-[Emi](https://github.com/emilyploszaj) ([EMI](https://modrinth.com/mod/emi))  
-[Una](https://github.com/unascribed) ([Fabrication](https://github.com/unascribed/Fabrication), [Ears](https://modrinth.com/mod/ears), [Drogtor](https://github.com/unascribed/Drogtor/), [Yttr](https://modrinth.com/mod/yttr))  
-[Andrew6rant](https://github.com/Andrew6rant) ([Inventory Tabs](https://modrinth.com/mod/inventory-tabs-updated))  
-Quilt Community discord  
-unascribed's guild discord  
-Queer pluralfolk who provided feedback and testing  
-[Bleu](https://twitter.com/bleudrawsthings) (for drawing the Kapesi headshot used in the icon)
+This modpack started in January 2021 as a skyrim-style vanilla+ "modding guide" - and only exists in the form it has today thanks to much help from the community!
 
-### Credits
+### Special Thanks
+
+[Emi](https://github.com/emilyploszaj) ([EMI](https://modrinth.com/mod/emi))<br/>
+[Una](https://github.com/unascribed) ([Fabrication](https://github.com/unascribed/Fabrication), [Ears](https://modrinth.com/mod/ears), [Drogtor](https://github.com/unascribed/Drogtor/), [Yttr](https://modrinth.com/mod/yttr))<br/>
+[Quat](https://github.com/quat1024) ([Apathy](https://modrinth.com/mod/apathy))<br/>
+[Comp500](https://github.com/comp500) ([Packwiz](https://github.com/packwiz/packwiz))<br/>
+[LambdAurora](https://github.com/LambdAurora) ([QSL](https://modrinth.com/mod/qsl), [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass), [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights))<br/>
+[Patbox](https://github.com/Patbox) ([Styled Nicknames](https://modrinth.com/mod/styled-nicknames), [Styled Chat](https://modrinth.com/mod/styled-chat))<br/>
+[Vazkii](https://github.com/Vazkii) ([Bliss](https://www.curseforge.com/minecraft/modpacks/bliss))<br/>
+[Infinidoge](https://github.com/Infinidoge) ([Simple Durability Tooltip](https://modrinth.com/mod/simple-durability-tooltip))<br/>
+Mod contributors and collaborators - [Ampflower](https://github.com/Ampflower), [Pug](https://github.com/MerchantPug), [LemmaEOF](https://github.com/LemmaEOF), [Silver](https://github.com/SilverAndro), [Garden System](https://github.com/HestiMae), [Kat](https://github.com/Bluberry-Kat/), Aquaholic, [Octal](https://modrinth.com/user/Octal), Ami, [Leo](https://github.com/leo60228), Janet, [Jasmine](https://github.com/jaskarth), and also we have walnut memory so probably like a lot of other people lets be honest - [Falkreon](https://github.com/falkreon) probably? you get the picture.<br/>
+More generally - unascribed's guild and its inhabitants<br/>
+The queer pluralfolk who initially tested the pack in early 2022 (you know who you are)<br/>
+[Bleu](https://twitter.com/bleudrawsthings) (for drawing the original Kapesi bust in the icon/banner art)<br/>
+[DuppyPuff](https://www.tumblr.com/duppypuff) (for drawing kapesi used in the new icon/banner art)<br/>
+The many, many other folks who've provided development support and feedback for us and our modding ventures - this project wouldn't be possible without you!
+
+#### License Credits
 
 ```
 Vanilla Tweaks: https://vanillatweaks.net/
 OriginsPlus and Lepus: Dan's Other Clone https://www.youtube.com/c/DansOtherClone
-Effective: https://www.curseforge.com/minecraft/mc-mods/effective
-Illuminations: https://www.curseforge.com/minecraft/mc-mods/illuminations
+Effective: https://modrinth.com/mod/effective
 ```
 
-</center>
+---
+
+<center><b>Packs:</b> <i>Tinkerer's Quilt</i> (<a href="https://modrinth.com/modpack/tinkerers-silk">Silk</a>) - <a href="https://modrinth.com/modpack/switchy-pack">Switchy Pack</a></center>
+<center><b>Mods:</b> <a href="https://modrinth.com/mod/switchy">Switchy</a> - <a href="https://modrinth.com/mod/origins-minus">Origins Minus</a> (<a href="https://modrinth.com/mod/tinkerers-statures">Statures</a>) - <a href="https://modrinth.com/mod/tinkerers-smithing">Tinkerer's Smithing</a></center>
+
+---
