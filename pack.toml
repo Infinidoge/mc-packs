@@ -1,4 +1,4 @@
-name = "Tinkerer's Quilt Plus (1.19)"
+name = "Tinkerer's Quilt Modded (1.19)"
 author = "Sisby folk"
 version = "4.0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "32deaced889725de79c0544604e9c42ea16c2224cc0c2b9c6bf4acc0f38bea68"
+hash = "190efbaab796e130909b39a4ae2979f5db0338ffbc1b197f31bb181d4da4d8bd"
 
 [versions]
 minecraft = "1.19.2"

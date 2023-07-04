@@ -1,0 +1,504 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "yttr"
+	group: "7DB835B4DE75D2B4"
+	icon: "yttr:logo"
+	id: "482C3E0DEE657371"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2983D49DB7507B63"]
+			description: [
+				"&3Yttr&r begins with an unsteady hand, a prototype rifle, too much gunpowder, a diamond-tipped spike, and a hole at the bottom of the world."
+				""
+				"It also begins with &3Yttrium&r."
+			]
+			id: "63E0B5109F75FE08"
+			shape: "rsquare"
+			subtitle: "Smelt an Yttrium Ingot"
+			tasks: [{
+				id: "02B7231CE9C5F1BA"
+				item: "yttr:yttrium_ingot"
+				type: "item"
+			}]
+			title: "Something's Wrong, I Can Feel It"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"&3Raw Gadolonite&r is a &dplentiful source of Iron&r."
+				""
+				"When smelted in a &3Furnace&r, it produces &3Big Iron&r, which can be crafted into many &3Iron Nuggets&r."
+				""
+				"When smelted in a &3Blast Furnace&r, it instead produces &3Yttrium&r."
+			]
+			id: "2983D49DB7507B63"
+			subtitle: "Mine Raw Gadolonite"
+			tasks: [{
+				id: "696B1DFF3A9FB16E"
+				item: "yttr:raw_gadolinite"
+				type: "item"
+			}]
+			title: "The New Strange"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			description: ["&3Brookite&r is a gem that can be used to make tools similar in effectiveness to &3Iron&r tools, but &dmore durable&r."]
+			id: "341A6F174FB8BF50"
+			invisible: true
+			subtitle: "Mine Brookite"
+			tasks: [{
+				id: "3556944E293D3B4D"
+				item: "yttr:brookite"
+				type: "item"
+			}]
+			title: "Harder, Better, Not Faster, The Same."
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["63E0B5109F75FE08"]
+			description: [
+				"Centrifuges can be used to extract both iron and yttrium from &bRaw Gadolonite&r"
+				""
+				"They can also separate useful materials from flowers, coal, cobblestone, and magma cream."
+			]
+			hide: true
+			id: "553B60371B6CB85B"
+			subtitle: "Craft a Centrifuge"
+			tasks: [{
+				id: "6F6397E048B763DF"
+				item: "yttr:centrifuge"
+				type: "item"
+			}]
+			title: "Thunk"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["63E0B5109F75FE08"]
+			description: [
+				"&oA rifle is a precise instrument, one must play in tune, and in time&r"
+				""
+				"An &3Yttric Rifle&r is a &dcharged ranged weapon&r with many firing modes, each consuming a different type of &3reagent&r."
+				""
+				"Each mode has a &dprecise audiovisual timing cue&r to fire at full power without causing a deadly &3overload&r. It's safest to practice in a desolate area while aiming at a &ePower Meter&r, which nullifies shot effects."
+				""
+				"&7[&r&4Warning&r&7]&r The &3Explode&r and &3Void&r modes can &dremove blocks in a large area&r. Type &6/yttr:void_undo by {username}&r to reverse accidental void damage."
+			]
+			hide: true
+			id: "6B602F8EA182727E"
+			rewards: [
+				{
+					id: "158B1328DDF07D5E"
+					item: "yttr:power_meter"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "239FCCD2D660DD1D"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+			]
+			subtitle: "Craft an Yttric Rifle"
+			tasks: [{
+				id: "2056C534B5DBA442"
+				item: "yttr:rifle"
+				type: "item"
+			}]
+			title: "Centripetal-Action"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["63E0B5109F75FE08"]
+			description: [
+				"&6Glowdamp&r can be collected in bottles after crushing a &bShroomlight&r between two &3Yttrium Blocks&r using a piston."
+				""
+				"Glowdamp can be thrown, or crafted into more permanent &6lamps&r. It can also be used to pressurize &3rifle ammunition&r."
+			]
+			hide: true
+			id: "39BC95EE872FA168"
+			subtitle: "Collect Glowdamp"
+			tasks: [{
+				id: "4C7EDA11862EA1AC"
+				item: "yttr:glowing_gas"
+				type: "item"
+			}]
+			title: "Smells Bright"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["63E0B5109F75FE08"]
+			description: [
+				"&3Snares&r can be used to &dtemporarily catch mobs&r."
+				""
+				"Snares can also be used to move &dmove normally immobile blocks&r like &3Chests&r and &3Signs&r."
+				""
+				"Snared mobs can be used to craft various &3Abominations&r - living &dmechanism components&r."
+				""
+				"In order of least to most unsettling "
+				"- &3Skeletal Sorters&r can &dsort items&r, "
+				"- &3Screeper Nests&r can break blocks, "
+				"- &3Transferent Fungus&r can place blocks, "
+				"- &3Aware Hoppers&r can craft recipes you &dcraft in front of them&r."
+			]
+			hide: true
+			id: "3D478C54485BA22C"
+			subtitle: "Craft a Snare"
+			tasks: [{
+				id: "3EDBB91F77D6FAB8"
+				item: "yttr:snare"
+				type: "item"
+			}]
+			title: "Safari Zone"
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"6B602F8EA182727E"
+				"39BC95EE872FA168"
+			]
+			description: [
+				"&4Canisters&r allow you to pack a lot of a single type of ammo into one slot using &6Glowdamp&r."
+				""
+				"They also &9consume less material&r when firing than loose reagents."
+			]
+			hide: true
+			id: "32F0C0E70F786640"
+			rewards: [{
+				id: "62CA4B757D1F5218"
+				item: "yttr:empty_ammo_can"
+				type: "item"
+			}]
+			subtitle: "Craft a Canister Filler"
+			tasks: [{
+				id: "645307A63DB0E6BD"
+				item: "yttr:can_filler"
+				type: "item"
+			}]
+			title: "Overprepared"
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6B602F8EA182727E"]
+			description: [
+				"Breaking bedrock requires a &6high-powered&r, &7explosive&r force be applied to very sturdy &bpoint&r."
+				""
+				"High bedrock can be smashed into valuable shards, consuming the smasher once broken."
+				""
+				"Shards can be used to create advanced materials and equipment."
+			]
+			hide: true
+			icon: "yttr:bedrock_shard"
+			id: "27D1C90CDA884287"
+			subtitle: "Gather a Bedrock Shard"
+			tasks: [
+				{
+					id: "64B8B38DD6B3AB6E"
+					item: "yttr:bedrock_smasher"
+					type: "item"
+				}
+				{
+					id: "47237DDFAC66F2EC"
+					item: "yttr:bedrock_shard"
+					type: "item"
+				}
+			]
+			title: "Unbreakable"
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6B602F8EA182727E"]
+			description: [
+				"Low bedrock can only be broken once. "
+				""
+				"It cannot be unbroken."
+			]
+			hide: true
+			id: "084D1B2B30F0C658"
+			rewards: [{
+				id: "30ED89A5DBC26A75"
+				item: "minecraft:bucket"
+				type: "item"
+			}]
+			subtitle: "Break Low Bedrock"
+			tasks: [{
+				advancement: "yttr:open_geyser"
+				criterion: ""
+				id: "158A4C0DAD0D950C"
+				title: "Break Y-64 Bedrock"
+				type: "advancement"
+			}]
+			title: "What Lies Beneath"
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			description: [
+				"&oEver wondered what keeps those things up?&r"
+				""
+				"&3Drops of Continuity&r can be used to &drecreate useful artifacts&r."
+				""
+				"Pick somewhere to land."
+			]
+			hide: true
+			id: "2D3FC9CF302BF73B"
+			invisible: true
+			subtitle: "Observe a Root of Continuity"
+			tasks: [{
+				icon: "yttr:root_of_continuity"
+				id: "7B5FD475948DB0F6"
+				observe_type: 0
+				timer: 0L
+				title: "Observe a Root of Continuity"
+				to_observe: "yttr:root_of_continuity"
+				type: "observation"
+			}]
+			title: "Don't Look Down"
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"27D1C90CDA884287"
+				"084D1B2B30F0C658"
+			]
+			hide: true
+			id: "70E7A0765C9FBFD2"
+			subtitle: "Obtain Glassy Void"
+			tasks: [{
+				id: "2376C7634CBBAECC"
+				item: "yttr:glassy_void"
+				type: "item"
+			}]
+			title: "What Stares Back"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["63E0B5109F75FE08"]
+			description: ["A &3Deep Storage Unit&r can only be opened from one side, but can hold &dmany stacks of items&r."]
+			hide: true
+			id: "6B676180532DFAF3"
+			subtitle: "Craft a DSU"
+			tasks: [{
+				id: "016694FA1165154E"
+				item: "yttr:dsu"
+				type: "item"
+			}]
+			title: "Cheeeeeeeest"
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			description: ["A &3Project Table&r is an advanced Crafting Table with &dextra storage space&r."]
+			id: "6A39A92DC29FB316"
+			invisible: true
+			subtitle: "Craft a Project Table"
+			tasks: [{
+				id: "065E94C60AFA0AE5"
+				item: "yttr:project_table"
+				type: "item"
+			}]
+			title: "Table Pockets"
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["553B60371B6CB85B"]
+			description: [
+				"Some items in Yttr are &3NYI&r - \"Not Yet Implemented\" - and &dserve no non-cosmetic function&r."
+				""
+				"&3Haemopal&r can be dangerously centrifuged to reduce your maximum health, and then refilled with beetroot soup and consumed to restore it. This has no purpose just yet!"
+			]
+			hide: true
+			icon: "yttr:neodymium_disc"
+			id: "33CDBD47B24424C4"
+			subtitle: "Obtain an NYI Item"
+			tasks: [
+				{
+					id: "42254A6350F5DC2B"
+					item: "yttr:neodymium_disc"
+					type: "item"
+				}
+				{
+					id: "12A91B40D5D3707D"
+					item: "yttr:haemopal"
+					type: "item"
+				}
+			]
+			title: "Nyimplemented"
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["39BC95EE872FA168"]
+			description: [
+				"A &3Lazor Emitter&r produces a light source that &dextends infinitely until it hits a block&r."
+				""
+				"This can be used to create convenient light sources for tunnels, bases, and show signals in the air like &3Beacons&r."
+				""
+				"Just &ddon't touch the beam&r! it hurts."
+			]
+			id: "77678A2DEE3B3BA7"
+			subtitle: "Craft a Lazor Emitter"
+			tasks: [{
+				id: "362AD08BFF94978D"
+				item: {
+					Count: 1b
+					id: "yttr:lazor_emitter"
+					tag: {
+						LampColor: "colorless"
+					}
+				}
+				type: "item"
+			}]
+			title: "You got BEAM"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["70E7A0765C9FBFD2"]
+			description: [
+				"A &3Void Cleaver&r can be used to &dcleave&r any standard block."
+				""
+				"This can be used to make slopes, ramps, interestingly shaped rooms and windows, and other decorations."
+			]
+			id: "26BB8D71CC44C59B"
+			subtitle: "Craft a Void Cleaver"
+			tasks: [{
+				id: "4FA8BE2FFBF536B7"
+				item: {
+					Count: 1b
+					id: "yttr:cleaver"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			title: "Mundo throw!"
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			description: [
+				"&3Squeeze Trees&r are found in &2Deep Ocean&r biomes and are a source of &3Sponge&r, &3Squeeze Leaves&r, and &3Delicace&r."
+				""
+				"&3Squeeze Leaves&r can be waterlogged and then squeezed repeatedly using &7[&r&6Right-Click&r&7]&r to &dflood an area with water&r."
+				""
+				"&3Delicace&r can be consumed to &dimprove food and potion effects&r for some time."
+				""
+				"It can also be used to craft a &dconveyor-like resin&r, and tiny &dConstruction Brickss&r used to make &dcustom sculptures&r that can then be sealed using &3liquid void&r."
+			]
+			id: "4D1B237AE4873550"
+			invisible: true
+			subtitle: "Find a Squeeze Tree"
+			tasks: [{
+				icon: "yttr:squeeze_leaves"
+				id: "2857172BA776EEA2"
+				observe_type: 0
+				timer: 0L
+				title: "Find a Squeeze Tree"
+				to_observe: "yttr:squeeze_leaves"
+				type: "observation"
+			}]
+			title: "egnopS"
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["70E7A0765C9FBFD2"]
+			description: [
+				"&3Void Effectors&r can be filled from &3Liquid Void&r in-world or from a Bucket. "
+				""
+				"By pressing &7[&r&6Right-Click&r&7]&r, a surface of solid block can become &dcompletely traversible&r."
+				""
+				"The &3Effector&r is non-destructive - however, don't stick yourself inside solid blocks!"
+			]
+			id: "490A1ECA6B4CBB35"
+			subtitle: "Craft a Void Effector"
+			tasks: [{
+				id: "5CC39B8149BFF1A0"
+				item: "yttr:effector"
+				type: "item"
+			}]
+			title: "Painted Tunnel"
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["63E0B5109F75FE08"]
+			description: [
+				"&3Chutes&r instantly drop any item dropped on or transferred to them &dstraight down&r."
+				""
+				"They can be chained to &dinstantly transport items downwards&r."
+				""
+				"When combined with a &3Levitation Chamber&r, made from a snared &cShulker&r bullet, they can also instantly &dtransport items upwards&r."
+				""
+				"Chutes can also be used to craft the &3Dopper&r which &dinserts items in two directions&r, and the &3Flopper&r can &dpull from the side of a block&r (and it's linked inventory). "
+			]
+			id: "2C2326F912EFFC14"
+			subtitle: "Craft a Chute"
+			tasks: [{
+				id: "5AF101EB86B7D14B"
+				item: "yttr:chute"
+				type: "item"
+			}]
+			title: "Bopper"
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["70E7A0765C9FBFD2"]
+			description: [
+				"&oMaybe not a sensible one, but a choice nonetheless.&r"
+				""
+				"A &3Suit Station&r is capable of preparing a &3Void Diving Suit&r for a &3Void Dive&r - a dangerous form of &dfast travel&r between &3Void Geysers&r."
+				""
+				"Suit &3hull&r can be filled with &3fluxes&r like &eCharcoal&r and &3Honeycomb&r, Suit &3fuel&r can be filled by smelting &eGlowstone Dust&r at the station, and Suit &3oxygen&r is filled over time."
+				""
+				"With all three filled and equipped, you can stand on a &3Diving Plate&r near a Geyser and &7[&r&6Sneak&r&7]&r to enter the void."
+				""
+				"Travelling between known &3Geysers&r with &3Diving Plates&r using &7[&r&6Left-Click&r&7]&r is auto-calculated to be safe."
+				""
+				"Moving around with &7[&r&6WASD&r&7]&r can be used to travel to Geysers without known Diving Plates, but can be &dquite deadly&r!"
+			]
+			id: "2E5990FAF5A05FDD"
+			rewards: [
+				{
+					count: 16
+					id: "69E30E5FD69C7C94"
+					item: "minecraft:glowstone_dust"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "3AAC42DEAA0331D0"
+					item: "minecraft:charcoal"
+					type: "item"
+				}
+			]
+			subtitle: "Craft a Suit Station"
+			tasks: [{
+				id: "7F38A28608077ABF"
+				item: "yttr:suit_station"
+				type: "item"
+			}]
+			title: "A Choice"
+			x: 0.0d
+			y: 8.5d
+		}
+	]
+	title: "Yttr"
+}

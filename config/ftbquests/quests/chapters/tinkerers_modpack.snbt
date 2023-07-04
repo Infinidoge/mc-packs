@@ -26,7 +26,12 @@
 				id: "7F1DBC92AA84645F"
 				item: "ftbquests:book"
 				type: "item"
-			}]
+			}
+            {
+                id: "15544A991E7D3E9C"
+                type: "item"
+                item: "yttr:spectral_axe"
+            }]
 			shape: "rsquare"
 			subtitle: "Humans are also allowed!"
 			tasks: [{

@@ -102,7 +102,7 @@ hash = "f66968b8d1a40cb5b4390f8d61f8c0dd2c814ddd8548020f5af7433b6a76ef4b"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
-hash = "42c1b68105868aad0171e7ae21759d2c4582c9e97bc44fb140d3aba26db5bb04"
+hash = "b32ce580810bd870b607114f458647e01b738dc89ab2766e8a6355586a85d35d"
 
 [[files]]
 file = "config/forcecloseloadingscreen.json"
@@ -110,11 +110,19 @@ hash = "ab85b51df50fc88da375ff53bbdd7120c07df8c77fde8e9d9a837623e7767fcc"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "7896313f20004224eef0280e2c277eab0538d6c5448b390781ef5d2022a759c4"
+hash = "409b54d503b3f2f3f5fdcf916f349910dc897d7e39d441291f4fee16889b3e49"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/botania.snbt"
+hash = "a7dedf419c308e134e990f8625136531b72377fc93dcd5666a090a02938ae699"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/combat.snbt"
 hash = "7dfe6aef141e866a1c5a7c8ca286087817f124b9e97878d7e483fb8313015002"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "bba13fd7274bb9b25cb1bbbefee956112cd6cc4f12d4aedd0abba2bb6fc04313"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/homesteading.snbt"
@@ -126,11 +134,15 @@ hash = "8450a8df5f1e1526e6ac5a68a03ba5ec6873c10a81e5e8c9c7770b2b0431637d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tinkerers_modpack.snbt"
-hash = "d198f5404c607e7bbab0f9797920c9752091d71aa10dda1f1f0fcdbefe806127"
+hash = "8afccbfc5361c8a0d4e33c5ad87fb8dc88985160e2362d0dc6c9035288143e10"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/world.snbt"
 hash = "21f2cb588ae33b4a4cf42908ea52a0ea641319669c1f8795246ae5e616f7e8d0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/yttr.snbt"
+hash = "9d7531744dd55845b851eec6d1d378094975667e5536aa2c02a22f5d312d5290"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -333,6 +345,10 @@ file = "config/yosbr/shaderpacks/SuperDuperVanilla.zip.txt"
 hash = "3b4c69b4c3dafbec7dc4130ffcd1bd23f7527475668458a163b8ee7fa42e7c65"
 
 [[files]]
+file = "config/yttr.css"
+hash = "38897eb5ed096916b7f9dfdddffbac3d8e3696c94bf3b6859be9b0bf36169618"
+
+[[files]]
 file = "credits.txt"
 hash = "7c68180a8e6416c3d5cdd8c00199c23123df202f4f401fca3d8d6518c4d96819"
 
@@ -364,11 +380,6 @@ hash = "4b74f6b30d2b1bcca8ceb83c3ea0171317ad6d1250fe298d1b3006a65c7d7522"
 [[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "b6676e184b94a0efda7769df4413c91162341d1fdbcb668857509f20ace34be1"
-metafile = true
-
-[[files]]
-file = "mods/amplified-nether.pw.toml"
-hash = "72206cfb912e4920f993c1e390725cdfcda1db14eb8c5378e1cf9d74e8976015"
 metafile = true
 
 [[files]]
@@ -442,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "6e2a7ae250c6997f6d6d23a772a267107a3d7fbd7137d13c62e7121ec06e3519"
+hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
 metafile = true
 
 [[files]]
@@ -546,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
+hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
 metafile = true
 
 [[files]]
@@ -834,6 +845,11 @@ hash = "1f1435768beb36acf48e3a0f385a4423f2ee3d43ef42d7de138bd3a39b2559a2"
 metafile = true
 
 [[files]]
+file = "mods/lib39.pw.toml"
+hash = "4436493b3c81de2af5a0528f5a80b57930bd12340806437df9cf4ba85a6d1354"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
@@ -1056,6 +1072,10 @@ metafile = true
 file = "mods/skip-transitions.pw.toml"
 hash = "70b66e2a03d8a6531f0c6e71fa9d6d878ea8f42929ac43f4295b2a3111279b86"
 metafile = true
+
+[[files]]
+file = "mods/sliceanddice-fabric-2.1.3-fabric.jar"
+hash = "78acddf7f981af671154ad02ff7718b0e38bdc7baa69593b8f0eaebd13b7f769"
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
@@ -1331,6 +1351,14 @@ file = "resources/assets/tinkerer/lang/en_us.json"
 hash = "bbcfccc23712ead940e3a3063987fd85bc6fffad7c8bb9fb9d2af9fbe3603dba"
 
 [[files]]
+file = "resources/assets/yttr/atlas/tiles/scorched_summit.json"
+hash = "8b4b8bfbc417f9bd496ac6b0529ebc1b6147287301797a126c1d0de3abbe52cb"
+
+[[files]]
+file = "resources/assets/yttr/atlas/tiles/wasteland.json"
+hash = "8fb1c0a7f6f9e4c1303221a744a14af9b5967a7bf54718452ab3d85d9a05c58c"
+
+[[files]]
 file = "resources/data/c/tags/items/boots.json"
 hash = "359772bf93833f9f07ec01330cbb8deb3bdaae22df707c2cfca96a8766053cc3"
 
@@ -1351,12 +1379,20 @@ file = "resources/data/c/tags/items/leggings.json"
 hash = "48b5becb42538c4940ed2c8d01d00d925daacd3fa900021ff455925870475423"
 
 [[files]]
+file = "resources/data/create/recipes/crafting/curiosities/cake.json"
+hash = "64446f085c617dad7bf3b974bda2f11dfba6343fbe3e63e2ce2df0ea3d19a146"
+
+[[files]]
 file = "resources/data/minecraft/tags/blocks/beacon_base_blocks.json"
 hash = "97de19ddad68c14aef12dad479e2c22b3764c7a4ffcbd7d98f81ead5c8451046"
 
 [[files]]
 file = "resources/data/rightclickharvest/tags/blocks/hoe_required.json"
 hash = "2ec0f5d31cb76444196525b96d1afb14c39fa261dfd6298f0dae54f272437425"
+
+[[files]]
+file = "resources/data/rightclickharvest/tags/items/low_tier_hoes.json"
+hash = "8212dc546c4524f5644c1a7f0ee5438b7073aeba445717ab20c895f8173c5b14"
 
 [[files]]
 file = "resources/data/tinkerer/recipes/book_quill.json"
@@ -1450,6 +1486,14 @@ hash = "799cf1a3b37868934e4e227d29817cd154f731abd7274597b5148a4c80326f47"
 [[files]]
 file = "resources/packs/campanion_delight_compat/pack.mcmeta"
 hash = "6f291676d11cae3a8cf38c6283a90a384997aee3f3d0d8b2af9295f19c3040b3"
+
+[[files]]
+file = "resources/packs/create_consistency_compat/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "e035f8540658ece5b6bf21df67292df87a3fafef771826b2a8a83cc16055d1a2"
+
+[[files]]
+file = "resources/packs/create_consistency_compat/pack.mcmeta"
+hash = "18b5435f9635d1bb4fb29ced88ded09f36200587ebc99cc07b798f5adf5321bc"
 
 [[files]]
 file = "resources/packs/deco_consistency_compat/data/c/tags/items/hidden_from_recipe_viewers.json"

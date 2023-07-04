@@ -5,13 +5,51 @@ The more 'weighty' additions will be seen on the Plus/Modded branches.
 Just in case things get upstreamed somehow, I'm trying to maintain the version differences between Base/Plus/Modded.
 
 <center><img alt="Tinkerer's Quilt banner" src="https://cdn.modrinth.com/data/vrkQdo9Y/images/8088722fdded8e265ca038739b4a5605c6dfb1d4.png" />
-First, add nothing. Then, season to taste.<br/>
-Making minecraft smoother, more discoverable, and have the slightly more items since 2022.<br/>
+A failure in minimalism - and a modpack with three mods.<br/>
+Making minecraft smoother, more discoverable, and show you cool mods since 2022.<br/>
 </center>
 
 ---
 
+### Alpha Note
+
+TQuilt Modded is in alpha! It should be stable, but the quest modventuring quest trees are blatantly unfinished. Try one of the other two packs for a more complete experience!
+
+---
+
 # Pack Features
+
+## Celebrity Celebration [Major Mods]
+
+Tinkerer's Quilt Modded offers an easy inroad to explore polished, interesting mods with their own progression and gameplay systems.
+
+These mods are elaborate, and come equipped with quest trees that mimic their various facets of progression.
+
+This places the total quest count at 2##.
+
+| Relevant Mod                                     | Summary                                                                                  |
+|--------------------------------------------------|------------------------------------------------------------------------------------------|
+| [Botania](https://modrinth.com/mod/botania)      | Tech themed around magic, flowers, and nature.                                           |
+| [Create](https://modrinth.com/mod/create-fabric) | Tech themed around clockwork and large mechanisms.                                       |
+| [Yttr](https://modrinth.com/mod/yttr)            | Tech, magic, and world themed around the void, mistakes, and a union of past and future. |
+
+<details>
+<summary>Click to show all Modded mods</summary>
+
+```
+Mods:
+  -Amplified Nether (replaced by yttr)
+  Botania
+  Create Fabric
+  Lib39
+  Patchouli
+  Create: Slice and Dice
+  Yttr
+```
+
+</details>
+
+Below this section continues the Tinkerer's Quilt Plus description.
 
 ## Vanilla Ice [Vanilla+ Content]
 
