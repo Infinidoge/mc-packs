@@ -9,6 +9,10 @@ file = "config/HorseBuff.toml"
 hash = "2ad80ee3cd6adb8579ea0efd677c8f5ee7a297b50b4d2c4c1c81f85edd1e2283"
 
 [[files]]
+file = "config/antiqueatlas.json5"
+hash = "fb4706f80eb8372ab2460e2d68d8c040e45aad3a581bd25be0d9010c7468a04d"
+
+[[files]]
 file = "config/apathy/boss.cfg"
 hash = "6d01925c16f5913cb67d2d88a27886d56121c83ab08ac1e09d7e5114a85b59f0"
 
@@ -23,22 +27,6 @@ hash = "a73bd0828dee679ecb97cda97fc792337a72a95210fa3559fda4395d6ade3e88"
 [[files]]
 file = "config/betterdeserttemples-fabric-1_19.toml"
 hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
-
-[[files]]
-file = "config/betterdeserttemples/README.txt"
-hash = "3646bc39be8c42a1432506e77721f3b963d33948d4bbd4cd5a10703834979116"
-
-[[files]]
-file = "config/betterdeserttemples/fabric-1_19/README.txt"
-hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
-
-[[files]]
-file = "config/betterdeserttemples/fabric-1_19/armorstands.json"
-hash = "8cf83cdf1b1a366b165e28c24a14fb91c242bacd1a8ed61a4d63fd5add4dfe3b"
-
-[[files]]
-file = "config/betterdeserttemples/fabric-1_19/itemframes.json"
-hash = "d778bb1d8651518bc1c5ed8f2f812001249420c5d14f2f6876054c9f1e58049b"
 
 [[files]]
 file = "config/betterdungeons-fabric-1_19.toml"
@@ -57,30 +45,6 @@ file = "config/betterstrongholds-fabric-1_19.toml"
 hash = "2dae469f9196a363cb5e9fb614788224a713378f22300a1afd6486f1d43766a2"
 
 [[files]]
-file = "config/betterstrongholds/README.txt"
-hash = "70aadca974d0adfe90f98930e23c15076b3d2e625c88e8c2aa6721d91a8c035f"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_19/README.txt"
-hash = "c857bda54ab01ca5db21cfe085dc75dcbb13d26054463cf301c74023783612fc"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_19/armorstands.json"
-hash = "5b168632d0a27d583a19f376783ced2f32fa7267d0b565000cb4f6aa1c16cb56"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_19/itemframes.json"
-hash = "da33330d27495a0f66f6e0d087a2ff77881cefa7c42cc601af8e39346aa0084d"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_19/ores.json"
-hash = "d00578e3e23373447023c679ce58b994bcf51e4b53f6ac8ac83c59d395ff8aee"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_19/rareblocks.json"
-hash = "890eaae9d4766bf7a20a3862d53fa7be60eb690bdfb9bf82d84acd9341505826"
-
-[[files]]
 file = "config/betterwitchhuts-fabric-1_19.toml"
 hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
@@ -90,7 +54,7 @@ hash = "d470b8c9c401dfd6edb8c849c849200409cdafd0262b9aa3f86a58e894517ea4"
 
 [[files]]
 file = "config/carpet/default_carpet-fixes.conf"
-hash = "d16dd41591854f30de6715ceaf7810fb0c91dd5af6a36d998beb66cd0321f95b"
+hash = "cbdeeb64dede43273990f4ea17caf40d88f20036d5ce26785ceee8f8fe097c8a"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
@@ -110,7 +74,7 @@ hash = "c5fc56ce0a3f20d4fb90ab9e64cacf1194a2951068cd98f75dba8dd6553bcb75"
 
 [[files]]
 file = "config/earthtojavamobs.json"
-hash = "80cedf725c6457d1d942518fa618bfca71a071da988fd87d14c381426a6723c2"
+hash = "37b0b28a0ffaeb1d0d4b73e4191e8493d0ed4e244cd2fba5d022540a5765faca"
 
 [[files]]
 file = "config/easierenchanting.properties"
@@ -138,7 +102,7 @@ hash = "f66968b8d1a40cb5b4390f8d61f8c0dd2c814ddd8548020f5af7433b6a76ef4b"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
-hash = "3d0f2a0e965fe090a131fefc78e934c004fe5c91cdb5fa082d5b9f47b2934b0a"
+hash = "42c1b68105868aad0171e7ae21759d2c4582c9e97bc44fb140d3aba26db5bb04"
 
 [[files]]
 file = "config/forcecloseloadingscreen.json"
@@ -150,27 +114,23 @@ hash = "7896313f20004224eef0280e2c277eab0538d6c5448b390781ef5d2022a759c4"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/combat.snbt"
-hash = "dc4c152f843e5722ac69b9e20778c5226149400ecdf83be50ac678d9e28b5c70"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/discrepancies_plus.snbt"
-hash = "195b01748b26de7be2631a1e25c550a2ab5982cd973a2d634d194e9095b19b47"
+hash = "7dfe6aef141e866a1c5a7c8ca286087817f124b9e97878d7e483fb8313015002"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/homesteading.snbt"
-hash = "74405f4a1949d53a8f634a96a6716503a47c620da7bc57b5fb5688cb8eb4f442"
+hash = "40255e4244bf4881b6274e72eb689f292ea4aa2128d1e4a117d9352f7ea1021e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_basics.snbt"
-hash = "60419c076bf4048995834e866b86306f4136e132ec7b79902f9fd1f6036a8b3f"
+hash = "8450a8df5f1e1526e6ac5a68a03ba5ec6873c10a81e5e8c9c7770b2b0431637d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/tinkerers_modpack.snbt"
-hash = "d74be5b28605bf5d5b74eb189cbbe3f934e195248015a4cf5512f68ea1d11724"
+hash = "d198f5404c607e7bbab0f9797920c9752091d71aa10dda1f1f0fcdbefe806127"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/world.snbt"
-hash = "831dadc7a64475f6c284b3678afa53fbe9e3410b6d2152d7b18837ae12e53102"
+hash = "21f2cb588ae33b4a4cf42908ea52a0ea641319669c1f8795246ae5e616f7e8d0"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -178,11 +138,15 @@ hash = "9bf6f4b6b9569a784ddc6610196fba7e0c17fbca4af2923c819485c1b999d3c6"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/fences.snbt"
-hash = "fac269b306f404ae41825741ea0f70abf74982c183194a848ee9d34e6eda55c6"
+hash = "09cf131d70438316059769d5316a6c0df3210013dae42f8afd496a838378a431"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/trident_enchants.snbt"
 hash = "b400495d827f7e688a0bae2c9546139be7ee1bfad4cf2652bce1722f8c82e51b"
+
+[[files]]
+file = "config/fwaystones/config.json5"
+hash = "8072d3930fd557613eaa4baf1e04ebfda9288119ea4f6de80a6b1f7b175e309d"
 
 [[files]]
 file = "config/idwtialsimmoedm.json"
@@ -201,16 +165,16 @@ file = "config/leaves_us_in_peace.json"
 hash = "c4c42f2426bf3c69ce43ee7f05ee14aa4d006b74654d1982edd5ffdcb4b8298a"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "1c1e904bb1ee68649afc0861a9d50610016c12a542e58a5606551d98026ae04f"
+
+[[files]]
 file = "config/lucium-hidden-debug-entries.txt"
 hash = "38fd60a0cd0876676b19eedebb30afe0c39848d1a048b1809946a99cc2ab69a7"
 
 [[files]]
 file = "config/naturescompass.json"
 hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
-
-[[files]]
-file = "config/overweight_farming.json"
-hash = "6d8a080e48fcc2c68a0abb91d94f2dca7693ac67815dcd67335d7262bebb1852"
 
 [[files]]
 file = "config/pettable.json"
@@ -223,22 +187,6 @@ hash = "a3db65d064f25b4f2899eb733d168231d8bc605e80c18738a3a0f333969defb5"
 [[files]]
 file = "config/quilt-loading-screen.json"
 hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
-
-[[files]]
-file = "config/repurposed_structures-fabric/biome_dimension_allow_disallow_configs.json5"
-hash = "fd1e7f23962ca9416417a608732832ed9fe0df303cb5ecf21efd8494eece46a8"
-
-[[files]]
-file = "config/repurposed_structures-fabric/general_configs.json5"
-hash = "e7a19a07da87aecbc7ce877884204cd5a53d9d38684ba7053eb8d4a7c6367079"
-
-[[files]]
-file = "config/rocks.json"
-hash = "dc20c06ccabc8689fbbbdb5ca7402f7141626943272ec933c6df352eeb0521f2"
-
-[[files]]
-file = "config/sandwichable.json"
-hash = "74ab14ff3d048b02e0b40bda6f7e6f7e8808a86312748fec548a06e92ce474ea"
 
 [[files]]
 file = "config/seasons.json"
@@ -257,20 +205,12 @@ file = "config/snowrealmagic-common.toml"
 hash = "3799ac9d4b26b6db24f2409f19dbeb0b77ce671f12d104231ce7d8e3941c2c16"
 
 [[files]]
-file = "config/travelerstitles-fabric-1_19.toml"
-hash = "ea129de5aa17ab3d48051d1c859a8fb2da5098dae9bd76f7e65b0522bf86bec0"
-
-[[files]]
 file = "config/waila/waila.json"
 hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
-hash = "9deab34e7c7dfcadf9cc87a3432d0f68e641d2d0e52b45d6febcf9a23de72e3f"
-
-[[files]]
-file = "config/waystones/config.json"
-hash = "187b0b44d524a3d2ea0a33a4d660608e2d5a2a74d90be85584071b78de922378"
+hash = "29e2704167b1c425c26aa6644c947fee16991a9b1381faf50390dc1089975d66"
 
 [[files]]
 file = "config/yigd.toml"
@@ -279,6 +219,10 @@ hash = "57879ebb89361d9872e89e66a272882c8be951a751598b269524a7f77b3714a1"
 [[files]]
 file = "config/yosbr/config/SkipTransitions.properties"
 hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
+
+[[files]]
+file = "config/yosbr/config/aileron.json"
+hash = "ef5d54ad5552076138b7ecaca713917fdb7069d8d6199d6a9dc5fdfef614c10e"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -354,7 +298,7 @@ hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
 
 [[files]]
 file = "config/yosbr/config/waila/waila_plugins.json"
-hash = "996c30d07a7edfa32eb2bc506c3d9d9cf60b488c78397720b76add206682900c"
+hash = "8f136a39e73fb78447ce8cc48694568fdde75e8fd331f41a4a6c9685e1b704aa"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
@@ -389,12 +333,12 @@ file = "config/yosbr/shaderpacks/SuperDuperVanilla.zip.txt"
 hash = "3b4c69b4c3dafbec7dc4130ffcd1bd23f7527475668458a163b8ee7fa42e7c65"
 
 [[files]]
-file = "config/yungsextras-fabric-1_19.toml"
-hash = "7e282abf1b75f373189f582d371ab94bcb8a218ff94ce124a548517f630c25f1"
-
-[[files]]
 file = "credits.txt"
 hash = "7c68180a8e6416c3d5cdd8c00199c23123df202f4f401fca3d8d6518c4d96819"
+
+[[files]]
+file = "data/seasons_compat_warn.dat"
+hash = "e4acf1365f8aba457ccde7923fd8b75e370e5f41da4673fb9cf9e0acabb442e2"
 
 [[files]]
 file = "mods/DyeableFishingLines-1.0.1.jar"
@@ -414,9 +358,8 @@ hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
 
 [[files]]
-file = "mods/aileron.pw.toml"
-hash = "6beca67b09effde6cb786550855e03f84aa16c89282a44251df922648d5f3620"
-metafile = true
+file = "mods/aileron-1.0.4+1.0.4-fabric.jar"
+hash = "4b74f6b30d2b1bcca8ceb83c3ea0171317ad6d1250fe298d1b3006a65c7d7522"
 
 [[files]]
 file = "mods/ambient-environment.pw.toml"
@@ -425,13 +368,22 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "3cce9bc7a299070cffd83336372c0747c70ddbf19d0baf203347ef1ad35828e2"
+hash = "72206cfb912e4920f993c1e390725cdfcda1db14eb8c5378e1cf9d74e8976015"
 metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
+
+[[files]]
+file = "mods/antique-fwaystones.pw.toml"
+hash = "205441161783626b246541209a0476897b0e1071b544e94ad71165c5ee6bfee5"
+metafile = true
+
+[[files]]
+file = "mods/antiqueatlas-8.0.1+itemless-fabric-mc1.19.2.jar"
+hash = "83cdd6d9257985ca4cf844641157b45ce8685538eb9f409e3c079e8490f596bf"
 
 [[files]]
 file = "mods/apathy.pw.toml"
@@ -445,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "f0e9dfb7405e8c7667a670f398a644ec17ac044dd5404ebe9cbf5aa5bfb907c4"
+hash = "2bbf01873718fc8c559df7a6488bc0b1803f431758624b0bc257914bee6d0365"
 metafile = true
 
 [[files]]
@@ -455,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "10924756a73ac458c4ff94ee4c6e0f0591fb2650e56511d779eb3b280624d871"
+hash = "fa1664a183058f98b38bf209eb2baf3ac5112ead1154ae0b0723b5443f2f03ef"
 metafile = true
 
 [[files]]
@@ -479,11 +431,6 @@ hash = "9db7e0c35795f22069c8e789d5c1276a1b433aa26f287e3e80275b244a11d2ff"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
-metafile = true
-
-[[files]]
 file = "mods/blahaj.pw.toml"
 hash = "f260530e165404ac8ca8baf8530038bebc74101ace0cfc48e41cc0f1f0a40c1b"
 metafile = true
@@ -491,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/boring-default-game-rules.pw.toml"
 hash = "b2e0150953510e34ad42d4ca70c1e42308b7935fd7aee54c1e7be359e50c78c2"
+metafile = true
+
+[[files]]
+file = "mods/bovines-and-buttercups.pw.toml"
+hash = "9996e06f9aa7b4c4a6b5b90fee4d56816b27cc6577d5ef3b18d66cfad8838d3c"
 metafile = true
 
 [[files]]
@@ -520,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/chalk.pw.toml"
-hash = "776d8d4d93ed3052d46f77857707a09dfd77196b2e55de23455e2e4c81e36af9"
+hash = "3b1ab484e2e6240f704b382d169d98f69ba3a312d89c0027f56e9ed7cd549c7f"
 metafile = true
 
 [[files]]
@@ -569,9 +521,8 @@ hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
 metafile = true
 
 [[files]]
-file = "mods/consistencyplus.pw.toml"
-hash = "0a82c23063612bf1baf43934323d8fca8dd23ddc2dc0a3db968f72d14b99e887"
-metafile = true
+file = "mods/consistency_plus-fabric-0.5.2+1.19.2.jar"
+hash = "b45343ef120eae1ad7be38f01836cf03108568832a62b267d1bd8b95e00e11a2"
 
 [[files]]
 file = "mods/continuity.pw.toml"
@@ -620,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/earth2java.pw.toml"
-hash = "7b08bf0757ccb5b0dcbb20a37c8bd16d6a5f4a8f87b5615da901e28e779d421d"
+hash = "b449c083634ff6df61ca11af41daccda028890cb2bf0373e31a7f1b6cea39342"
 metafile = true
 
 [[files]]
@@ -669,8 +620,13 @@ hash = "2a6e243aabbad7c6bb23561a4f4572403a06e41b7cbcc94282eeae899d0e54a6"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "fa5844242239c7228674022960e1506d19b062aa056ead17d5d52f1f9d5e6a57"
+hash = "c7c311ec95580ad84f54a05d20c9a8b9fc78b4183050b170e0a3e8ba70e00308"
 metafile = true
 
 [[files]]
@@ -700,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "651fb6f5e608f19f5b03940808dc4715960ade5ed5eaa0f57adc48ca521538d1"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
 metafile = true
 
 [[files]]
@@ -740,7 +696,12 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "01229cc90ed07c223690033b98bd1cd3d04929c8e059a194cc50ebca8c3ca3f4"
+hash = "577d6d70b5a7ab61e454ac05d0753bce12726499da97416025285f863308fc89"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
 metafile = true
 
 [[files]]
@@ -914,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "525ad62238789b624a578c329bf6f8e04160055b107527b3f75471c41dd164a9"
+hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
 metafile = true
 
 [[files]]
@@ -969,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/polaroidcamera.pw.toml"
-hash = "1894ed44b4ce2856c01dccde7cc02948d7dd15ad14d3c4ad939b49a6b8121b74"
+hash = "fa9c87aee7283f245834928b05b69d8269d0b9884ffceddaf743b3fce46b025f"
 metafile = true
 
 [[files]]
@@ -1019,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
+hash = "b5bb732948dcabfbb3727d124aa0f2b846bc0b883d98476c96d4badb757a048d"
 metafile = true
 
 [[files]]
@@ -1033,9 +994,8 @@ hash = "52a7ae9332b3e709f88fe50386da9eef69f7a401be517f1d904fb4f097db8dee"
 metafile = true
 
 [[files]]
-file = "mods/rusted-iron.pw.toml"
-hash = "479fbab5be512e0ec20b40a82b56564c76d270c1f84e04b34baf0a5ee4181c6d"
-metafile = true
+file = "mods/sandwichable-1.4.3-farmersdelight+1.19.jar"
+hash = "4fb59c905334c5dc7fa53a624305a7c1d1d9bf2d408f20d490631c9c06203bc2"
 
 [[files]]
 file = "mods/simple-durability-tooltip.pw.toml"
@@ -1138,11 +1098,6 @@ hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true
 
 [[files]]
-file = "mods/this-rocks.pw.toml"
-hash = "5c15843fb95af5c160b29de253eaaf8b1c3cd91b77a7218d4f0c7b5993e3a833"
-metafile = true
-
-[[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "752faeacb8ac21375a37e1b96a0086656df60723cdca24625bf06275dd79bba2"
 metafile = true
@@ -1168,13 +1123,8 @@ hash = "30c44924c1dca550a85de358424728fcb395200058c2b7ff57e8848b5e9adb05"
 metafile = true
 
 [[files]]
-file = "mods/travelers-titles.pw.toml"
-hash = "c71af8cb740fbf42b489ab24ee01ea0d09c3329cb9a62108b2b9dd85e721b3c8"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
-hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
@@ -1214,12 +1164,12 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "d6126b71de887bf0b23a4a064b5f9ebb2f4848533f3b098703c3917ba63e5c69"
+hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "8323d5b77249afed08a178a9a8002ef7a09850e3e3c9dfb942cae17403748565"
+hash = "a0c90cf55ee22034d8c84e8ff9a9170792c37a242aa2ddbd3635c497c0281f76"
 metafile = true
 
 [[files]]
@@ -1230,6 +1180,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "db24b9f5262599c4a358be6e80e78a9fc0e4ad46b4dd00435aca9f76a60d7ca0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "dc3044cf3ee836be2c3c0e8c6e3c6c5c0fb218cd72f2c41b082cbeb6056cc274"
 metafile = true
 
 [[files]]
@@ -1245,11 +1200,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
-metafile = true
-
-[[files]]
-file = "mods/yungs-extras.pw.toml"
-hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
 metafile = true
 
 [[files]]
@@ -1289,12 +1239,36 @@ file = "resourcepacks/Vanillatweaks_What_Spyglass.zip"
 hash = "74afe3bea48cc4a2971a20edabdead42bd3f587c002829ceca2ffc63880d3a62"
 
 [[files]]
+file = "resources/assets/aurorasdeco/atlas/texture_sets/lavender_plains.json"
+hash = "bca84ca0e619768d8879c6a190ce02ba03747387262a7087cc0dd95aa060e7e2"
+
+[[files]]
+file = "resources/assets/aurorasdeco/atlas/tiles/lavender_plains.json"
+hash = "4d76e87ef4f9eb8030e3a062a1ddc1bdeb01ce9cdb4a89cb98faefd41dc36858"
+
+[[files]]
+file = "resources/assets/aurorasdeco/textures/gui/tiles/lavender_grass.png"
+hash = "73a3dcd3059462a0ae8d13f9b29028101654b6ba22b36366b66bdacebbb4a54d"
+
+[[files]]
+file = "resources/assets/aurorasdeco/textures/gui/tiles/lavender_grass2.png"
+hash = "adeb97aeaed05a8b416365cf3d91a66ccf0399cc20d8d87ee1543c2e6f2631ae"
+
+[[files]]
+file = "resources/assets/aurorasdeco/textures/gui/tiles/lavender_grass3.png"
+hash = "2356d06fe495073157291d714450b01820711eaf079d86e36320d4b271e2c077"
+
+[[files]]
+file = "resources/assets/aurorasdeco/textures/gui/tiles/lavender_grass4.png"
+hash = "1583e851a19d36755fa3279f4fd33e5d2189dbb7a6d4cd46e29211d94679f334"
+
+[[files]]
 file = "resources/assets/loadingscreentips/loading_tips/tips.json"
 hash = "fa689f2d802c3933f47c5562aef25acb3d13974f80040e8246c3cab71bac68a7"
 
 [[files]]
 file = "resources/assets/tinkerer/lang/en_us.json"
-hash = "66f19ff6b2fe5e1b0e244e71bc4942a7957988893801ab214c4c48aba355dcc2"
+hash = "bbcfccc23712ead940e3a3063987fd85bc6fffad7c8bb9fb9d2af9fbe3603dba"
 
 [[files]]
 file = "resources/data/c/tags/items/boots.json"
@@ -1306,7 +1280,7 @@ hash = "80c100d290646fb1cf01499a4476fb8fae08f7b4a12238707f49e25d733aa7d7"
 
 [[files]]
 file = "resources/data/c/tags/items/fence_gates.json"
-hash = "e5e5e8b0d8296fa813f9f8f1f92a9867bf87b2c3146b8c56a2c1cb8e69b51c94"
+hash = "57c816ff57d5eb46ba4c83f01e29a02230f63b2b060c64a5a76fcb57b31d9cd3"
 
 [[files]]
 file = "resources/data/c/tags/items/helmets.json"
@@ -1319,6 +1293,10 @@ hash = "48b5becb42538c4940ed2c8d01d00d925daacd3fa900021ff455925870475423"
 [[files]]
 file = "resources/data/minecraft/tags/blocks/beacon_base_blocks.json"
 hash = "97de19ddad68c14aef12dad479e2c22b3764c7a4ffcbd7d98f81ead5c8451046"
+
+[[files]]
+file = "resources/data/rightclickharvest/tags/blocks/hoe_required.json"
+hash = "2ec0f5d31cb76444196525b96d1afb14c39fa261dfd6298f0dae54f272437425"
 
 [[files]]
 file = "resources/data/tinkerer/recipes/book_quill.json"
@@ -1337,6 +1315,10 @@ file = "resources/data/tinkerer/recipes/trident.json"
 hash = "09879b5f78bd601f10f411b6e1473f6e0231f7d671615f7b489b90b6e77cea24"
 
 [[files]]
+file = "resources/data/tinkerers_smithing/tags/items/dework_materials.json"
+hash = "ecd290ab926a8074252c0167b77c0a47859db0cac23f4fe41bf22581cbfdc3d4"
+
+[[files]]
 file = "resources/packs/Towers_Of_The_Wild_Reworked_v4.0.2_Fabric_Waystones.zip"
 hash = "ea056a272ca794ba9cdb86fa3a6dad302b2e2d6cd8dcaeb0324590b2e4753e18"
 
@@ -1352,6 +1334,70 @@ hash = "f8ff75e945559496f89938550e717dd259f803911f9b22e54ed8ac8969c57c49"
 file = "resources/packs/axolotl-bucket-variants.pw.toml"
 hash = "a286466952265156b08bc765b98b77225178fab50ef424608f949c212dcf24e5"
 metafile = true
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "9bdc6b60c01fbed520e83d33df1569a296c773615c1606355e0344b72bbfbd7a"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/advancements/recipes/farmersdelight/rope.json"
+hash = "fb002a3a8b1b68b7a9913fcb13f894cd885f9746291a7f62d6f765eb48dc2032"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/advancements/recipes/farmersdelight/rope_from_safety_net.json"
+hash = "ff011faaebabfcb0a3ee3a9d12341985864f0b6bc7ad26a11856e571eb17cbda"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/advancements/recipes/farmersdelight/safety_net.json"
+hash = "da5d8a7da534127f7ecde6203f5a2bf096ac3226aaf25bc85cda11b252756d61"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/advancements/recipes/tools/lead_from_rope.json"
+hash = "7d38f34d917b12c63f6d1d17ac3756aa55f3abf2dd25ab42b0591d6910b61d56"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/loot_tables/inject/chests/abandoned_mineshaft.json"
+hash = "155ccd404081686d12b722dada9a6b8f5b3ee279e9382689d46f885b8a4dc946"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/loot_tables/inject/chests/shipwreck_supply.json"
+hash = "e13d66e464fbf88e098807214bcaf0414e9712b391daea77762edd7313982351"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/loot_tables/inject/chests/simple_dungeon.json"
+hash = "8851adab356d1b58ba37bd4249e96a3de9afb96bd62d0e9d2173ff867aad6ca3"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/recipes/lead_from_rope.json"
+hash = "8630f7548f2dc4cf0a8538e3f26e3c6b2b6522b8036740e8399aa4015caf3ffd"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/recipes/rope.json"
+hash = "3e0a190ff26914a4e2c3f75ee6141f59c355429c3b5ea85795f91dd2948054ee"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/recipes/rope_from_rope.json"
+hash = "93fe6407905647d82da7047f700489d6f47b61956a7c7883a526b733c1a2c778"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/recipes/rope_from_safety_net.json"
+hash = "515580b8f1714b7a92bbfc26cfb7dfab89f70cbc2c349f2915e4f889658fbbeb"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/data/farmersdelight/recipes/safety_net.json"
+hash = "799cf1a3b37868934e4e227d29817cd154f731abd7274597b5148a4c80326f47"
+
+[[files]]
+file = "resources/packs/campanion_delight_compat/pack.mcmeta"
+hash = "6f291676d11cae3a8cf38c6283a90a384997aee3f3d0d8b2af9295f19c3040b3"
+
+[[files]]
+file = "resources/packs/deco_consistency_compat/data/c/tags/items/hidden_from_recipe_viewers.json"
+hash = "3ac37b8be31ca11528210c57f302bef727f693671b07b420af150f7267cce3de"
+
+[[files]]
+file = "resources/packs/deco_consistency_compat/pack.mcmeta"
+hash = "354060901020a9c8a7a06004f2a0927f12cefa438534255e6674fd5e3b325ec5"
 
 [[files]]
 file = "resources/packs/hide_item_filters/data/c/tags/items/hidden_from_recipe_viewers.json"
@@ -1414,6 +1460,454 @@ metafile = true
 file = "resources/packs/repurposed-structures-better-witch-huts-compat.pw.toml"
 hash = "fca74934f92bb9f8165afa9f72f4045567916aa6eae1700d3045e35c5f9f33b3"
 metafile = true
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_modifiers/import_modded_loot.json"
+hash = "9c1530a571c03ca73156a030f58cc8e95317a9f87b556c8246ea0c5b8dbb40fc"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/lucky_pool.json"
+hash = "f5f7c21616c6988a6362f43e89b783f212acba382da4dd0993448fdd944ecfe8"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/badlands.json"
+hash = "2925ab659793f2552fc6b0637900783db62a932052336c0323a29eb16b7f62fb"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/birch.json"
+hash = "9d3086e846521fa67e3ad112ef7fa7d6607942984d78cda2e7c094da7a02e8e9"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/crimson.json"
+hash = "fedde032b6a9bb7960e47dec10468a7ee540cc124744135b6bd2f0e06ea1cdaa"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/desert.json"
+hash = "abf44d45c1ab970d4b5e189932a2ba095f0f241b99a1bdefefe8ed7d89ac3126"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/giant_tree_taiga.json"
+hash = "62d22824bc71cd306ab1aba68452a1fdf9b36d21374ba7070c159b5142a8f06a"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/icy.json"
+hash = "4ae9d4cddbc9bb71543acb81a1c13e1a1121d19f93479e969bb4d1c1750ad548"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/jungle.json"
+hash = "8dee4b8be9c7a721e2ab1433ae70ddb9f0dad1152de2c24fce2e6ed23f45a062"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/mangrove.json"
+hash = "09ca8aed74954a606c605475674a279de3ccb14a2f29058f6dccc422e76aeba7"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/nether_brick.json"
+hash = "b6b6d7a3afae916c484dd9305d7288493bb39f086107757115defcb280875825"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/oak.json"
+hash = "8b1e7a205eee331ef632ed43aa3162ac3d56beabd669f78a593f4afea9dc028a"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/snowy.json"
+hash = "9b31c296c37b16a87e84fbc36b8923d07f84ad171f48bd3060f1ce9fbabbdcea"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/taiga.json"
+hash = "adcd561174e9e0749270ceb8d1985f77f18304944f4df03dc43e22e7032d2f53"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/warped.json"
+hash = "8d34e9fe97c4bccb53d29bc16cac29c5d09d4350edb681364ab68d231dcba882"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/badlands_house.json"
+hash = "334f39a29e3ee93c4f78db4970c7371edfae2f2510c53f61dc6be1f49f0ee052"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/birch_house.json"
+hash = "51da25916c5ad0bc37fdd750e2d9092756be952145585af56d88301d5805e95d"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_cartographer.json"
+hash = "f8b5f5289b2daee1edf9e937c23e84e67d69ed1a0c5ce565d1e64e54c07ae664"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_fisher.json"
+hash = "2cbceecd79bc365c30fb13e4a64e500fbf8ecebdb17ffe80d2d9a370e1fa4750"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_house.json"
+hash = "511f32d5b95d31f61e9dcf0dd755ad9149c3b7b1c48280b9d9ac032d0bf37ad0"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_tannery.json"
+hash = "38f3eafd27cd95246f1c279bdca95e181efffc646ea5b491009fa90e728276a1"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_weaponsmith.json"
+hash = "5cd6e36d9a6052331f9df2edc4be4bd8bdbc1a3b1c4af1c8de16887cd458cf69"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/dark_forest_house.json"
+hash = "c7a287ec851b626b50f0dcde203e292ecf6e6a6894affc10051e58252c332a2b"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/giant_taiga_house.json"
+hash = "206528f3a155da23222f17e951f7f7eb9f0122f50defb218d51649782133b6e1"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/jungle_house.json"
+hash = "a2b1a6bde0b638cb23d01cfe3ac7284b4b8623c8e570c4aac87c9f9ac487ecaf"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/mountains_house.json"
+hash = "58a99ca7579ff621de9df19360387f93c410621b6ff8a76f3fddc3c65bec4b01"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/mushroom_house.json"
+hash = "699491bcad9d673c42edf40066cf573e6c1655c0e8e4a60dd7868bc8e1962a3c"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/oak_house.json"
+hash = "599156288b3ab363023b997ca01310066e0c907dcbde208e2afaf9947bd68afd"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/ocean_cartographer.json"
+hash = "a9621dfb7552171ecfcb95dd3c1c27db777b3163266e9d630824b1c1fedbb1d9"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/ocean_house.json"
+hash = "6682feaaac5fd3731295ba8be68d2e630122c53f5bf11b820c9e2270a203d469"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/swamp_house.json"
+hash = "a9285a0a12150939a049aacfad4354921e04d096ac466be919d172dfff2e561d"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_cartographer.json"
+hash = "f8b5f5289b2daee1edf9e937c23e84e67d69ed1a0c5ce565d1e64e54c07ae664"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_fisher.json"
+hash = "2cbceecd79bc365c30fb13e4a64e500fbf8ecebdb17ffe80d2d9a370e1fa4750"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_house.json"
+hash = "99bd7c2f2314751fa83b7384ecf5e64877ff696eade0aee77a3f210cc45720f5"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_tannery.json"
+hash = "38f3eafd27cd95246f1c279bdca95e181efffc646ea5b491009fa90e728276a1"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_weaponsmith.json"
+hash = "b5a4483038b1bfc563a7f6b94da00c66237699b1efee0cba832b781ba48ae2c1"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/pyramids/dark_forest.json"
+hash = "4a908271d8f8e4c3492439dfd512462ff413c56e2bb22c7051f3b16f25d4d72b"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/basalt.json"
+hash = "92dbc32f4af22ef4e3ff9002a5f9060ad3aaf1b87236afe2e62faadf331f2be1"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/crimson.json"
+hash = "a9f2558592514917bc8e6cbc876cd311397d7a147767af2803ca60eaa67fc5ec"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/soul.json"
+hash = "00edb95a277a685e1f17a1c5b8c43643a9e75701d36849ad3d578998fd24763c"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/taiga.json"
+hash = "483ece8e3ef800e10f3840cad9b920f2e6e8d29abe77b32bbdb508ca1127e06f"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/warped.json"
+hash = "a9f2558592514917bc8e6cbc876cd311397d7a147767af2803ca60eaa67fc5ec"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/wasteland.json"
+hash = "a9f2558592514917bc8e6cbc876cd311397d7a147767af2803ca60eaa67fc5ec"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/wasteland_lava.json"
+hash = "f778be8707e8902dd307372a35f62ba5b6a8b010ea36ccf81e857808a895f836"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/dungeons/end.json"
+hash = "669e3c17fd4708c77155e25bfd92c8ebabf86518e8c448971c0b849c45a896ca"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/outposts/end.json"
+hash = "f7ec5d670c26adaf120870e8e93532ab741fccb9253a3fc7a7633b2a0189a239"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/strongholds/end_hallway.json"
+hash = "1161c0ffebb13553b649983ca5ee804c1f634fda484be9993c83d066d1395f4e"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/strongholds/end_library.json"
+hash = "4963c3ab2756d4d22bf02790392453ca93e00c6fb280c64d72b2ddc6db3a05d9"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/strongholds/end_storage_room.json"
+hash = "ff862d86b1c28893db9e6c2266f3918c02656700504a9b9eb8cc129a35c3983f"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/pyramids/badlands.json"
+hash = "7d1a29b073c4c35efbf381ef4b98f632f54f9f8bc153183e6700e3a66ec6673e"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/pyramids/end.json"
+hash = "425218841ec37b975bf04c743f19dadd17076634bf051d387a71f86e053e2ea3"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/pyramids/nether.json"
+hash = "fb12d094d3a2f8765958cdf53b807d2383b466188645b3fef73d14bb56ba8f4e"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/pyramids/ocean.json"
+hash = "c45be7cfd292d2954d0bc8409dc2e40fd302db6945758b7c72a150d50783b4b1"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/temples/warped.json"
+hash = "22760abd7c897438f8bb85fbb8e2ddc23c3f7d933f3f3c96f93b87638a312229"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/badlands.json"
+hash = "8adc9faf97db3463ba4db89619d32af98c1f94486093eb36df63c33cabc5560d"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/dark_forest.json"
+hash = "acad4fda9b89d08a4f336ca8bc904c7ce32b62d5bd690779ba63943e8a479c11"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/deep.json"
+hash = "69dea60ede54d2023b355530650320fb7e171b3c9251f82c7172c0757ebdf05d"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/desert.json"
+hash = "b83ceb25fd8c4982cffafacdd694237cc082c71dfd973a342f70130430600aa7"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/end.json"
+hash = "5d30823a3c2f7dc1f23cde2bddeccf1661c6acae3e5b3b18177765e4d1b77743"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/icy.json"
+hash = "88909aed67386e13c95a712276f907621c92617dbe45679835d7ee6ae660f73f"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/jungle.json"
+hash = "90b1195bf575bcb63b389c9709b6969565407b6cc31a0b5a2c6131be507666f5"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/mushroom.json"
+hash = "2ff82cdc3d89b8361ae2d8944a9a246916b4fe1e68cedbbe49355ff76f14f367"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/nether.json"
+hash = "8209e5d235311984398afde8941dfc075d87611adb07fee408b02879b0089e0b"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_cold.json"
+hash = "d0179bbd3bf0be674c0f16c75d9430abe71c5997e3fb7037dbb6c76ab48b6e8d"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_frozen.json"
+hash = "9f34cc8de9c60a3daa82d99f322a7543567bb587b1fb7799efd3494cc5e4ad4e"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_lukewarm.json"
+hash = "4b8efd3dc3ac444e71141ea59c88d686bdd8c89c4f54292ba475b794983026f6"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_neutral.json"
+hash = "25beb8794080f5fafc5e2870e15e634bc5afd4cd8651cc74f840d27dfb152d3d"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_warm.json"
+hash = "07d064d283a1ff1dd444b8c6a8d6c74ddb355a32a7c69a14b01e67806ece9f47"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/snow.json"
+hash = "c613079537dbfb4d73b0c1e1dbf672a4bc9e30121d14ca49b219e61e8c61135f"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/swamp.json"
+hash = "561ad6b8a47f5e0f40656054f8ade673fcb2415ce86a16ae8deb3b4f4a1631a9"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/badlands.json"
+hash = "b0be145504a5e508d623f6c9f2ff5c94130d8b8f9837d251fdcbec87c195bf38"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/forest.json"
+hash = "56ec84606b698a45d4be481cf4026397c58760c214239a2e1d523cf93234b9e2"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/mossy_stone.json"
+hash = "aff416f60399bbbb208635ffd9a4edcb5ea95430125e3aa21ec9284eff7ca9bf"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/mushroom.json"
+hash = "98960d2a97d9608f482e100a0d689baf578228443bbf7d2555c42e93b3c2877b"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/nether.json"
+hash = "d459074d063f104ab6e520f593bcb9c7804eb39b9a333ddaf48f70ee4eec6b11"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/snow.json"
+hash = "9402f4aee704104d9e6108b7023e8194678e2ff5731f83ba44f089677871690e"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ancient_cities_end.json"
+hash = "33edcc08090239a2b8011fa630b59bd52ea6ca3a5d31f608ce7a85a1f9230da3"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ancient_cities_nether.json"
+hash = "dc67911d115bdd55d113bb00a8af4f46224c5a85b2b131bf3973c51ec726f7fc"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ancient_cities_overworld.json"
+hash = "1a9cd77004fae7b7669cbfb2461ff001704401c416df2444be2703ac83ad881d"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/bastions_overworld.json"
+hash = "f6e7c484d8af746405e8d4cbb6c54f7c3dcd9fff54263a129106f3f300f3787c"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/cities_nether.json"
+hash = "84d5b81cb10f10c2e8997e0e2e2aab8883ddda94acaa5cda196f6535852590b1"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/cities_overworld.json"
+hash = "815d5f898e5a06649c568ae119f0cf97da7f7c959f076132678829a35c8fad65"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/fortresses_overworld.json"
+hash = "a25b4a5ef8de52fd103c082410bc284c60acf40bd5b3aea3f21ed7c6a5886dcc"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/igloos_overworld.json"
+hash = "eb378cb3e23f7244f52c3538f216f2a07f44c1f6e1a655fcf71cd144be345955"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mansions_mangrove.json"
+hash = "9edad7bc16d41884516edd99840bc4df474ffc9d276af9026121655b13def216"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mansions_overworld.json"
+hash = "9cdd8204b841fa7529d0057988bb2c937b2f75c0814c46a8f693bfba30815cd0"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mineshafts_end.json"
+hash = "3b6571af85cd7f6dac62f44b2bff67e2b978a4948900ba8658c5e9b68e1bdfef"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mineshafts_nether.json"
+hash = "d90131fe5cdc7d829ae007ca1379c382cf22be9bb032454655c2db4a88f8f256"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mineshafts_overworld.json"
+hash = "d5c3eebe657ad00eabcace9ec18c3a4027eec8d80a0ad38647296431fa73589b"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/monuments_nether.json"
+hash = "cdc914ad083641c7bfc57e28f07ba67c3b9ce8e117fc78d9bc4910f9645c91af"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/monuments_overworld.json"
+hash = "717bad6a44944851b4921a4eacf2f89bbf85dd530dccf3f044f959b462a68867"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/outposts_end.json"
+hash = "868897d1d18a835e76c02feee03543cbbe3487ff42bda2cfac280a70d24199cd"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/outposts_nether.json"
+hash = "b3ec4a7a8f8f1b070976855c3524b10f55726c5f0d2d6beb1b6a0690da103984"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/outposts_overworld.json"
+hash = "cc447dc32009048f3d852213a319fe54c64e45a820cd9ed9f389eaac3c980ac8"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/pyramids_end.json"
+hash = "128d1d5cb83f8d553464bcc9b80bad1618b43726cbf70600206466f602be3693"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/pyramids_mushroom.json"
+hash = "68a7e1cb608343ec87b333089eeaf5abc000843fe05eaf450705f1077ac1de3f"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/pyramids_nether.json"
+hash = "f2040ad27360fc240479c4e5d369517510d64b4e8eff3e8b9f49ac177e6d0a7e"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/pyramids_overworld.json"
+hash = "a378f95da24913c980eb52c57f48c8561a0f1a0561c5c122efc3141f1c130be6"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ruined_portals_end.json"
+hash = "64ffbced1678cf67be846305b72dca3b923373f6bc3d0b6fd81533d8a5f7fb52"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ruins_nether.json"
+hash = "2601735319640d9ff9bac8a44b4522ec74b71d589a5d7e2237574c36616b5f7f"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ruins_overworld.json"
+hash = "4ea29df61f26683fd7d58f9c3b31ed6c942900629b35a9e649ea94defe2427e2"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/shipwrecks_end.json"
+hash = "fca8931057bbb46b3ed429ac26653313637a70cd9a782a3841f960c04398df00"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/shipwrecks_nether.json"
+hash = "ddb72922c054b820d95edadc55b13b93f19deebef6cd3d0bb265c8d9add39727"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/strongholds_end.json"
+hash = "0dda0b6ac1e627271f9b6162b15861819facfbb391f70b0b52b7bb2a9a7ad513"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/strongholds_nether.json"
+hash = "47af52a54bb1c0b3147b924a36e454eeb9ec79b13a4063d9d94d378295751a19"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/temples_nether.json"
+hash = "1b49bf32307b35d9ffdebea8c13ac7a1d7da1ded6208a3ef0e92f20c6fdd09e5"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/temples_overworld.json"
+hash = "d833195a043f8090782e69144254c996809ecf213a808c657e293cdcc214185d"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/villages_mushroom.json"
+hash = "62ab79cd868ad41717b94b5fea39e5c2432cbb4412aa64dfc2d0abcbce1bcc51"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/villages_nether.json"
+hash = "ec9172e5e745d2b307e3c9cb361f325531f4370cd53841bce4da7db0b6fd333b"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/villages_overworld.json"
+hash = "b56dc7bcc0a7fffa4763b54be0504d075c1c348f8ec961b5773174f95b25e796"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/witch_huts_overworld.json"
+hash = "a9c8958c4bf427414e9fede596568b6b562ed76a6e1baecb6f7a6a416af0f5ed"
+
+[[files]]
+file = "resources/packs/repurposed_structures_tweaks/pack.mcmeta"
+hash = "9b468e5b4e46cf0ce0a639467f9f8c9fa9e6061f415ec2b48cead876c8637645"
 
 [[files]]
 file = "resources/packs/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/acacia_planks.json"
@@ -1861,6 +2355,10 @@ metafile = true
 [[files]]
 file = "resources/packs/yung_tweaks/data/betterdungeons/tags/worldgen/biome/has_structure/spider_dungeon.json"
 hash = "d75e571bccf1360f82b438ec48b27e46f15f419a04c27443c9b3a8f90c9d8e4b"
+
+[[files]]
+file = "resources/packs/yung_tweaks/pack.mcmeta"
+hash = "c76f9f51edd4f46503553e2308211870473b436d525e71d19419b2fda368657e"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
