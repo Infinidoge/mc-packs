@@ -467,6 +467,11 @@ hash = "e351f40305f1377a4023c09e774d040e601d513bd37e307955b2f68e986a612c"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
 file = "mods/cardinalboats.pw.toml"
 hash = "8542b06b8be9d23a827f66caeb0adb8c33c8ad964491696ec3d9981fd75c0fe2"
 metafile = true
@@ -484,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
@@ -557,12 +567,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
+hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
 metafile = true
 
 [[files]]
 file = "mods/create-porting-lib-tags.pw.toml"
 hash = "42cd0520f34103fad052c87440518594f40ca804adafc2c88cc032342ea077a3"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "f149d011c5cd4f30da32a4c06f4e24a7b2f532f6cbae5f11a77609032c7174ec"
 metafile = true
 
 [[files]]
@@ -583,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "4dfeb4a7f9ba351ce1cac51a97693b317ce26f0dcf9ba89e9f2ed96cd5472f57"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "7f184c2b70f7b25d17ad3707a4e9a54fb9c27d475467ee47ec65b94c9c4f6d4c"
 metafile = true
 
 [[files]]
@@ -736,6 +756,11 @@ hash = "577d6d70b5a7ab61e454ac05d0753bce12726499da97416025285f863308fc89"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
 metafile = true
@@ -753,6 +778,26 @@ metafile = true
 [[files]]
 file = "mods/half-doors.pw.toml"
 hash = "fd34910c7292b2b48bb57c2b348c968cf5ea58f7c19683bf662ef801d167e233"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "7f2007222e105274b48879a3afba15cdafaeaae681c5d5e8bc6f44bbf9f45565"
+metafile = true
+
+[[files]]
+file = "mods/hexbound.pw.toml"
+hash = "6f226976a09f3ef3c6b85c1bc5077a8da7a38d01d92cfa79c5b9274bce6e8dec"
+metafile = true
+
+[[files]]
+file = "mods/hexkinetics.pw.toml"
+hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
 metafile = true
 
 [[files]]
@@ -812,6 +857,11 @@ metafile = true
 [[files]]
 file = "mods/keep-my-hand.pw.toml"
 hash = "fc50e981481a00007950d850617a5b1354533f09303099e36d3bbaf6d23f43ce"
+metafile = true
+
+[[files]]
+file = "mods/kettle.pw.toml"
+hash = "94865ef86f229df1ce78a22498f41779fd56313c6e7c8efe678f7253c56c09db"
 metafile = true
 
 [[files]]
@@ -952,6 +1002,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
 metafile = true
 
 [[files]]
