@@ -369,6 +369,10 @@ file = "mods/Origins-1.19.2-1.7.1.jar"
 hash = "5b691abcae94af27295b9afaa1ee78fdda35cdf0355220aee30c0f8ee3e4f9d6"
 
 [[files]]
+file = "mods/Steam_Rails-1.4.0+fabric-mc1.19.2-build.302.jar"
+hash = "5aa91f11958dbc5f797af32f4da3dbe2753f96ef2b55a45ee9d538185cb21f14"
+
+[[files]]
 file = "mods/advancements-debug.pw.toml"
 hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
@@ -578,11 +582,6 @@ metafile = true
 [[files]]
 file = "mods/create-porting-lib-tags.pw.toml"
 hash = "42cd0520f34103fad052c87440518594f40ca804adafc2c88cc032342ea077a3"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "f149d011c5cd4f30da32a4c06f4e24a7b2f532f6cbae5f11a77609032c7174ec"
 metafile = true
 
 [[files]]
