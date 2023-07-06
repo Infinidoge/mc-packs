@@ -4,7 +4,7 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["quilt_1.19.2", "quilt_1.19.2_plus", "quilt_1.19.2_modded", "quilt_1.20"]
+    branches: ["quilt_1.19.2", "quilt_1.19.2_plus", "quilt_1.19.2_modded"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -40,14 +40,14 @@ jobs:
       - name: import quilt_1.19.2 - clean
         run: rm -rf cdn/quilt_1.19.2/.git
 
-      - name: import quilt_1.20
-        uses: actions/checkout@v3
-        with:
-          ref: quilt_1.20
-          path: cdn/quilt_1.20
-          clean: false
-      - name: import quilt_1.20 - clean
-        run: rm -rf cdn/quilt_1.20/.git
+      # - name: import quilt_1.20
+      #   uses: actions/checkout@v3
+      #   with:
+      #     ref: quilt_1.20
+      #     path: cdn/quilt_1.20
+      #     clean: false
+      # - name: import quilt_1.20 - clean
+      #   run: rm -rf cdn/quilt_1.20/.git
 
       - name: import quilt_1.19.2_plus
         uses: actions/checkout@v3
@@ -66,7 +66,7 @@ jobs:
           clean: false
       - name: import quilt_1.19.2_modded - clean
         run: rm -rf cdn/quilt_1.19.2_modded/.git
-        
+
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Build with Jekyll
