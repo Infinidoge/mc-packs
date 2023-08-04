@@ -800,6 +800,11 @@ hash = "6f226976a09f3ef3c6b85c1bc5077a8da7a38d01d92cfa79c5b9274bce6e8dec"
 metafile = true
 
 [[files]]
+file = "mods/hexgloop.pw.toml"
+hash = "1f7e7554ccb6d986645f9aafc77c1b454f93da30140abe6d2746d22262160bb0"
+metafile = true
+
+[[files]]
 file = "mods/hexkinetics.pw.toml"
 hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
 metafile = true
@@ -1275,6 +1280,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
+metafile = true
+
+[[files]]
+file = "mods/wnboi.pw.toml"
+hash = "3ca006a5fb12507b15384434a09fa246c0e6b80db85777d2d840c732bed29e2f"
 metafile = true
 
 [[files]]
