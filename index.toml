@@ -1353,6 +1353,10 @@ hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
 
 [[files]]
+file = "quilt-loader-overrides.json"
+hash = "c26e405256084fb08551aff4079c360e92ecdde1c757ddda4d138bf2665de81f"
+
+[[files]]
 file = "resourcepacks/VanillaTweaks_Quiet_Animals.zip"
 hash = "523606fa9f099b533c066b3e6c175c50254ae5b7f4b20f91c2c358da71f63186"
 
