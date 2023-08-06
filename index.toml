@@ -98,7 +98,7 @@ hash = "cd281341dcaca9438a70c38c3821f373998cbbd6abf4a5a3225fdf76d39c2f09"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "067340cc27c5e5dc1c63717a3dd35896a163282a76c3f292c9ba6bd9d73dcf3b"
+hash = "1b7a1ce6bdbbf04f6ff3f854c56726a6b2b446e46ddaa4bfb8f7072b92656c7b"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
