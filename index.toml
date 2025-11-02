@@ -197,6 +197,10 @@ file = "config/projectsavethepets/projectsavethepets.json"
 hash = "a3db65d064f25b4f2899eb733d168231d8bc605e80c18738a3a0f333969defb5"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "c26e405256084fb08551aff4079c360e92ecdde1c757ddda4d138bf2665de81f"
+
+[[files]]
 file = "config/quilt-loading-screen.json"
 hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
 
@@ -1351,10 +1355,6 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
-
-[[files]]
-file = "quilt-loader-overrides.json"
-hash = "c26e405256084fb08551aff4079c360e92ecdde1c757ddda4d138bf2665de81f"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_Quiet_Animals.zip"
