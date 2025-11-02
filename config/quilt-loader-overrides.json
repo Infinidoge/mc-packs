@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "overrides": [
+    {
+      "path": "<mods>/create-fabric-6.0.8.0+build.1734-mc1.20.1.jar",
+      "depends": [
+        {
+          "replace": {
+            "id": "fabric-api",
+            "versions": "0.92.6+1.20.1"
+          },
+          "with": {
+            "id": "fabric-api",
+            "versions": "0.92.2+1.20.1"
+          }
+        }
+      ],
+      "breaks": []
+    }
+  ]
+}
