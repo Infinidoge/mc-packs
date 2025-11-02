@@ -1655,11 +1655,6 @@ hash = "0a9a66216a19c024c0ca41b34807cbf6ee1030a64d6bf99dac495db4e32af11e"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
 hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
 metafile = true
