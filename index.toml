@@ -1457,6 +1457,16 @@ hash = "79ad071b099002b534f289d8c048efd7d2535a4221c59464eef114677887484b"
 metafile = true
 
 [[files]]
+file = "mods/bundle-backportish.pw.toml"
+hash = "a8db6b1091b8b44e47c9b97af01ddb4e80e38844eea84124d5c81864c1bfd4a6"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
+metafile = true
+
+[[files]]
 file = "mods/cardinalboats.pw.toml"
 hash = "503ef8fe194f09112577fbe8a6e4d0da86a8f6c3921b4dcbe29ee4b840531c4c"
 metafile = true
@@ -1477,8 +1487,13 @@ hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "72f275c4458bb5a536fefa33cd31b81c396541cdffe3e9de06a425c8a9c45f17"
+metafile = true
+
+[[files]]
 file = "mods/chalk.pw.toml"
-hash = "6813cfc18a8812f00b3f6a7c5d01a02828b109d8c394f2c1b01bd5960c241120"
+hash = "e0fe3a15675b2f6ad147699a546a09bccd45492df57f721ffa524a2f5b380595"
 metafile = true
 
 [[files]]
@@ -1710,6 +1725,11 @@ hash = "26aabc12649a729a2d5c593fd70ed50933a9fe9c7d16d2bdffa44a2165aa59e1"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "b8fe9e74e322076dbecdc93be50d5ba6f66015580f44d6ec77510c71fdcff304"
 metafile = true
@@ -1717,6 +1737,66 @@ metafile = true
 [[files]]
 file = "mods/heracles.pw.toml"
 hash = "b9012cd40181be144e60d904d6f387443fea89b4b334515e902e8b00c5e588d6"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "3e51d9ad93efb292181f8960816a58707ae28841c310b77c28721ac7039931d1"
+metafile = true
+
+[[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting-media-display.pw.toml"
+hash = "030b99d7974df2b347036039622e8c571e932d7ab94e8d7a2ffc2f872ba2bcb1"
+metafile = true
+
+[[files]]
+file = "mods/hexcellular.pw.toml"
+hash = "51c39678a509b311fe444e1231843d152157136297d83f52c41d19e85a17d790"
+metafile = true
+
+[[files]]
+file = "mods/hexcreating.pw.toml"
+hash = "1e283a458754cc2d332551bf179a01de53d74352eca41b71deaaabb0cdba6ccd"
+metafile = true
+
+[[files]]
+file = "mods/hexflow.pw.toml"
+hash = "c6fdf3b373f4aaf87c33a2047c461bd951066ddb0aacacd192c60c8c1cfb38ac"
+metafile = true
+
+[[files]]
+file = "mods/hexical.pw.toml"
+hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
+metafile = true
+
+[[files]]
+file = "mods/hexportation.pw.toml"
+hash = "b5ed3b3b787b8cda46501f21bf1b7a1366a81a1ca64f87892e909eff19c15a56"
+metafile = true
+
+[[files]]
+file = "mods/hexpose.pw.toml"
+hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
+metafile = true
+
+[[files]]
+file = "mods/hexstruction.pw.toml"
+hash = "140d22763aea94ff764113060519f5998e1ff1a980cb85c312115b2c012e1c74"
+metafile = true
+
+[[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "f24bbafda4b129d94153f559f3f3612c6a96f167208f8e8f7c9d7a00237536e1"
 metafile = true
 
 [[files]]
@@ -1775,6 +1855,11 @@ hash = "fcbc1b165528c9264aed4cc1686f52876300c97e70ad23dbc81d8c0d9cfca303"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "70d35c88a475d88015d789edf58bf286d57ae68f30e9b2f2c816d487dd9f92d6"
+metafile = true
+
+[[files]]
 file = "mods/just-an-end-anchor.pw.toml"
 hash = "9eabdc90f3e1ed9bf27bbf942662a908cbb0e2d7b4a3f2d05518bc17f4946c4a"
 metafile = true
@@ -1790,6 +1875,11 @@ hash = "fc50e981481a00007950d850617a5b1354533f09303099e36d3bbaf6d23f43ce"
 metafile = true
 
 [[files]]
+file = "mods/kitsune-minus.pw.toml"
+hash = "e6f7208140d5cb28bf51a96dfadb635801e64eb1ece2d2694f2b9c0dae5b8868"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -1802,6 +1892,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "be7240c21a4acd8de01d7f6f93be18ca2a233917d32e6f6205f788432525a570"
+metafile = true
+
+[[files]]
+file = "mods/lapisworks.pw.toml"
+hash = "61f75e922c00ab017fbc2d371b079e0493ada621b8fcf90619244bc8c25cd2ba"
 metafile = true
 
 [[files]]
@@ -1869,6 +1964,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "f5eb9d19a205a42dbb9d8ad4ee95e2cf0364814dd8416a9147b21f261dd93c97"
 metafile = true
@@ -1929,6 +2029,11 @@ hash = "2e8e746d6f81c3dbb935bb2f3074d129574dd03d19d201975c5049fd70a54dc2"
 metafile = true
 
 [[files]]
+file = "mods/paucal.pw.toml"
+hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
@@ -1971,6 +2076,11 @@ metafile = true
 [[files]]
 file = "mods/qdresloader.pw.toml"
 hash = "f7cebb9f191593ed8d3aee3a1bd3ea8c400625702aea0fd5d6ffb9db0105b926"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "2c15a7ba78e8d8abbc612e55cfdb3df7c002a90d8fa467d88e28fe875ccaa3e9"
 metafile = true
 
 [[files]]
@@ -2045,6 +2155,11 @@ metafile = true
 [[files]]
 file = "mods/skip-transitions.pw.toml"
 hash = "f907362d33b691fd58a7d05407284c6084a20daf2efb4694fe6c71f0e4820b0a"
+metafile = true
+
+[[files]]
+file = "mods/slate-works.pw.toml"
+hash = "1a933ea3ce8485a9fb4a50efb5780a126e38e21ad92e03593bf987a495a8eed6"
 metafile = true
 
 [[files]]

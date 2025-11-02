@@ -1,0 +1,13 @@
+name = "Kitsune Minus"
+filename = "kitsune-minus-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vacCr7BL/versions/eTL3inHH/kitsune-minus-1.0.0.jar"
+hash-format = "sha512"
+hash = "67330d56ee9e5971ee6a33546a0a45ec6fa4be2d7da4bb12dc2823a9baf69f486dae1c9e95614e9e3d1628dd77f26233a84d5f69a95a6b6b1ac0433e60a16460"
+
+[update]
+[update.modrinth]
+mod-id = "vacCr7BL"
+version = "eTL3inHH"
