@@ -1,7 +1,7 @@
 name = "yttr"
-filename = "yttr-8.20.763.jar"
+filename = "yttr-9.20.832.jar"
 
 [download]
-url = "https://yttr.y2k.diy/builds/dl/yttr-8.20.763.jar"
+url = "https://yttr.y2k.diy/builds/dl/yttr-9.20.832.jar"
 hash-format = "sha256"
-hash = "57240cb195c4f2803df2d9c541708b022fd4add37b3d5bec9d204c0253c4b91d"
+hash = "3708e05a1165c4253ae91d06b4d5c277fe93a66baa3915f24e2ca7973a2f6b53"
