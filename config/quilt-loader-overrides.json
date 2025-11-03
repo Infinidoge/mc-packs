@@ -22,6 +22,22 @@
         }
       ],
       "breaks": []
+    },
+    {
+      "path": "<mods>/create-fabric-6.0.8.0+build.1734-mc1.20.1.jar!/META-INF/jars/Ponder-Fabric-1.20.1-1.0.91.jar",
+      "depends": [
+        {
+          "replace": {
+            "id": "fabric-api",
+            "versions": ">=0.92.3+1.20.1"
+          },
+          "with": {
+            "id": "fabric-api",
+            "versions": ">=0.92.2+1.20.1"
+          }
+        }
+      ],
+      "breaks": []
     }
   ]
 }
