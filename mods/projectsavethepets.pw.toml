@@ -1,13 +1,13 @@
 name = "Project: Save the Pets!"
-filename = "projectsavethepets-4.0.1-alpha+2023.7fa0c6d61f.quilt.jar"
+filename = "projectsavethepets-4.0.1-alpha+2023.7fa0c6d61f.fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VJ6H5k8J/versions/vc56OG5s/projectsavethepets-4.0.1-alpha%2B2023.7fa0c6d61f.quilt.jar"
-hash-format = "sha1"
-hash = "7d13ae210a48a07e4cfc5275bd864486c2ce64d5"
+url = "https://cdn.modrinth.com/data/VJ6H5k8J/versions/oieGz98Q/projectsavethepets-4.0.1-alpha%2B2023.7fa0c6d61f.fabric.jar"
+hash-format = "sha512"
+hash = "0493d84a3480c018cd3001514b3cae1533ecfdf43bfc172e9c4fe56a85ac6638ae778ad63c62e4c02c5eb434887a132d95543a2af8f36cfbace83261712963b9"
 
 [update]
 [update.modrinth]
 mod-id = "VJ6H5k8J"
-version = "vc56OG5s"
+version = "oieGz98Q"

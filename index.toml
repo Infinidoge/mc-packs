@@ -2867,7 +2867,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "516183ce7c4e49d6a786283ce0731cdc7fa3f01467987dc3a48d232ed8cdc32c"
+hash = "ce0b6c452313b669ce95d6bc7f232f72b89bf61ebb2013cac5b17a09c8132510"
 metafile = true
 
 [[files]]
@@ -2877,7 +2877,7 @@ metafile = true
 
 [[files]]
 file = "mods/earth2java.pw.toml"
-hash = "bf8bcbc7cbd1124fed33a9157c01c33192f381c6484d861a737f21cae3cb4f50"
+hash = "3115f8d5f7d208e74abf463cb70ccf16d1c2ccd46cbdd9b8a34f1a1b14792457"
 metafile = true
 
 [[files]]
@@ -3215,7 +3215,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "6438eb609359864baa2de791df903617886dc6e1dd7d9e5789935044d8ca97b1"
+hash = "b072e68cf6a8d483f0b06c7d622eb781958c03d187e6a98c7e1f6a5acefe4809"
 metafile = true
 
 [[files]]
@@ -3225,7 +3225,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+hash = "f40488b90039380bde4615baca056eaec3afb62defccd7301a15af1c602970c3"
 metafile = true
 
 [[files]]
@@ -3355,7 +3355,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectsavethepets.pw.toml"
-hash = "b5e409cdc2335214907e1649a6a5fface19ac0350ec94811073126fb82d5ea0a"
+hash = "79178fdc144e6ceace4cadc377cb737d84a7b52264b91b1aaaf7e86a82249afa"
 metafile = true
 
 [[files]]
@@ -3573,7 +3573,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "dfe0c176d33a51fc1ecf5585fba4784710593ba4522a7f8ed2fb413d6671bf2c"
+hash = "c97048ca72dfe2342882cc8796619fc5a285fd86b0c097853b4f6698823ce64b"
 metafile = true
 
 [[files]]
