@@ -28,7 +28,7 @@
       "depends": [
         {
           "replace": {
-            "id": "fabric-api",
+            "id": "fabric",
             "versions": ">=0.92.3+1.20.1"
           },
           "with": {
