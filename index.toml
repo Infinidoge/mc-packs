@@ -1254,7 +1254,7 @@ hash = "a3db65d064f25b4f2899eb733d168231d8bc605e80c18738a3a0f333969defb5"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "5b5247ee0cf561dca382a7269f50a6c9fed888c4d5d0f91660d9562e2d0dffe3"
+hash = "52b361a139fa157189eaecdc4bc3dd3bd453209e91f5d68b8d12b9e29f44b4b9"
 
 [[files]]
 file = "config/quilt_loading_screen.json"
