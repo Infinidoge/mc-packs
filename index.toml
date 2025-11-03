@@ -1769,11 +1769,6 @@ hash = "51c39678a509b311fe444e1231843d152157136297d83f52c41d19e85a17d790"
 metafile = true
 
 [[files]]
-file = "mods/hexcreating.pw.toml"
-hash = "1e283a458754cc2d332551bf179a01de53d74352eca41b71deaaabb0cdba6ccd"
-metafile = true
-
-[[files]]
 file = "mods/hexflow.pw.toml"
 hash = "c6fdf3b373f4aaf87c33a2047c461bd951066ddb0aacacd192c60c8c1cfb38ac"
 metafile = true
