@@ -15,8 +15,7 @@
   "doTemperatureChanges": true,
   "shouldSnowyBiomesMeltInSummer": true,
   "shouldIceNearWaterMelt": true,
-  "biomeDenylist": [
-  ],
+  "biomeDenylist": [],
   "isSeasonTiedWithSystemTime": false,
   "isInNorthHemisphere": true,
   "isSeasonMessingCrops": true,

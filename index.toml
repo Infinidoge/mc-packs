@@ -14,7 +14,7 @@ hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
 
 [[files]]
 file = "config/aileron.json"
-hash = "ef5d54ad5552076138b7ecaca713917fdb7069d8d6199d6a9dc5fdfef614c10e"
+hash = "fa12be60a17ac31d651ab2d1af49d35828db7672dbffbf37db267cd5be3ad4c0"
 
 [[files]]
 file = "config/apathy/boss.cfg"
@@ -58,7 +58,7 @@ hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
 
 [[files]]
 file = "config/boring_default_game_rules/config.json"
-hash = "d470b8c9c401dfd6edb8c849c849200409cdafd0262b9aa3f86a58e894517ea4"
+hash = "ebaa63aab9824191852b83d48ec84b875cf881229feaef0dff8aaa5b263283f7"
 
 [[files]]
 file = "config/carpet/default_carpet-fixes.conf"
@@ -74,7 +74,7 @@ hash = "17dbebe8db17d26a777c8f10e3cc6afff3720d278def1fed45f038c08b8f7ab3"
 
 [[files]]
 file = "config/citresewn.json"
-hash = "7942a329d631eaccd78fa9f5eea061dca41f0504b5ea0052d9ca5d6889b3a395"
+hash = "0d9c73c835f7d998acbadd7027fdd47b354d154e592b436fd7c1ed92948bfbec"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
@@ -90,7 +90,7 @@ hash = "09d8c493b302cc5b88057351526c6ce0b213b55664327367d01bf73df9046da8"
 
 [[files]]
 file = "config/earthtojavamobs.json"
-hash = "37b0b28a0ffaeb1d0d4b73e4191e8493d0ed4e244cd2fba5d022540a5765faca"
+hash = "0a1f8a3d16761f96997b210de1c562da0d1935d8a0f7f129b5427b4f1cdc7712"
 
 [[files]]
 file = "config/easierenchanting.properties"
@@ -98,7 +98,7 @@ hash = "c2fda994299671087249b5601ed12baf6e9e823778f0cdecc0dc38cf572e7775"
 
 [[files]]
 file = "config/effective.json"
-hash = "084ae75802eeadfa5c4d2b83d347cdb79deb82eb5e87c7172f3f3e54d99916ab"
+hash = "8b056f7a2467a50f834414ef0c35fa60d8c4a6a622dd598a1b41e9dddeda5615"
 
 [[files]]
 file = "config/emi.css"
@@ -114,7 +114,7 @@ hash = "1847561c619eda6b779411ebea1344b2ed495fa7955981fe3a64d6faeca9d0d6"
 
 [[files]]
 file = "config/exordium.json"
-hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
+hash = "cac31813446249e06375b99c9d1f3394a1d6ded651ea534c1afcee488c896d88"
 
 [[files]]
 file = "config/fabrication/features.ini"
@@ -126,7 +126,7 @@ hash = "b32ce580810bd870b607114f458647e01b738dc89ab2766e8a6355586a85d35d"
 
 [[files]]
 file = "config/fallingleaves.json"
-hash = "fcd29ef763f0cf68806ab53d2d7b4d9efd9e473e349d117f65133190c03b562b"
+hash = "c6a33777eee0c9b47a5c3dcec73931674cda07cf8730f4f452463afe9f65437f"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -1178,11 +1178,11 @@ hash = "ae0a2441985818e428f057c6b9d8c7ae8ce09d627a447d676f15732ae713f32d"
 
 [[files]]
 file = "config/idwtialsimmoedm.json"
-hash = "49f669e1876f9293f4a34aed88102abed02ba6180f66f1d0ba0d1e94e711dcce"
+hash = "20bf4319355556cc3ed8b08afeb86b9ba2f196ebc564761736042b7af2155a84"
 
 [[files]]
 file = "config/inspecio.json"
-hash = "4435ab1d6a324ad59d5357cd287982c03c8e618db506f50b48d3e7e59037462c"
+hash = "2bd06cf84e123725b2973f0626f2a320caeb70193d68390d64fa1c78b243b75f"
 
 [[files]]
 file = "config/inventory_tabs.toml"
@@ -1198,11 +1198,11 @@ hash = "d82261cbaaecc17f96f8c94e7f3e0f08130f7a37112d0f0994fb08fe11abf5e3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "33c3b6b1ec36fab277ddaf130916478972399b9d8d62c0224aa9ccf43bda9e91"
+hash = "a9d38a09ca79ab91d0cc3f5be9e9654f0cb6be08f05588a9495426dff4c582a4"
 
 [[files]]
 file = "config/item-descriptions.json"
-hash = "ebcd52adbda1fb7f36ce3ec7d53ae495985078893f154b9251726799c402a3ef"
+hash = "b3379249c01c438a67c1a86006d02eba8a931f8f039a4298aecea78f83394cfd"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -1210,7 +1210,7 @@ hash = "f331e0ec5f5c7a2cf3d161031379072eb8850ebdec2a29e0ec5efb9ef4c60218"
 
 [[files]]
 file = "config/leaves_us_in_peace.json"
-hash = "c4c42f2426bf3c69ce43ee7f05ee14aa4d006b74654d1982edd5ffdcb4b8298a"
+hash = "f8d2660ce6cc8dfc0646a6a996f99f75b3693bb73b0bb290232e93430ba4abdb"
 
 [[files]]
 file = "config/lithium.properties"
@@ -1218,7 +1218,7 @@ hash = "1c1e904bb1ee68649afc0861a9d50610016c12a542e58a5606551d98026ae04f"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "0b47d0b6e65c4888517ca89941e8c46c5eba12bbb2fed511fc7ca716d0819329"
+hash = "07a88f7b69b5954fee8fec5642bae3f74d59bda3376bc8d5e1127793379c74c1"
 
 [[files]]
 file = "config/mousewheelie.hjson"
@@ -1226,31 +1226,31 @@ hash = "342520c2852bfc107b0325bdd64339f396ba1a3d35fd0a6a5c828fc50ba6de82"
 
 [[files]]
 file = "config/naturescompass.json"
-hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
+hash = "9eec9eec9df89bc90d9af3879e38bea2dd8049ee36e281e3ee8b7f9f31a15858"
 
 [[files]]
 file = "config/nicerskies.json"
-hash = "96c5afef2635da1e9dc553d597fe9a3d98a9a73ca8a174e0c2ffd5be4493496a"
+hash = "2e2d635b2cdc359126f075c61617b09a08e47677a64376372d3a2ce79b1d1acf"
 
 [[files]]
 file = "config/origins_server.json"
-hash = "d120f58cc7533b2814cfe9398f34af87ea86f8d925cbceaaa0befed05bfd70ce"
+hash = "c03a0ea1a016a5939c89c585ed42ac566ba436cee24f0e6513a92c30de3fc1d6"
 
 [[files]]
 file = "config/pettable.json"
-hash = "17b28d004f9b3d3fd9dbffb2a22e2eaef072c0dbdffa1f89ecbb59082180fb0a"
+hash = "91534915ba97fe08eeec3efab2d36239ec6b4602f973e0d33b093d0c8e98debe"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
-hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+hash = "8ce1248d63f1205a45611024f7055c23143492963c51ed1336be0492ca5cfb14"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "4d6a751bc4e3a71c33cdc37b587922d5ae283ce92e8e4f8f0ae763178a08b5b1"
+hash = "f97bdaa707f01671cb5c6e6a1cdbe126f47fc85ba004dd66c95d47a2515c977b"
 
 [[files]]
 file = "config/projectsavethepets/projectsavethepets.json"
-hash = "a3db65d064f25b4f2899eb733d168231d8bc605e80c18738a3a0f333969defb5"
+hash = "50a7c23f248849a2637cc8c252226b750115e9b62bea697ff86f306b67127d1c"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
@@ -1258,19 +1258,19 @@ hash = "fd7d6f0fe09b7280f7d6738935bbe9b4e6ec19a5927063975c19c293774f7611"
 
 [[files]]
 file = "config/quilt_loading_screen.json"
-hash = "ddb4b78652475595b3138cf26f0f82f1da495b614911f9971ba883960adcf8ba"
+hash = "883fa4a74c3e57fa61409462991e00911745d3049c60d466fa9b0aff0dfe29bb"
 
 [[files]]
 file = "config/seasons.json"
-hash = "e6e79c750c395c8781cc647f131d1b73008b4e23e457a17e2d785b370f092f2e"
+hash = "0f40c698c548951bf8d683af34fa81b60647beca290bce295f2a96be5356ac18"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "69261db307b3287fa0aad5f8cf7e53bd4f7c2c4322bc708c95d9df6447afd95c"
+hash = "1b755ddb0e0880633cc8efdd9309d65cfdae0f9a572e27008c484068c2b99c26"
 
 [[files]]
 file = "config/simplefog.json"
-hash = "cb432d624e454ece8f5bec48b3bd8fd544ba69a9ff7db9315b195d49a8206cc6"
+hash = "8d43b9de41ddc0c4621c3cb1387a8af16816d5c479aa0548891f149cfcd987bd"
 
 [[files]]
 file = "config/snowrealmagic-client.toml"
@@ -1282,31 +1282,31 @@ hash = "3799ac9d4b26b6db24f2409f19dbeb0b77ce671f12d104231ce7d8e3941c2c16"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "2c642535700062a568bae2a8dedc8de4da6666e78d05e101fafd6eecea845db7"
+hash = "7d44ee2a86cf7276df5305418ece537151350ccb49c4b300e56f7d4f6eb48d46"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
+hash = "c55b07a460965413fc9a59dddc2dfc5a5fcbecdbb3adde97145f733a396c90b5"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "bed87a61fa40553e72fba632d269f452d62f3c03c02a296e78bd948bb5c78e11"
+hash = "92617528e595adce02870ca94d284d2a13d6d960e803f84e84e3ff7616e36797"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "97b723f4cc379eb4b17ade4bf756029fb14a4af0d6ac9b4a2b0f396b8427630f"
+hash = "43a3fb2b3bae4895b5343a5e413db3e6a3397e62568725c3f2979760752a4092"
 
 [[files]]
 file = "config/styled_chat_emoji.json"
-hash = "fed5a10b86cc0a562cb3c57777e2b6189dd9ddd13ab19a810fb7d78dd57f2bad"
+hash = "c1ea6f9d34b4b8fce88b4ae35b77c8296a20da3d516335f1d542cfbe4a77ea7f"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
-hash = "bdf4cc878bdb267d4ddd015684b057839be65fab5a2d4c3a6b0d6ee96f6fe3b4"
+hash = "04fbae1632398316988ffe0a770cbb15f897fee638f65f3bbd9af6873eb55a7f"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "9ae03c8ae2d77dac24eed22ae517e82576aa03fdeb230976b3bfd8f297a7d768"
+hash = "fe6af17aef3030ba697da2606e217e0de14bc782ede4240f1f0ba6851113c50c"
 
 [[files]]
 file = "config/switchy_resource_packs/config.toml"
@@ -1318,15 +1318,15 @@ hash = "6b2c2996f89d07689c09a3fe23c92155f9b035254d47394053a3e1e763890f27"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "13dd715493f0fb3754583f6a97fcb8a7df61ccef983df3a664931be3d1e9c490"
+hash = "c97b2d427360750c262fa300010c5cc92c8074d81d68b25b883ccf658af41faf"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
-hash = "f3fd13df0c27c60276d55109e8f8b4de0cfe01fbbc6b52cb31dd8cd3946a224f"
+hash = "5762de95c9811a386bbb50c07c5ecd8678cedc0eaadcc946d9eda42a9f98adf1"
 
 [[files]]
 file = "config/yigd.json"
-hash = "292389620810337a8138812c9e77136311ea806769ac3778e9a3e91f6dc73ef4"
+hash = "48afbb3f9b2edc97c4928b352e9a8e9c1d12ce07759e1a4b99bad2f96c5a1edb"
 
 [[files]]
 file = "config/yttr.css"
@@ -1350,55 +1350,55 @@ hash = "6f8b8b79131422c3cb03e15a35b9ea9ddd2cbde1b57edbd0ab269e46df830dfd"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "9bdc6b60c01fbed520e83d33df1569a296c773615c1606355e0344b72bbfbd7a"
+hash = "5c34b32f3af1781fd634b037b9e7d62701e6706afccf273b89074131d5b4040e"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/advancements/recipes/farmersdelight/rope.json"
-hash = "fb002a3a8b1b68b7a9913fcb13f894cd885f9746291a7f62d6f765eb48dc2032"
+hash = "8baade6a4172dc2cd50efe25817f5da52c76a0defd68617d6e1f60ea6def0e89"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/advancements/recipes/farmersdelight/rope_from_safety_net.json"
-hash = "ff011faaebabfcb0a3ee3a9d12341985864f0b6bc7ad26a11856e571eb17cbda"
+hash = "c960879d974d5d0d5667340f62b80bcd4b760b63b8c7ea1cd77d785bc9d1a5a9"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/advancements/recipes/farmersdelight/safety_net.json"
-hash = "da5d8a7da534127f7ecde6203f5a2bf096ac3226aaf25bc85cda11b252756d61"
+hash = "5de55eabfd1963513d267f32228e48c94553976689620bf718908f770cb95636"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/advancements/recipes/tools/lead_from_rope.json"
-hash = "7d38f34d917b12c63f6d1d17ac3756aa55f3abf2dd25ab42b0591d6910b61d56"
+hash = "9a2a6b0f70c5a67503b91b7fca45e79e8d02d281a098dd76785f0aee2aeb7ab6"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/loot_tables/inject/chests/abandoned_mineshaft.json"
-hash = "155ccd404081686d12b722dada9a6b8f5b3ee279e9382689d46f885b8a4dc946"
+hash = "68b47bde927b40f637379768387ad2635ab86d7538b604622c2f3e29d8ae0473"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/loot_tables/inject/chests/shipwreck_supply.json"
-hash = "e13d66e464fbf88e098807214bcaf0414e9712b391daea77762edd7313982351"
+hash = "f6c3fd282e958d0fc7c85a78aa30cc36f8d957614aa9ea912da2779f4f68bb51"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/loot_tables/inject/chests/simple_dungeon.json"
-hash = "8851adab356d1b58ba37bd4249e96a3de9afb96bd62d0e9d2173ff867aad6ca3"
+hash = "1de313259ccd71550eca40d7bb2412292e4115f51a7212fe583a54d2a74d546d"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/recipes/lead_from_rope.json"
-hash = "8630f7548f2dc4cf0a8538e3f26e3c6b2b6522b8036740e8399aa4015caf3ffd"
+hash = "4369b593b4327f8c82266ec2c5e434a5fb5c4558f492b1e0cf081c0f379405cc"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/recipes/rope.json"
-hash = "3e0a190ff26914a4e2c3f75ee6141f59c355429c3b5ea85795f91dd2948054ee"
+hash = "dc049514d155c377fce77e737b4e6f078b7723f606c2edf60d67a83dea877759"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/recipes/rope_from_rope.json"
-hash = "93fe6407905647d82da7047f700489d6f47b61956a7c7883a526b733c1a2c778"
+hash = "655db3523e24edf6e74b21166aca3a11c680acdcd4b3ad57a55b58aa978f14c3"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/recipes/rope_from_safety_net.json"
-hash = "515580b8f1714b7a92bbfc26cfb7dfab89f70cbc2c349f2915e4f889658fbbeb"
+hash = "9c76992f848e56992d35e7538b2543de1a3ce3281eed38ed794a9b15089e636c"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/data/farmersdelight/recipes/safety_net.json"
-hash = "799cf1a3b37868934e4e227d29817cd154f731abd7274597b5148a4c80326f47"
+hash = "bf8290395679759a981019ce5438f55c39a3bf77f2329882ee669ba91231e3d8"
 
 [[files]]
 file = "datapacks/campanion_delight_compat/pack.mcmeta"
@@ -1406,7 +1406,7 @@ hash = "6f291676d11cae3a8cf38c6283a90a384997aee3f3d0d8b2af9295f19c3040b3"
 
 [[files]]
 file = "datapacks/create_consistency_compat/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "e035f8540658ece5b6bf21df67292df87a3fafef771826b2a8a83cc16055d1a2"
+hash = "a8aa473d3c6c08ed2fb398d4dee157d9178a5a167311b7d07dc88564c445c2eb"
 
 [[files]]
 file = "datapacks/create_consistency_compat/pack.mcmeta"
@@ -1414,7 +1414,7 @@ hash = "18b5435f9635d1bb4fb29ced88ded09f36200587ebc99cc07b798f5adf5321bc"
 
 [[files]]
 file = "datapacks/deco_consistency_compat/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "3ac37b8be31ca11528210c57f302bef727f693671b07b420af150f7267cce3de"
+hash = "4586ced8a75f4c1c7db87c1e78742ca04123353e190c37c17c097f5dcd6f1cb7"
 
 [[files]]
 file = "datapacks/deco_consistency_compat/pack.mcmeta"
@@ -1422,55 +1422,55 @@ hash = "354060901020a9c8a7a06004f2a0927f12cefa438534255e6674fd5e3b325ec5"
 
 [[files]]
 file = "datapacks/generic/data/c/tags/items/boots.json"
-hash = "ba70c265d62fc1b157a58438774d9c058d6a981843ff13b011caa3380fc9dbed"
+hash = "5b2943364bb584579198fd564ba30454ef4b43dfc826cc3fbf02ba5900269071"
 
 [[files]]
 file = "datapacks/generic/data/c/tags/items/chestplates.json"
-hash = "32c7cf7dce8f1e1b0c16b88c26215ede8e8ae2f8fde68e8a7b5291854430d558"
+hash = "af8e455f22c8ad5737ecaff3348d4fd8d3a48051bd0530993ff0bc96e759d54b"
 
 [[files]]
 file = "datapacks/generic/data/c/tags/items/fence_gates.json"
-hash = "deaad41ff52251de0ae4445d349078c4374ce8bae76f68cbdd7a3079b57794f0"
+hash = "3cc9bbfb7933c8e092cb7473d3fd70b3f53a5256964b65a6e5d3e2a9703e40ea"
 
 [[files]]
 file = "datapacks/generic/data/c/tags/items/helmets.json"
-hash = "67fac22f5b851936093f3b92fd16d8b8e5d3df3c21b6e673be1f6f0558da4492"
+hash = "28dd4986921032425dc9a267332eb7cc7e01a9efaf6a8a624876c1e0c8f7569c"
 
 [[files]]
 file = "datapacks/generic/data/c/tags/items/leggings.json"
-hash = "676dbd3b45e281640d975f1aa8fc40f41b2052a440b4346737b73ae2b7f38450"
+hash = "840f77648957aa33d11e3f41b90bca5a44a19b3ba8d2530aba92157e2dca970c"
 
 [[files]]
 file = "datapacks/generic/data/create/recipes/crafting/curiosities/cake.json"
-hash = "64446f085c617dad7bf3b974bda2f11dfba6343fbe3e63e2ce2df0ea3d19a146"
+hash = "7d12ed5d99338faf0b1ba3497111cf3392d1c9d5b18c9311037a57d31041a458"
 
 [[files]]
 file = "datapacks/generic/data/minecraft/tags/blocks/beacon_base_blocks.json"
-hash = "97de19ddad68c14aef12dad479e2c22b3764c7a4ffcbd7d98f81ead5c8451046"
+hash = "89c85cba002c9764049b3b6076268a317c563c1dc6c439d0b04eeb945b134ecd"
 
 [[files]]
 file = "datapacks/generic/data/rightclickharvest/tags/blocks/hoe_required.json"
-hash = "2ec0f5d31cb76444196525b96d1afb14c39fa261dfd6298f0dae54f272437425"
+hash = "ee50ea818114f66d82eef045b20551e8c4f777d79ce90f5c423478fb6d32945d"
 
 [[files]]
 file = "datapacks/generic/data/rightclickharvest/tags/items/low_tier_hoes.json"
-hash = "8212dc546c4524f5644c1a7f0ee5438b7073aeba445717ab20c895f8173c5b14"
+hash = "2dc891151e4833d601a7b5aba7d55fd140cfdc5e8ccd5bb65ec2fd2194ccee1f"
 
 [[files]]
 file = "datapacks/generic/data/tinkerer/recipes/book_quill.json"
-hash = "08b3c0d3329d0f2bc038a1d68386d5fcb5f5b89aaa4e78420878e34ab84ab330"
+hash = "1dac036722b003019918dcabe9c7acc1fc99a7dbb76648e56fea9c7cc9309a5a"
 
 [[files]]
 file = "datapacks/generic/data/tinkerer/recipes/glow_sac.json"
-hash = "cbc875e56dc1a9c53680ecf945a51818362296e2ee24278390e6855de524aed2"
+hash = "1d4091aa9c0318ff4f513d50981c0be2ab65fc8844f44b3c721dd051f0d2d2f9"
 
 [[files]]
 file = "datapacks/generic/data/tinkerer/recipes/slime_ball.json"
-hash = "2915a7eb678610d4d366886bb1ba30169ce1ae316ff8704d8ead79a4719e4d58"
+hash = "38f50cf25d74a29169d37914ee11cb9fe975f3900eb83c2fb3c91a79a72acebf"
 
 [[files]]
 file = "datapacks/generic/data/tinkerer/recipes/trident.json"
-hash = "09879b5f78bd601f10f411b6e1473f6e0231f7d671615f7b489b90b6e77cea24"
+hash = "252669ce03463479656faa062020cbe5de4db5b70223d5401b39131738c337d4"
 
 [[files]]
 file = "datapacks/generic/pack.mcmeta"
@@ -1478,7 +1478,7 @@ hash = "6fbff315a38ceff2675727bf51fd5a696e6da8ab314c5807d3e66f250387d86e"
 
 [[files]]
 file = "datapacks/hide_origin_orb/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "e1ddaad4526210ee59d7c2800b259cd122167c35ca200485a3818abb0a3ad31a"
+hash = "995b691f4f7da2b48c882467040412ace29aaaf7af27a1ea951ec77583cf77b3"
 
 [[files]]
 file = "datapacks/hide_origin_orb/pack.mcmeta"
@@ -1486,11 +1486,11 @@ hash = "0d31c599f159241b5b5e9d1c853a6495bc371115770aa61616872cfaa30bef4d"
 
 [[files]]
 file = "datapacks/hide_origin_unaffected/data/tinkerer/origins/unaffected.json"
-hash = "8cd9154ede49760cc9f100b25be7df9b3b08ae821ccabe382866c85413ffaa3c"
+hash = "de0fa9ab9042b01934ad1fb9fcca05565ec0d47c30613016aa2cdb2689d32203"
 
 [[files]]
 file = "datapacks/hide_origin_unaffected/data/tinkerer/powers/sized.json"
-hash = "c7eab5da897864af27e8cd868697a299f3b4670ec3653eb95f9e738fdcc65367"
+hash = "c88a3a43494aee8b6dc6d1d24321b1c52e49622cd0707514fbc9c4c55c37ddc9"
 
 [[files]]
 file = "datapacks/hide_origin_unaffected/pack.mcmeta"
@@ -1498,7 +1498,7 @@ hash = "b518e34ca505bd6270c55760f43d605a8d57677eb3f622e26d618cfc99bf1cc9"
 
 [[files]]
 file = "datapacks/hide_yigd/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "bd32eff1567a6ae10d7a06f751b353d5a5188f60c363d431438071f1db653352"
+hash = "417b02bca742ac1251035c66de0a16beb0b5d702a32a86adc5db586b7f006a08"
 
 [[files]]
 file = "datapacks/hide_yigd/pack.mcmeta"
@@ -1514,15 +1514,15 @@ hash = "7b4ee77381d0814965a89ae06f1a3b6fc138fe009402c387702b30251a09aefc"
 
 [[files]]
 file = "datapacks/recipes/data/create/recipes/mixing/ender_air.json"
-hash = "05f849b37b7637e39fc371aa5b8d756a8e6aab7d86d030a3da8c00e81ef8ed2d"
+hash = "6912dbd415a662a20657142249e8317046092b4cfdb8dd420394c976d796c19d"
 
 [[files]]
 file = "datapacks/recipes/data/farmersdelight/recipes/cutting/arrow_to_flint_feather.json"
-hash = "e00090b50c92e9b6ae0fa4b4b5b61f462420ff49a7a36dedef70e45491818485"
+hash = "e50a12f9d272353752f4144b0d82a149560eabc91c74f4aaec0c8b2f6a59f6f8"
 
 [[files]]
 file = "datapacks/recipes/data/farmersdelight/recipes/cutting/wool_to_string.json"
-hash = "cfa3d333a8c6174ff2a3041bd9aa5a352409ac23e2a630c56f283a8e461aabf1"
+hash = "3ce9749ed5ec68dee18cdcf32dd6fe855ec0fd1b2f6d48ee132e989cf5524477"
 
 [[files]]
 file = "datapacks/recipes/data/rotten_flesh_to_leather/recipes/leather.json"
@@ -1534,447 +1534,447 @@ hash = "9dd6f816e923efdeadf5b7360594efd4c4756f5c5e7f31ddc543f6ec5aa0cfea"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_modifiers/import_modded_loot.json"
-hash = "9c1530a571c03ca73156a030f58cc8e95317a9f87b556c8246ea0c5b8dbb40fc"
+hash = "a6fa7cb92bf26a479dd7c6695b20e1f3555a1c359b67d9a878b70917f544c076"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/lucky_pool.json"
-hash = "f5f7c21616c6988a6362f43e89b783f212acba382da4dd0993448fdd944ecfe8"
+hash = "f84836c128b743b9cf82bcff3c7a0d9592ecd0273949288c83ba42afc77f06dd"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/badlands.json"
-hash = "2925ab659793f2552fc6b0637900783db62a932052336c0323a29eb16b7f62fb"
+hash = "53c95416ca3743974b0ed303e0df48c28b71d30960976240b7cf3a5a2e67a5c7"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/birch.json"
-hash = "9d3086e846521fa67e3ad112ef7fa7d6607942984d78cda2e7c094da7a02e8e9"
+hash = "9f4b79a20a5ef248fc1ebe25b4a5cd85c54eaf3e484b1574880357e8c9fc4b65"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/crimson.json"
-hash = "fedde032b6a9bb7960e47dec10468a7ee540cc124744135b6bd2f0e06ea1cdaa"
+hash = "b613676af362ff63ac6a7aac2fe4d914fd6d54fc57abf5c12ee8c6750abcdff5"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/desert.json"
-hash = "abf44d45c1ab970d4b5e189932a2ba095f0f241b99a1bdefefe8ed7d89ac3126"
+hash = "b084919d3023d905d4741095fb70809b00860e393b45fc53b1bcea4bd6fe22b9"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/giant_tree_taiga.json"
-hash = "62d22824bc71cd306ab1aba68452a1fdf9b36d21374ba7070c159b5142a8f06a"
+hash = "5401d161ad1c95cf7704c9772e102218068319d832d5d40e4fd0ff8849e91d4c"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/icy.json"
-hash = "4ae9d4cddbc9bb71543acb81a1c13e1a1121d19f93479e969bb4d1c1750ad548"
+hash = "c4aab493852b1880fdfc873a008ab9f69a0e3069d0a0ef0f93cce3c8fa32a204"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/jungle.json"
-hash = "8dee4b8be9c7a721e2ab1433ae70ddb9f0dad1152de2c24fce2e6ed23f45a062"
+hash = "395d78fd52eba677dbd70b09b14181c21c9e5a23bde9369070563f1679a32c60"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/mangrove.json"
-hash = "09ca8aed74954a606c605475674a279de3ccb14a2f29058f6dccc422e76aeba7"
+hash = "b264dc724fdca5cd2df9fb1e4a3e4fb4bcfe16529624dfa592abbd7534b48614"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/nether_brick.json"
-hash = "b6b6d7a3afae916c484dd9305d7288493bb39f086107757115defcb280875825"
+hash = "e1ebedca82fc5d8e86a774b44660867ac0ebe6df1b4f127195c8bf111f7ac5c2"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/oak.json"
-hash = "8b1e7a205eee331ef632ed43aa3162ac3d56beabd669f78a593f4afea9dc028a"
+hash = "27096ba3250f60e02ae902dd62843f4206a92fcbe5e2dd86914f3b74dbf6cbc9"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/snowy.json"
-hash = "9b31c296c37b16a87e84fbc36b8923d07f84ad171f48bd3060f1ce9fbabbdcea"
+hash = "71a6079c5fd65cf002ee7a0604319bcb147e9323ec3b44d185fa342693737659"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/taiga.json"
-hash = "adcd561174e9e0749270ceb8d1985f77f18304944f4df03dc43e22e7032d2f53"
+hash = "6e1b1b179824a1f9716569a36fe5a3122b384ee1896abf2facc4bd5ce650e578"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/outposts/warped.json"
-hash = "8d34e9fe97c4bccb53d29bc16cac29c5d09d4350edb681364ab68d231dcba882"
+hash = "bb83af66e21c52cf06c48ac9e1c6459b86b269f865581edac873d6205fd4f9d6"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/badlands_house.json"
-hash = "334f39a29e3ee93c4f78db4970c7371edfae2f2510c53f61dc6be1f49f0ee052"
+hash = "c4385d87ddc15ec440907b4d6ef278e5c4cba63c9d144b4473ae14964c63acd6"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/birch_house.json"
-hash = "51da25916c5ad0bc37fdd750e2d9092756be952145585af56d88301d5805e95d"
+hash = "c1d0972ca5af01104500e7145b25e4906430b0289cac494ad6e58c59c5dee2a1"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_cartographer.json"
-hash = "f8b5f5289b2daee1edf9e937c23e84e67d69ed1a0c5ce565d1e64e54c07ae664"
+hash = "fcbba533de9bbf4f635de081b077de57167275a52741b20d5af23cd56f09f47f"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_fisher.json"
-hash = "2cbceecd79bc365c30fb13e4a64e500fbf8ecebdb17ffe80d2d9a370e1fa4750"
+hash = "b10ff4ac44a91d77715b0d073d9372ea78c35624b0d0fcc063db6a849c043955"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_house.json"
-hash = "511f32d5b95d31f61e9dcf0dd755ad9149c3b7b1c48280b9d9ac032d0bf37ad0"
+hash = "d9bc481be5edf52780f93ea14f88c184a970b985446c682927bc9cfdfa17bbb5"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_tannery.json"
-hash = "38f3eafd27cd95246f1c279bdca95e181efffc646ea5b491009fa90e728276a1"
+hash = "6cb1f97a1c3088380c636d22a51e58a12c30ee3db51cefe9209c0e0e5150adba"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/crimson_weaponsmith.json"
-hash = "5cd6e36d9a6052331f9df2edc4be4bd8bdbc1a3b1c4af1c8de16887cd458cf69"
+hash = "ab3019ea4063d1ca490b3f95913e1e3069bccbece68e68b0701430a22e2ac864"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/dark_forest_house.json"
-hash = "c7a287ec851b626b50f0dcde203e292ecf6e6a6894affc10051e58252c332a2b"
+hash = "eee2a36a070db5dd77637adacdf19ad7c868bec073648bb7d95c98366658fd84"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/giant_taiga_house.json"
-hash = "206528f3a155da23222f17e951f7f7eb9f0122f50defb218d51649782133b6e1"
+hash = "4b0f0ca1fc99bca80dbc7b852312ef0787649e424b38c36a14a1fc0d3e897e2a"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/jungle_house.json"
-hash = "a2b1a6bde0b638cb23d01cfe3ac7284b4b8623c8e570c4aac87c9f9ac487ecaf"
+hash = "805c0bbabec32d5997b47832c3ed2b31fa35910da94af67fa41e497bc10ba7d6"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/mountains_house.json"
-hash = "58a99ca7579ff621de9df19360387f93c410621b6ff8a76f3fddc3c65bec4b01"
+hash = "ac15744b00e13cb3e7c08bc98ea2228173d1d393fe4204a8ee90df756078158b"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/mushroom_house.json"
-hash = "699491bcad9d673c42edf40066cf573e6c1655c0e8e4a60dd7868bc8e1962a3c"
+hash = "8740465075760b8d67420f2239e11a7d7a9cc2b82e59764b22e37337d2460a1f"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/oak_house.json"
-hash = "599156288b3ab363023b997ca01310066e0c907dcbde208e2afaf9947bd68afd"
+hash = "a2e4f77aa1ca2c18e8efb2ed8952124a749a9f80b9a632b6fa007ecc9d97b1c9"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/ocean_cartographer.json"
-hash = "a9621dfb7552171ecfcb95dd3c1c27db777b3163266e9d630824b1c1fedbb1d9"
+hash = "05a125695fdd9b3d4ecd88424c209624d7e53b84c11741f440b7d3c2d60d3304"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/ocean_house.json"
-hash = "6682feaaac5fd3731295ba8be68d2e630122c53f5bf11b820c9e2270a203d469"
+hash = "3f9da0f9c854f8533b00d6988942bac3e521a3fe7f74bff9614a620eaacc30f7"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/swamp_house.json"
-hash = "a9285a0a12150939a049aacfad4354921e04d096ac466be919d172dfff2e561d"
+hash = "f14beaac8f80d61c5ec72c221be69b1aa771de2725c634db161cab132ac0cd09"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_cartographer.json"
-hash = "f8b5f5289b2daee1edf9e937c23e84e67d69ed1a0c5ce565d1e64e54c07ae664"
+hash = "fcbba533de9bbf4f635de081b077de57167275a52741b20d5af23cd56f09f47f"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_fisher.json"
-hash = "2cbceecd79bc365c30fb13e4a64e500fbf8ecebdb17ffe80d2d9a370e1fa4750"
+hash = "b10ff4ac44a91d77715b0d073d9372ea78c35624b0d0fcc063db6a849c043955"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_house.json"
-hash = "99bd7c2f2314751fa83b7384ecf5e64877ff696eade0aee77a3f210cc45720f5"
+hash = "d2e6784dfa81892d341f26aeac1216fee133fe720621fd6addd0d881dcaeb5f5"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_tannery.json"
-hash = "38f3eafd27cd95246f1c279bdca95e181efffc646ea5b491009fa90e728276a1"
+hash = "6cb1f97a1c3088380c636d22a51e58a12c30ee3db51cefe9209c0e0e5150adba"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/chests/villages/warped_weaponsmith.json"
-hash = "b5a4483038b1bfc563a7f6b94da00c66237699b1efee0cba832b781ba48ae2c1"
+hash = "8230bdf20316d8b095e422284b2345c60e6445a66ac7e7c9f3c0c8e1b0491763"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/pyramids/dark_forest.json"
-hash = "4a908271d8f8e4c3492439dfd512462ff413c56e2bb22c7051f3b16f25d4d72b"
+hash = "280f1a2b4b0484d399a551c51600e46ba924427d4415aae4facff893a2b11be1"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/basalt.json"
-hash = "92dbc32f4af22ef4e3ff9002a5f9060ad3aaf1b87236afe2e62faadf331f2be1"
+hash = "eb388872c927ea1b0135d4da8d874bd1db147e67552b95a0afc1c47e18a7e074"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/crimson.json"
-hash = "a9f2558592514917bc8e6cbc876cd311397d7a147767af2803ca60eaa67fc5ec"
+hash = "a2554b8d56f2555aaf6dfad146b6f8ebd132fe60289b7738c39053d42806e1dd"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/soul.json"
-hash = "00edb95a277a685e1f17a1c5b8c43643a9e75701d36849ad3d578998fd24763c"
+hash = "257fb9d12da2516be701064504e3111af4fa60ff83d3ce71e265993c7ef46a19"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/taiga.json"
-hash = "483ece8e3ef800e10f3840cad9b920f2e6e8d29abe77b32bbdb508ca1127e06f"
+hash = "8b1179dc58546221eded23f18a05ec3f54f5a7ab1ae456ebdeb20e43e9252c54"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/warped.json"
-hash = "a9f2558592514917bc8e6cbc876cd311397d7a147767af2803ca60eaa67fc5ec"
+hash = "a2554b8d56f2555aaf6dfad146b6f8ebd132fe60289b7738c39053d42806e1dd"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/wasteland.json"
-hash = "a9f2558592514917bc8e6cbc876cd311397d7a147767af2803ca60eaa67fc5ec"
+hash = "a2554b8d56f2555aaf6dfad146b6f8ebd132fe60289b7738c39053d42806e1dd"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/dispensers/temples/wasteland_lava.json"
-hash = "f778be8707e8902dd307372a35f62ba5b6a8b010ea36ccf81e857808a895f836"
+hash = "e6133baf08b4fd7b1ecb2614fe05f7e2affd295f3bd8b20787e089411abaefae"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/dungeons/end.json"
-hash = "669e3c17fd4708c77155e25bfd92c8ebabf86518e8c448971c0b849c45a896ca"
+hash = "1d29ba87ba501bdf51b0d277f5ed586036b387b768fcec65c5a6419f089596cd"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/outposts/end.json"
-hash = "f7ec5d670c26adaf120870e8e93532ab741fccb9253a3fc7a7633b2a0189a239"
+hash = "5521aa6f72523668d9e8a18e7968ecb8bdff7ffe83dc26c5fa6fe0bc2a2347b3"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/strongholds/end_hallway.json"
-hash = "1161c0ffebb13553b649983ca5ee804c1f634fda484be9993c83d066d1395f4e"
+hash = "cc75f35824d6f6d71f68f1a945aa6012a55a4f0d49c5be0481de78017a31cb2d"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/strongholds/end_library.json"
-hash = "4963c3ab2756d4d22bf02790392453ca93e00c6fb280c64d72b2ddc6db3a05d9"
+hash = "a109d1b738de55117a82521baeb5f591433639f100c250db2501f5c8f32832fa"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/shulker_boxes/strongholds/end_storage_room.json"
-hash = "ff862d86b1c28893db9e6c2266f3918c02656700504a9b9eb8cc129a35c3983f"
+hash = "3c795c6a8c668dac7666acdec5891b0900d5963431024e3c99dc1a582694f0a3"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/pyramids/badlands.json"
-hash = "7d1a29b073c4c35efbf381ef4b98f632f54f9f8bc153183e6700e3a66ec6673e"
+hash = "eb2ba580305c5c03b2822973465b24e03a8cea269a86a2729710c744ec084b8d"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/pyramids/end.json"
-hash = "425218841ec37b975bf04c743f19dadd17076634bf051d387a71f86e053e2ea3"
+hash = "24c16ec679c513ec8f7e9cda2bc8368ca8a6d9e0094898a925acad7691d9a687"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/pyramids/nether.json"
-hash = "fb12d094d3a2f8765958cdf53b807d2383b466188645b3fef73d14bb56ba8f4e"
+hash = "d82d172ac19e64a7693e3c4f869d30b162fffb4f142ec4c4a25f58065d28fe4e"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/pyramids/ocean.json"
-hash = "c45be7cfd292d2954d0bc8409dc2e40fd302db6945758b7c72a150d50783b4b1"
+hash = "86f680f77e1a2690f5ac3bff1af5f5d174669572b8700efcba16f3bba41f1361"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_tables/trapped_chests/temples/warped.json"
-hash = "22760abd7c897438f8bb85fbb8e2ddc23c3f7d933f3f3c96f93b87638a312229"
+hash = "51be0a9b4dac4d7875f4b3798354ccb03b4444de5597b35161723221147eb9d6"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/badlands.json"
-hash = "8adc9faf97db3463ba4db89619d32af98c1f94486093eb36df63c33cabc5560d"
+hash = "0a42a8bb25c3438d2dfee0e9742b3d80e5e7028a8cb3835ceb48a8eff667d686"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/dark_forest.json"
-hash = "acad4fda9b89d08a4f336ca8bc904c7ce32b62d5bd690779ba63943e8a479c11"
+hash = "fb243ac690dcf870c730252d98f20a2fc8e637c028375b3a7969229b67ff61c0"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/deep.json"
-hash = "69dea60ede54d2023b355530650320fb7e171b3c9251f82c7172c0757ebdf05d"
+hash = "8920830b326a2c86a1a076cf7ca106d5b434b3648706e97cfec415853821f4fb"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/desert.json"
-hash = "b83ceb25fd8c4982cffafacdd694237cc082c71dfd973a342f70130430600aa7"
+hash = "3df146fe65a3f15345f672de179c50ad6ac4a09a54bfb5a0adb6d9e46c06d287"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/end.json"
-hash = "5d30823a3c2f7dc1f23cde2bddeccf1661c6acae3e5b3b18177765e4d1b77743"
+hash = "b86e05e56f2b7fb08ba5a09a59bc7dec6dc83928e8eb79a0c46891aa0e9274e3"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/icy.json"
-hash = "88909aed67386e13c95a712276f907621c92617dbe45679835d7ee6ae660f73f"
+hash = "ceea6c8ffc9a29b89f7490afff7a20f75776d7963514de7a0e4b803632b6ba1a"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/jungle.json"
-hash = "90b1195bf575bcb63b389c9709b6969565407b6cc31a0b5a2c6131be507666f5"
+hash = "1845e3c0e5570bf44dcde2a1ef51230213c410a767fa661ce92593f086b35821"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/mushroom.json"
-hash = "2ff82cdc3d89b8361ae2d8944a9a246916b4fe1e68cedbbe49355ff76f14f367"
+hash = "10fd73be20a8bc922acbc7096c7c4a8aa86fa4ec7b25b693b4d94bd904845e1e"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/nether.json"
-hash = "8209e5d235311984398afde8941dfc075d87611adb07fee408b02879b0089e0b"
+hash = "2e70954a805e0d570c56c51482945814789fd6fa965fa40acb08bb3bc27d237c"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_cold.json"
-hash = "d0179bbd3bf0be674c0f16c75d9430abe71c5997e3fb7037dbb6c76ab48b6e8d"
+hash = "8759167b6b42e83aca5ad96e38c946b4098380cbeaefd435779c052502dc45bc"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_frozen.json"
-hash = "9f34cc8de9c60a3daa82d99f322a7543567bb587b1fb7799efd3494cc5e4ad4e"
+hash = "f48f87c878c4f08f2030c6c34f769a8d7e4ae0b0566f9acb6e243ad0f332306f"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_lukewarm.json"
-hash = "4b8efd3dc3ac444e71141ea59c88d686bdd8c89c4f54292ba475b794983026f6"
+hash = "ee2881b898dab512e542a080622e791fa554bb3f181c49764fbbd1d2ac59327c"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_neutral.json"
-hash = "25beb8794080f5fafc5e2870e15e634bc5afd4cd8651cc74f840d27dfb152d3d"
+hash = "55fdb0dfa501cbea2fb5f974853d97242fa750de55a02cfdb9acbaf774d51716"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/ocean_warm.json"
-hash = "07d064d283a1ff1dd444b8c6a8d6c74ddb355a32a7c69a14b01e67806ece9f47"
+hash = "1ca7572e1701047525fe6818810c54ad7e1d3e88cf7256621231490bdf4e90de"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/snow.json"
-hash = "c613079537dbfb4d73b0c1e1dbf672a4bc9e30121d14ca49b219e61e8c61135f"
+hash = "fb3900f9fab12fa43dab9f2b372fb7d189b97658000f2b0519a78cc0e4a9d987"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/dungeons/swamp.json"
-hash = "561ad6b8a47f5e0f40656054f8ade673fcb2415ce86a16ae8deb3b4f4a1631a9"
+hash = "e78cffc94416a745c57d5ebf794a07c8c73ba115fae8613dc314ac9cae1f2447"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/badlands.json"
-hash = "b0be145504a5e508d623f6c9f2ff5c94130d8b8f9837d251fdcbec87c195bf38"
+hash = "09f5c59c4d474bf5c9b679573902dc95e7e652a02c08a76d4a9952f954d6cc40"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/forest.json"
-hash = "56ec84606b698a45d4be481cf4026397c58760c214239a2e1d523cf93234b9e2"
+hash = "703344463ff31be5ba6a1fb53d9fbe080b28542fd4b58ff3a06982fe7e46f0be"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/mossy_stone.json"
-hash = "aff416f60399bbbb208635ffd9a4edcb5ea95430125e3aa21ec9284eff7ca9bf"
+hash = "1ab8ac7954e17d7734cc6338af15a305ca54f833513402282b4ac174e3fe99bf"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/mushroom.json"
-hash = "98960d2a97d9608f482e100a0d689baf578228443bbf7d2555c42e93b3c2877b"
+hash = "f5d1cf8da87c70bb08e1fb42c5879bd3d8625cef1142ffbbd8e889bb6902c6f4"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/nether.json"
-hash = "d459074d063f104ab6e520f593bcb9c7804eb39b9a333ddaf48f70ee4eec6b11"
+hash = "52f5d4ad26fb01d614a430586804d27f47daebd60e4e0e9a34a25b80b0fdb69a"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/placed_feature/wells/snow.json"
-hash = "9402f4aee704104d9e6108b7023e8194678e2ff5731f83ba44f089677871690e"
+hash = "7adbd1ba3b1b82d141c46e20138687c3844a7bdb552a3c46d8b968f3ebb7635c"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ancient_cities_end.json"
-hash = "33edcc08090239a2b8011fa630b59bd52ea6ca3a5d31f608ce7a85a1f9230da3"
+hash = "90d1f5d60984c7524af2f58d2f8bb38ab150d18648a41cc701053a183e6b0ae4"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ancient_cities_nether.json"
-hash = "dc67911d115bdd55d113bb00a8af4f46224c5a85b2b131bf3973c51ec726f7fc"
+hash = "d1c1fa08d60cd8aa8c7be59515adf041e0efbc20f747dcc9999067b332a5e195"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ancient_cities_overworld.json"
-hash = "1a9cd77004fae7b7669cbfb2461ff001704401c416df2444be2703ac83ad881d"
+hash = "24a02d92f2a8fc8e57e9adb0a62ef372791d045c27c211c82afa6c189da1e45b"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/bastions_overworld.json"
-hash = "f6e7c484d8af746405e8d4cbb6c54f7c3dcd9fff54263a129106f3f300f3787c"
+hash = "f46bb6ebe897d50b94113b45e07ab94745e6adef4d4a9b15db229a3f20818684"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/cities_nether.json"
-hash = "84d5b81cb10f10c2e8997e0e2e2aab8883ddda94acaa5cda196f6535852590b1"
+hash = "0e4530f01c3cdbecd98bbed96730a842cbfd63a54f372cf5a92cec89323e4717"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/cities_overworld.json"
-hash = "815d5f898e5a06649c568ae119f0cf97da7f7c959f076132678829a35c8fad65"
+hash = "cb56a270e13396cae24e99a5de59cef887e0a01a870b1b450c0dafd7f93287d5"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/fortresses_overworld.json"
-hash = "a25b4a5ef8de52fd103c082410bc284c60acf40bd5b3aea3f21ed7c6a5886dcc"
+hash = "54830907d33285ed657e7a52e92740d507425fc1f0c6e6e22b9fb171ba99804e"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/igloos_overworld.json"
-hash = "eb378cb3e23f7244f52c3538f216f2a07f44c1f6e1a655fcf71cd144be345955"
+hash = "ff1d8abeb43210be53c84ac8083375c3296c410c99e3bfcf6637eee940640a4d"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mansions_mangrove.json"
-hash = "9edad7bc16d41884516edd99840bc4df474ffc9d276af9026121655b13def216"
+hash = "19ea005d60beb527f51e06701bbe8f79d8f642600217d606f1ec8775d693c5eb"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mansions_overworld.json"
-hash = "9cdd8204b841fa7529d0057988bb2c937b2f75c0814c46a8f693bfba30815cd0"
+hash = "367e58aea516ba7bc7f3320c60eb7c70df8db3ac6df276c1bf91d57c0ca30613"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mineshafts_end.json"
-hash = "3b6571af85cd7f6dac62f44b2bff67e2b978a4948900ba8658c5e9b68e1bdfef"
+hash = "f42fcea51cf053880dbcd465b319196349a2d6447e45be0fe7b1af5b43959866"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mineshafts_nether.json"
-hash = "d90131fe5cdc7d829ae007ca1379c382cf22be9bb032454655c2db4a88f8f256"
+hash = "fda26dae9ef34e096e803971bd4e49fc69bb00b505a853704d1d0cd53fad2b3d"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/mineshafts_overworld.json"
-hash = "d5c3eebe657ad00eabcace9ec18c3a4027eec8d80a0ad38647296431fa73589b"
+hash = "338a234b669766427f0f26563487a1a4068fc347d651e8651a08f6582d33673e"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/monuments_nether.json"
-hash = "cdc914ad083641c7bfc57e28f07ba67c3b9ce8e117fc78d9bc4910f9645c91af"
+hash = "f290b771bd41b8cfe080eae801514ba5eb328603ba2e8c99847b55d36aa0df65"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/monuments_overworld.json"
-hash = "717bad6a44944851b4921a4eacf2f89bbf85dd530dccf3f044f959b462a68867"
+hash = "04b46f70412e50f11c9e2ceff4398c68ba92a2b67ed0c33b0377eabbf545de07"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/outposts_end.json"
-hash = "868897d1d18a835e76c02feee03543cbbe3487ff42bda2cfac280a70d24199cd"
+hash = "d8974f9f106a3c94e6253497e507715ca1d63265e989185882260ba57ac059c8"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/outposts_nether.json"
-hash = "b3ec4a7a8f8f1b070976855c3524b10f55726c5f0d2d6beb1b6a0690da103984"
+hash = "791455e4de438d6cc8e4701b216d833f4ca7e9fe0126bc0c742ce2768b7a61c8"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/outposts_overworld.json"
-hash = "cc447dc32009048f3d852213a319fe54c64e45a820cd9ed9f389eaac3c980ac8"
+hash = "9d847865bd1d09ebf8ec03bdd537da0b93e1645be5845fb3eefc4376aa16f86d"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/pyramids_end.json"
-hash = "128d1d5cb83f8d553464bcc9b80bad1618b43726cbf70600206466f602be3693"
+hash = "8db54a75c7aae75179bcd24e6310efc5eb90ce42e5088fb7d0b1f836d7671392"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/pyramids_mushroom.json"
-hash = "68a7e1cb608343ec87b333089eeaf5abc000843fe05eaf450705f1077ac1de3f"
+hash = "0d39680b6599749ceed1a24ac2b20f52756dcdf8b29e13c20bd9a68c894b3332"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/pyramids_nether.json"
-hash = "f2040ad27360fc240479c4e5d369517510d64b4e8eff3e8b9f49ac177e6d0a7e"
+hash = "58adc92c2dafee5c3b9a4eafef11438f66d95783bd3caa1748dbd6ef8ae1d58a"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/pyramids_overworld.json"
-hash = "a378f95da24913c980eb52c57f48c8561a0f1a0561c5c122efc3141f1c130be6"
+hash = "7de21f777f11e183a021d272907372df5b1d7c7cec844ed819fc3e2c3edb9e0e"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ruined_portals_end.json"
-hash = "64ffbced1678cf67be846305b72dca3b923373f6bc3d0b6fd81533d8a5f7fb52"
+hash = "076c159382e5832b618a8e7bf47281a3d6f2ae6cd81dc89bc6bfb5cdd1a2a1ad"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ruins_nether.json"
-hash = "2601735319640d9ff9bac8a44b4522ec74b71d589a5d7e2237574c36616b5f7f"
+hash = "e28b11ff6c5aab960085b35da6482f9fec60aed25483e348b91175825ee310c2"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/ruins_overworld.json"
-hash = "4ea29df61f26683fd7d58f9c3b31ed6c942900629b35a9e649ea94defe2427e2"
+hash = "2c02abb07bce433410b8d634273025265583e7b2bc517aa8427d26ef5b433ea1"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/shipwrecks_end.json"
-hash = "fca8931057bbb46b3ed429ac26653313637a70cd9a782a3841f960c04398df00"
+hash = "9ec24c167bb36203a0bf6d37d1d4fa63243009b08dd850342a0334ba218925c0"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/shipwrecks_nether.json"
-hash = "ddb72922c054b820d95edadc55b13b93f19deebef6cd3d0bb265c8d9add39727"
+hash = "84ac4023e5ccdd28b0d98e4c465a631e227bc05b8c423db2e294bb01cc68ba4c"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/strongholds_end.json"
-hash = "0dda0b6ac1e627271f9b6162b15861819facfbb391f70b0b52b7bb2a9a7ad513"
+hash = "443846eab11e4c4417f69629b9479ae7ec7aeb13b2a9f835429c178c155b9932"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/strongholds_nether.json"
-hash = "47af52a54bb1c0b3147b924a36e454eeb9ec79b13a4063d9d94d378295751a19"
+hash = "eb6419031b2650847cbd7995f6ef5727ceca3d8f06a5f2ec01a9dc6982b78bee"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/temples_nether.json"
-hash = "1b49bf32307b35d9ffdebea8c13ac7a1d7da1ded6208a3ef0e92f20c6fdd09e5"
+hash = "4dcf8b2579d3b1116b7779a867ec34ecff96f94b1a8b5d4faadc8ac661d9ca0a"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/temples_overworld.json"
-hash = "d833195a043f8090782e69144254c996809ecf213a808c657e293cdcc214185d"
+hash = "7b24a86e5e9040b5b79a8e47aa3a7d39734093e9f46a0615b549f00ba6a5fc02"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/villages_mushroom.json"
-hash = "62ab79cd868ad41717b94b5fea39e5c2432cbb4412aa64dfc2d0abcbce1bcc51"
+hash = "47cc08c4ce1db3f8691d99b7a0fe0e7aa30c43fd9e2123bf53e3feda2e3f3af8"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/villages_nether.json"
-hash = "ec9172e5e745d2b307e3c9cb361f325531f4370cd53841bce4da7db0b6fd333b"
+hash = "a36786e6701801fc0a66c87570399cd7b80058c3a79ad59bf677e0eadf0c8350"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/villages_overworld.json"
-hash = "b56dc7bcc0a7fffa4763b54be0504d075c1c348f8ec961b5773174f95b25e796"
+hash = "88515ba31fc5497837cc3e2c5ee414b3f12d4d72b282cb36aaa1e5bf1af0d4ca"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/worldgen/structure_set/witch_huts_overworld.json"
-hash = "a9c8958c4bf427414e9fede596568b6b562ed76a6e1baecb6f7a6a416af0f5ed"
+hash = "c7fbd88b18e855cca38739b54eb256a2efe09e90dccaca7c376957d1f70cfa63"
 
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/pack.mcmeta"
@@ -1990,423 +1990,423 @@ hash = "aecc894caad07efe2609588f69e71559b015ec360ce4e5dc74ef6d15bcbe3dc1"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/acacia_planks.json"
-hash = "7904758b9431834faa15610d25d375b56f28cc1053cccd950426ca5342228bf4"
+hash = "fd5c6e5c0b6d60c5a8b2c349e1c11067b76a5a021285b09545427be8d79734cc"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/andesite.json"
-hash = "561a18766fd73c5339e8d0bef33f6c8118ba31a29447dbe1f8400ad7b0fa6346"
+hash = "8f9ba1834877822cade4e4318efed2ccdbd3f6c4c33341993f0725bf376fd7a8"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/birch_planks.json"
-hash = "651e873eea742537c9c955bb6449b39327b6067478d0cc70730712427d643bed"
+hash = "ccbe3e2dcfdd6414c7b624368e2ba21160de51d00af22331ee038cd3871a80bd"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/blackstone.json"
-hash = "8cec7c312dd4fcf36e920bbf4e82e27b53c6bf50664e1492fc103b92bc719299"
+hash = "f56594b19b8d9f5320c32f7968f9c6de191faedfaa7073475e385739daded780"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/bricks.json"
-hash = "e7090604d2be4bbfb1f66b2040e17b54fe91b61e2aed308f74aa9ce69474edef"
+hash = "b232f200583b7f552c962957755d5218f4a136ea2190910f676204575fdd1921"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/cobbled_deepslate.json"
-hash = "f3b2778afceb4822f00b277280450f6df6f0cb8de7641b6acd2ee25a3e221f42"
+hash = "7b32b21b85c93d1dfad40e3bf819e31a89fd27b232a02f51038d22c84702bbef"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/cobblestone.json"
-hash = "6673a6edfd6dbe5969c6d0aed6c2032c000cc63d6f6e5d2f94c9f167b5229a80"
+hash = "fca53fccccb1db900e5d2ec22859c2fae2ad613ceb815be59995d63497f3c486"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/crimson_planks.json"
-hash = "3b75acc80f653b71ea2a8b7b97ecc2585ef3ccb196f9236889d6e615fc01467d"
+hash = "9c5449c7e2391e608e74e368345df72166c670586344b2260e9016ff35ac2689"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/cut_copper.json"
-hash = "2544a5ca8756ad5c740befa46489c537172ca6b6c7656cde8795f7309dfbdbcd"
+hash = "2b4126b458875b3c7e9abf33fc686d5ce34f504a93af164316600ec1d4c88041"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/cut_red_sandstone.json"
-hash = "289707cfdc4acc488e5fb410512d97370f1df3b710b28e0d1050b1ceedd55497"
+hash = "b3f670b576705def26de428365d86355502e835f262cc4a557822f828a46b60f"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/cut_sandstone.json"
-hash = "494d1d709e65adefd83a0755fcdc7c52f2301578310e6312691c2c912e497144"
+hash = "df9266ebbf1f13d110bf4730541337bfc561c68326c7bfb258f53c7e0edd9e63"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/dark_oak_planks.json"
-hash = "b6e4c3dbdbc0578cb9878ff0c5699b71e1c97b53229731ddde1d58fe44642f36"
+hash = "7fde2cfb53389caf79bce8b9f083bf0c471bb81cf30e940e9a71931e09583500"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/dark_prismarine.json"
-hash = "a0ccf87c6782ba53113d11a23fff8b6eece8c9986780cb19dfa5519dd3086fe8"
+hash = "90caa5c67c0b0d867746f7aac682c56107975ec1b7edd5237497c98140048526"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/deepslate_bricks.json"
-hash = "6ad50a79d98df2596394046cbfd92890d139ebe45b13c095cfe15a43a3ed2823"
+hash = "5d95430622e2d248a21153985b5817991f387e751c745d94bddd55940f76bdcc"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/deepslate_tiles.json"
-hash = "f705d0b19f48bf9c7f723013c87e1a9977a30d1788ea3d44f8059b651f145e7b"
+hash = "79a250b454e06ef29412e6ac4ee33516d4b332e4a48f592565911640e682d5eb"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/diorite.json"
-hash = "43b38129f8ba12c8a373c87d50f00393fcb34cfa411b8f451bd555b41e450761"
+hash = "21dd1369b5b84c2cc62c6c438a51caa3154493cbb331da5afd76a36d295894f2"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/end_stone_bricks.json"
-hash = "1cae0b6c5b03a203f929092a19a81adc248e2e2742b7113b4e6bccd648bc667a"
+hash = "542d44937caf9db85f6ecfc1809454a7ce32a9254d6e0e75a44a3a8022344524"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/exposed_cut_copper.json"
-hash = "4dad5bb1f3c014a73e205e31206c8518e5615df525002aa561ac1646ee846750"
+hash = "f1b365dd1fb75a73c04fe216c5673eb4cc03592631f0ee45e31603774685ab86"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/granite.json"
-hash = "cd09376e06408ead88b821771e1533b85abe13fbeb75f3b6a730c623c7d4f6bf"
+hash = "615047c18e8df4d0c2d43942d1ff42a1feb3ccd1f9cd0cddb0be76a6217cfbbd"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/jungle_planks.json"
-hash = "b026f53e5c3099ef809621feb36200876131b8f44b99d9c2fdfd40dbf70adda4"
+hash = "040a406576b272c75fab838cd8f46db6f60e381bb0ec1a063737123256ae023f"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/mangrove_planks.json"
-hash = "a8e40a04e9d3823bf42515d11a9b76cf8f1b5388973a19f3ab95add1a568ec38"
+hash = "1477e3613207f2d89ae4516bc67392cb9b959e65a55dce078db558f07f88dc5d"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/mossy_cobblestone.json"
-hash = "07106c2f74275cc637d2f8fde76e46982dafdff63d250f05103f201a146726af"
+hash = "bec3985c31f728615a46eeae5dbcefcbdd449ee01057f2d67dda904730ffecaf"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/mossy_stone_bricks.json"
-hash = "c5e487d0a241a6dfb448df4666ccc8dd068264cb78e98b1710f8e47b35e5cd8a"
+hash = "479b28c36d071c1b54bd5667827081c93f86269584983bba5cfaa2a554ae10e6"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/nether_bricks.json"
-hash = "5d4719a14b535c494499b40b4e2d237ebd5b3d2d0b5d083580c655df107927b8"
+hash = "6dede016fd2b4fc017498aac73d8a28f968484fd8610b2afa652b506f5e7cfd8"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/oak_planks.json"
-hash = "e6ebd46e0479f7c6586b425c268414aabbc528672fe904dbd2db810ae0f38e61"
+hash = "5d910a6d9327f766af1f93814c61bdf013418348bd64fc4e5f58871916edf563"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/oxidized_cut_copper.json"
-hash = "eac0a9f8e4f97c42c711c330dbdc403e41fb009692b8dfb32adad04914b044d7"
+hash = "434a95e1c566c66fdc8252dcdab478ec606d795fc23e1703a8619b24e92432f5"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/polished_andesite.json"
-hash = "79bcee5713ca913b95bceb80d5d7aabc6b77a6c5ead4e182d0ed80d380d1c2ad"
+hash = "b5ff0a3e2ecbe9331f9c12b599000b818719862ac9758ea32e18e598e6b4a605"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/polished_blackstone.json"
-hash = "124766001e44d0c902a5eb80b91d85a4d3febd93fdb810ae22b93bb0ab8af130"
+hash = "2ea0a3e22ee57b6468201c0f7797d46485544459382321c43fe9a82c9fce624b"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/polished_blackstone_bricks.json"
-hash = "1b3bcf194e55c38856c4b2fa8524fa4cc0e45eee025b28af042c0398c34fcd24"
+hash = "6820e139b8329c3c5c946a686a962d1b9ae781d7433d61ffdbfa2be6d08bd74d"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/polished_deepslate.json"
-hash = "96cca9f39fd8406876b12ed87d01922b1364bc2a68819c6d3087645568eb57ff"
+hash = "579902fc0875ef4c51d521d70cd1e5a7e74bde2aa6e6d693fa7ad92cfc82a0e2"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/polished_diorite.json"
-hash = "1625683d6d1812e45cae1ee5bcd020e2aad4bfb6b429c4b13215042d6de1fd3d"
+hash = "7043fca3e3d86f968644473e12d7d300af3aaccb4fa058445502e1844462e2c8"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/polished_granite.json"
-hash = "62a345be2f9b6886606ad5a3a8213949015737e9bd4306cd9fa40c2e49ef8d44"
+hash = "de345e57796d82d3c321575a6be531b1b0beea87f7922f913d65b1eb1c7182ff"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/prismarine.json"
-hash = "7afbc5bec64394939b28a4f4cbd5d0ef9cc54d7a822d50abba401010a23f9216"
+hash = "f5b318f9470233257812114d91baf91ac5c1428f65e34a9004891be3191e0853"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/prismarine_bricks.json"
-hash = "9296a58959f671be9d9722665c3172d0b1c70013eaabacd14dde383344365f83"
+hash = "6e1fe33505f89cded916687950d8a7af7e8cdbfebf681d77ff308cb1be6d979e"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/purpur_block.json"
-hash = "a068fd7b2e3ac41296f1eab54d596dfcd39fe0b75be0cb32f8e97dfaa7a22972"
+hash = "3231cd5c91bb690b7fe29ce3f7e48b355f8babaaf245d175edb2a90754a3e02c"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/quartz_block.json"
-hash = "b3de4fde6e78e693d9079322eb7b704bb24f1ecefe2181ac33bb4f87370f7da9"
+hash = "9279e524ee92a8a8d3b442d45f33c08c3e1967b5ca7a2f8b27049875b3bfe5bf"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/red_nether_bricks.json"
-hash = "d40a116aa8eb85f018f300e02158e99aee3b03a19e827c1c7f3ef94be02fb2a0"
+hash = "395a614cf2a71b1d3165886355d6909abd86b9892c02f7dac61b8373ada013d2"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/red_sandstone.json"
-hash = "864edafde3ecf0bd1ebea6dd7ba0f7d145d8a8758f6963a65324f44c21040607"
+hash = "0244f725104d548edb8dede7af300047876f9369217b7f2195cbb38a09ca8180"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/sandstone.json"
-hash = "789ab0da3d6822d9bd8b6f17bb985095a6353cb996176624c5b08a6807b0988b"
+hash = "148c3d5675b4e558f4f0a8e9ae6f27925f0eca0ec48a7382ad6c267d2d94e4b8"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/smooth_quartz.json"
-hash = "ba81d08498a6f8179916054e8b62c5028faa5fbc1517e3e4ce0b3ddcd0f4a1dd"
+hash = "c6415522adf22a18b310d29c37818056595a5c78451d184f9c32bc499fc60ff4"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/smooth_red_sandstone.json"
-hash = "9cc5de6987a4b603ed718d43397a9abcf78b63187d79ffc4031749e97abb7c5b"
+hash = "1b6e0ffbe0e72df6d699a97ab54a84ac932d24756faab7e9f46ced4ae439792c"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/smooth_sandstone.json"
-hash = "292a1fb32cd8c649f465b699214d20fbe1f0a4961e9ae000467aa8e2c72e5f91"
+hash = "cf6170493dfbe8c688decb90eb0b268ef7b9cd8538de8f096a555fdc18e07160"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/smooth_stone.json"
-hash = "350ad431e9d4641adcb16ad4e6aa0da8eb43539f27d50354484f2cc47183c8cd"
+hash = "46fed8668d11209674fce8fbd92b3a693cdd0ba57fd6ddadd574a4586112c3c8"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/spruce_planks.json"
-hash = "ad5769284981b6439d75a1c87496bda2f30bf747f97f9f7e9ef836427017aab1"
+hash = "3a2b4520af318d80711c7d12831d4ea2511b21f2a26980b823b3661482fcf030"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/stone.json"
-hash = "2474a4336e87a5fbad8bd5accfbe19ec2f17b510bb2495fb99616e30f2f6dd0f"
+hash = "712be49bb1a340216f729df40e9e647138a70c8b1a713b6ae82c66f9f88fbda3"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/stone_bricks.json"
-hash = "cb1e99c7a850f6db2e3e5d368ca41096506be451e69d588cda7531859f47bec6"
+hash = "f2be0a3d5d41d2ef0df9f61fe843469721e1294666921268a6c0be759a13c168"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/warped_planks.json"
-hash = "2d65535ffc3615b035189f0281170745c768b8106f0a5267b444892cb83d0f71"
+hash = "bfb7c2dee4f91eefa36f78e32391d59e53e9f7d395d43835bb38d1755c8599a0"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/waxed_cut_copper.json"
-hash = "658aae97aa19213fb6e34dc5e412cb58aab8a5def77376cbddc6dac0e11a5b42"
+hash = "81a05c1335e1ad7bd00ac095e7044304da5a255f2371a0fb0c2fdc2ccfb645f3"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/waxed_exposed_cut_copper.json"
-hash = "bdb27570277484a0ce27dd417cfd647a21f61cd1317269f2e045559346cac45c"
+hash = "95385e57598dac7b111579746a20c1fe3b1a5a1287f0aadf912fec838adb68d6"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/waxed_oxidized_cut_copper.json"
-hash = "8050e26afb949933e045a8fd7984862dfbaa8bf1655623076e58ca00e1d7cff8"
+hash = "507793bdf063efba731fa2afec0f080fe5836ff4dce7f249864b59ff68fabbae"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/waxed_weathered_cut_copper.json"
-hash = "96253e1f963e3247b75e0f7b890a6afafcdb230762823a4211339714f1225180"
+hash = "fabceaab4046ff2b8c4b29bdef966d57cddf21e2a3a263edda3f2a0ba06cc2ef"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/weathered_cut_copper.json"
-hash = "5c7ed3331569e159929371f1df4dd110fffd56635c8e6bc2d1983bb6a948643f"
+hash = "3879109e78c06a5eb332a8e47aeb2b3b96da60b2d4fcf60d01f80ee070c83d9a"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/acacia_planks.json"
-hash = "0d99aa58477f857921bbe9aeb6a1f99d490ac047c833609d069364f6739fa3ab"
+hash = "b18a040c957915b46014a9af6d894eee6aa45825dd58fbc1d5f90e35c90bf08b"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/andesite.json"
-hash = "e5b91cc226b2919b6e3e3c2b0b9d0d1f48c5a78f82ef864bf031520c240d7e9c"
+hash = "a31907b73e7ee4cfdd782bffe01615f630582e2924748e31c361bce4807bab56"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/birch_planks.json"
-hash = "a79df60ecccc525a52ff5ba6ac804ac0bae8474962b87a4dbee551d3ea851b9b"
+hash = "45fc9d18e7d0136e7e743f1bb1881318ff5cd757a07093757a4fd60e6f3d940a"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/blackstone.json"
-hash = "4145617c390e9885c53059ed83ae7588401791fff124d2ceef4024278c18e7c1"
+hash = "0313386ed00a2a74b146802161db39ded1b8a38686efd83b25e59cfaf2348892"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/bricks.json"
-hash = "211f5d7c9f8929f5953192e7c7d0429009277ab78de012e3520581384b531ffc"
+hash = "0351014c625f7f9be38e1f7a60bdea1c8b1cd7c467df39fa16f8d59181c79eca"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/cobbled_deepslate.json"
-hash = "213cb0c1adbfe2402e49baab02bec0d23956ccae50ae32123e78d7974af4386d"
+hash = "7db0015592658a9cfbe2768b7e038e5f5bea977c5503477f3476767b01c10f66"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/cobblestone.json"
-hash = "e62218173b2ff8373aaf83a01a40be16f1e47cfa48cdc8648475ac39ced8fce8"
+hash = "04032ffb97c2da421015641665c29b34430cea033a9484187eff12b58ef5ec23"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/crimson_planks.json"
-hash = "4582e60b5bc468c4e04f1272d37ea3918dd7ca6cf6be06a828898031144c0d56"
+hash = "0b9703c0355da1ec5c34b1d18395dc1537ec35a4a0e1b9dee0e8d9e9b9eee37d"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/cut_copper.json"
-hash = "c0d3c783796be3fd73233c08fefd03f1145868a22212ca2adf01f8997ff528bd"
+hash = "1677248da0669a0ce53bb65777727158a0563745533b6688e5ddad282cd0c038"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/cut_red_sandstone.json"
-hash = "430ddb7452448becf3469ba4327e023c2566bd73be6dd70cdb24c9824ef6a18f"
+hash = "e2e7993d0898a7ac451d53fbcf293c923e1860997d5f61313e821539a5b7ee1a"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/cut_sandstone.json"
-hash = "f89955cb6446e37722a7ca26ff13a9782d0f1b49d0279fea8f21e2dc91355226"
+hash = "5ed154b15c347c3bd19540193e02fa21394b6842b0f2d3c0f10a31a4ec566b8d"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/dark_oak_planks.json"
-hash = "855a0c6b4ab383770c64fab689dd16a0cc508431bbab2dfb1c2b9f1aef8e003c"
+hash = "400f97bd96da0c24b7d96d0fd0d1c53e1982d31963c796f1b70f9cff3a3c3fe2"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/dark_prismarine.json"
-hash = "93f519d53a986aa4258311f9d99009d250e7442650170999fcf888a17bfb8c71"
+hash = "70a306edcb8eeda5153eec0e9a736304264a3e01741e3a21a6209f3d0c8b8997"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/deepslate_bricks.json"
-hash = "70f17aa2a6db920576b6b2c32c1c87a6648760a633f1e2acc092bbf21e328adb"
+hash = "036caaedc6434025c1bc1edaf030b0e4b65a0c60c2d83b93de1f4ecba2d57c98"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/deepslate_tiles.json"
-hash = "d00ed5b8afdd57c2a226729d8dc648add1a664d3b2183c130304d111f93e129a"
+hash = "34087b01e3820a7939dd0f6db325d85a3b1212e7846528b50c3ad184cd61ffe0"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/diorite.json"
-hash = "c606a9c4031fad12a05ae4f0e7c5d1546bca5976cfd881f887a64adfca28e857"
+hash = "2950f3ce4287766cc85db142930c6aa1fea579f95a22b74f0919d0f10c33ba8d"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/end_stone_bricks.json"
-hash = "55c9b02acb4266617f46a26560ba26f29b972f93e68d040d250e04796b62a205"
+hash = "9ae1350fa3dcc50e6bea99584d96dae1a2d879053c25527f158bfe1a3d235b96"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/exposed_cut_copper.json"
-hash = "5ed3511f3ba88656202522567f28897037d1a813e4d686e6e3f79d0872965921"
+hash = "123cb4173771b1bf9c7e2f85e88b8ffa8d9da53bc793e78b4834fa9248a5bba0"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/granite.json"
-hash = "05a8fe03f331834afc7b68d2b4810c9b931aa138db8f97c264eaeda975d2c1ad"
+hash = "5934d0978bc7d3135b81ebf4b3d7399dbe1504a85f4ca150f88c2b09cfefec21"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/jungle_planks.json"
-hash = "3759d6b35f60e27446e042f2fa35aa77cfc00e97ba6be74f22d83add92af8cb5"
+hash = "0eeb252fa118ae0c4f8b3bedb5c45f36dcfb19cd49383987aaaf068c59b3cad9"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/mangrove_planks.json"
-hash = "45e706803c1d014fd8d4d52ce5ca2fd96f4fc5ce5fce759a63eeeccfbb3e252f"
+hash = "508bf6cd114864d8ce59a03b4f40da3e7f1266709d5ad6dbe8e8f9744ebb8a4b"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/mossy_cobblestone.json"
-hash = "590e393f1c7621796d00b8a0a2928f32e40b45cc58b47131d386be49a460f760"
+hash = "672e3ceaa9a46b33371cd9ed4a495c9674e06321581c038d82ac613d4fb11e4a"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/mossy_stone_bricks.json"
-hash = "3d42eb0f1c1ec795779b47c35f9f920f1928bdf82e6d0cc9dda4976da96ad7b1"
+hash = "4e79145b195d95b117d3b5a441743496b73be4675472dd2a0eb2d46ca6db2af8"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/mud_bricks.json"
-hash = "593114debeaf9284775f542e4cd4b59463e68c85d92cec1dcc9a44b109563146"
+hash = "caa5bdfce9e798e5b143a121faa5d849d2234a7cfd102e617aa47a696d497d30"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/nether_bricks.json"
-hash = "6315f53b22ce6b8548abd2c6cea17242a7bcb2db1b950b49a277629020b4f121"
+hash = "bb59e200dc72381b7bf338adc958f2304a6b0435b51c1de6ede6588d4d03e896"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/oak_planks.json"
-hash = "9b80c064b84f39fe642396059195f829c0a02eb4a7907611a4a9f57b1d03e2da"
+hash = "d454350af971686cf381a2e320c77b7e5809b334c817ada90189ad05b6902dc6"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/oxidized_cut_copper.json"
-hash = "50a44e1d868bb451176947d36e158c9adfe00c26a9929c1f5d66f052884b1352"
+hash = "7414a29269d9fea668cc2022139781cd8259b11279b016d50e981509ff394e32"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/polished_andesite.json"
-hash = "63606689cb91f097ae626e814e5e9173d8fe20f4f0130c2dcf2773c549091327"
+hash = "72eb574cffa8a3a85c9d0b8f3f94b7a2ac350d20465ec7e7e5de08ab4687d644"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/polished_blackstone.json"
-hash = "1aee18d8c5c52bd82f08c8da4ea19e023e8555f1fa1662a4e3b4a0a84cb5bc6f"
+hash = "e9ad34aac4abaae5d5ac2c06863b325d0a114d97f51a7171273d0dbe2408233d"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/polished_blackstone_bricks.json"
-hash = "5fbc8061f53dd5927d1f42a7cca2efcd06a91852366ad2bcf1772810571a0d80"
+hash = "203df9ec08129bbafea6615b7c32aa08e6930e5a3b257289cebead730e6d324e"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/polished_deepslate.json"
-hash = "025ea67f5ce15043304b0646faaf892d735d48c1fec1e5c2a137998bb40fe5f0"
+hash = "1a6c5d0d333bbd3531ac5e4fd5e54c12a03ecc81af8f4065cfcad6e30df97471"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/polished_diorite.json"
-hash = "afe550be0ce82d2e9a88eba6b7abfc4dbb040ce7e9c0135c7d2129625b344bba"
+hash = "9fdaab4697ee44d9dd12461e84ef807c514f142e79d24eebd5a445654cc7f816"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/polished_granite.json"
-hash = "228c1aec01be59a9894096e5c92f9d5f3fa99d3694996ae1d22acc14f95ba4e9"
+hash = "5647c5a46665a18d82a62a5f2fc49b4aa15a2e9d6e6e0d802f47561eff3d90fa"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/prismarine.json"
-hash = "2cc7e03300f20bd4c2d7c06274d3d971ea00dd7d24996ae4179058d0af7e72a0"
+hash = "f37633bcbbb2cdf616608ca0c17f6937b8e33cf876f958df6a2aae1d1a4de51a"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/prismarine_bricks.json"
-hash = "6ec986b051a4fadf550fcf04b5b6b0542c420b651d57be89164ce2324f2ac257"
+hash = "12d95792660279774a16fe472138b915649d732144432f0b89f94d44f13ccbba"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/purpur_block.json"
-hash = "4a26d63e59ad52982de04b13b73678d31fe94ba79371d51a19c7d9f6c7f0c773"
+hash = "899c736bd22e92441359e43918bea4b581223bc185d3c549ddbdf8d558a60da2"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/quartz_block.json"
-hash = "092c0fe2d177b3f0364861b68e9ae76c8fdcdf6640e20350dbbbd0809aba6098"
+hash = "34853a27d2979e5353f9708405183ff0490bb350e65efad0be9d62dca7956548"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/red_nether_bricks.json"
-hash = "d20000be6b754c557758e2b5217cdf9512d0b0eea7774caaa4de1f6dbe30468a"
+hash = "790e08bc5dfca554c08b61256d39fd5fda9315d1782fd6e723f2652184cef735"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/red_sandstone.json"
-hash = "4da4a9aa74d1cd1271a7c543b46144eda7c24a6806ebc61d90cb90ac4a6594f7"
+hash = "b0afefd40c246eb1a231adea3878856f8e62cb586b7ea9356af50dc19118e82d"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/sandstone.json"
-hash = "a49741c3afad58b4d157149d1cb3b71e4e4c8ace5708cdcc7a537e63cb67d5ed"
+hash = "18db07c2853d00b5c1db8f250e85e1737a685f035644a608842e122a52ee9dfd"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/smooth_quartz.json"
-hash = "d598f57cea9c39800d42bd33e6cfff41100cd122c61db7f921aefe4d80bc2cf7"
+hash = "59057a0233d1383e8710bbbac3914d7659bd55d6a11d3d81a5994bd639dd1ec6"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/smooth_red_sandstone.json"
-hash = "0f88c95369f7ed2a84520845a557ab8d951c43d1af798d6e71e953f7557e8161"
+hash = "2207eca79adc47904348aafcb503c0867e79668c379d3c9467bedc96495d17d5"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/smooth_sandstone.json"
-hash = "2803cb12da7e2213098317fc9eb57c5df8073475a6ca394e9724bf0e0e4a57fe"
+hash = "e83257f6f5c1ad07e7a97a5b374dfe6c1f50258b467398e67a5229720ac97acb"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/smooth_stone.json"
-hash = "20434ebc546842096666bd0fd6570f914fc3d3641fac3de58d7c0960dbcf9d9b"
+hash = "a2a2530bb1fa7f5b92114bc73a4d53cdfdebf61d5cf7ae14787030b3d527494d"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/spruce_planks.json"
-hash = "710d15f3c6f411631b9e86a8ed4f173b7592824710fc6e0acf256abd756dde93"
+hash = "68b6d13b768dbb1ebfd539759cd7a597ed65bb06c2eb91c190eeca56f8969324"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/stone.json"
-hash = "805cf492b6302ecbfc3e61f85d66b6361a118a29e3dfa5dab53a42ed034f3775"
+hash = "f89e4755e0a433cd8249c8498511c736eb7126ce732386cdfff87b9db8c130d8"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/stone_bricks.json"
-hash = "183cfd72ad46bd01fd62124bb224cc391f192a1ccd24f32aa0b97936a6a7ff4b"
+hash = "a4a1e778866d4c73f83c506fcdfde8c579cdb566f374a2c55224f133422794d5"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/warped_planks.json"
-hash = "e569e7b1898d858d84766a4d60c6798bde4fb4d1fb767ec3ba6012048058a5c9"
+hash = "9b806663512e3f6eac286eaf7296b80b409d8abd4b93d21f01bd7359e1e75ebe"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/waxed_cut_copper.json"
-hash = "e6243ec72b297fae302f9ec27b5d20a0a4aeffc14a3acb42d5906210ed1b97a5"
+hash = "f96f6c06e71ea887c057344c0ee82c1bc7acf561ec945ca31e05b80989a16bac"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/waxed_exposed_cut_copper.json"
-hash = "6547f6459faaf681d4f50c4439c5873323f03b40c1367ee68a8c772a65367e0f"
+hash = "a966ca73135ae193e21e04a05dd163c25ea89c6eb813c8325ba7c77a48d00fdb"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/waxed_oxidized_cut_copper.json"
-hash = "11623a328a69e2ac8f85f76669d0e4b09d67278286900c6d0d862c42ad1f0f3a"
+hash = "e507ed1ba8f157a6117f1985d5f1756f124110b79882162a03dbce67e1cb04c0"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/waxed_weathered_cut_copper.json"
-hash = "21d1eb219d8fa2d804106e01655f2a218def8f2a06d3bb168cb08a28474becec"
+hash = "36ca44ed2b84fea0aeb0a30af5e10931aae2213f3875580b9dcc437e61b94cd4"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/recipes/slabs/weathered_cut_copper.json"
-hash = "bb21c0e8eb5835b8760dd0cfed1514825bf65b5916d26770a596c93f195d7d75"
+hash = "5f310d4755b9e83f385cff675c760419b3e723b51ba3841898ecbb922579156a"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/pack.mcmeta"
@@ -2414,47 +2414,47 @@ hash = "62dad0ca0ca693c815dd3c303acfd6bc48eb5da0ca4384b35324df4a73adcda0"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_armor_materials/elementium.json"
-hash = "3ac26ce678157ccaf9215df538f3e165720efad25fc292f17fbafe933ea5368f"
+hash = "7c7a77ae086442b190ccd0169407cd64915deee2c0117bb9e53b2e79953a8ab2"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_armor_materials/manasteel.json"
-hash = "93a535cf6f1d778fcc9179bb0d69a21337fd42ef7b3ee8d3c4f0d50c5a4aa3b4"
+hash = "e2251b12326943d8c8d56f90b0fc65db5e61c651a7b4bb5cd8072bc8b5c92224"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_armor_materials/manaweave.json"
-hash = "efcb619d72b138642067f60a4177b618ea7e1e1ab368f676f07533c3405b241a"
+hash = "4e9395d0265ef1f667e1d37b0e4b08fe268010231f24a642c935c57a29d94829"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_armor_materials/terrasteel.json"
-hash = "30bebf18e25849eddf589610fe48bfc764f6cb56dcd5155eccf5b526f9bb8b90"
+hash = "3bf05fbb64abd70ac92df124c1ad43aa024f4543959dd13567b6b251672f0a06"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_tool_materials/dragonstone.json"
-hash = "dbcf5f5737bdbbf933a033ae045a91163bf33f76f051cd2641a33b66ce0255b6"
+hash = "e559972355ee742ee47311e3a5573429daf03c19fc573880c7a39ddff91d7f0d"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_tool_materials/elementium.json"
-hash = "f1f8c85fff10a65431ef370a1b987fd73bf00c9355ac12e440f42347bc4d84b7"
+hash = "3156c7b7565f1e91b5da635dca72b0326debb0edf538187532ac9e54dc52f428"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_tool_materials/mana_string.json"
-hash = "c2353aa47e4f3404400a600eaf36194e99b83a9d6dd14e0359f1e9038e7d464a"
+hash = "ac26c02727b3fe1731a7fc64b46c43c82cde2d2e956219195696208a3f0eec0a"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_tool_materials/manasteel.json"
-hash = "5ad14ab776e2c2cfda6e876210a6a116e9d6e99250cac47daaacb7dc8d46941e"
+hash = "b1e2ad27ec68f80a97b6a554cb32d73e43dc14f83d08b7c728d9c1252c9e47a2"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_tool_materials/terrasteel.json"
-hash = "ad4e8679df5719e3884924dbf2cb0e502934b811407e7d9e6bd041076b6ca5a5"
+hash = "20d035920c0720a42a7ac446e38d99d790a3f7afc0e0e0df0a547ac3267c7f67"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/botania/smithing_unit_costs/glass_pickaxe.json"
-hash = "d07f7e8d5df69f2bebe47ae30e2c0f074e641f6589cb8fbde1679a19928bb711"
+hash = "b72833bf506e74e37a421be71a719069998b40469644926458e380cb86a2754b"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/data/minecraft/smithing_types/bow.json"
-hash = "8fb5a1ae2dfe861f0e13648e950c5250e55cac8271bec5d771738a16c3e32cdd"
+hash = "a47a7040e60094bb6179aa11bcd1ae3cfdaaba4f42120b35966db61ce768a420"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_botania/pack.mcmeta"
@@ -2462,39 +2462,39 @@ hash = "53163c6860ddd6cb4f2fa7b761aa697037f4c926cdc97fc0a5fb25d818215c8b"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/data/campanion/smithing_types/spear.json"
-hash = "e92397b257e733c004815195df9468f1cce02169fd5305de2d1ea3ab1ff1824f"
+hash = "012091539a5eaf6ec1181e0a21781f4226dcfb8d0dc27864c230e08d1ae09c4c"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/data/campanion/smithing_unit_costs/grappling_hook.json"
-hash = "59f74aa329a2feed96a26cecde06b691f53d2b11235a5f45aa5382a63e8be791"
+hash = "6d53f6f65a550e72a8710d2b35c65467828db518908eba86924255443634ae82"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/data/campanion/smithing_unit_costs/sleeping_bag.json"
-hash = "480ed8142bff271d20a371060b494a0dce62527ed7addf8a66991d4d6c4900da"
+hash = "59a7cfdb59262da885c47729127c775daa5ae635c05f05e51e872fa3c9987090"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/data/minecraft/smithing_tool_materials/campanion/diamond.json"
-hash = "fc798c23573c692db0dcfac77e99a620381743632c0fa9b852e7a6fd1211a09c"
+hash = "ab58d6d387fe798d6aa5eeb3a88c79e5fc3385c739b913660ee17b01d098a58d"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/data/minecraft/smithing_tool_materials/campanion/gold.json"
-hash = "e16ec09f1a056d6db33a47d5ce66a632bbc89fe2e0d3c8fcdce08e9ad812fa63"
+hash = "f8f26ceda068dde938df0f3ef27c78d4be07c8d771cb5cd28acdc305c1d257de"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/data/minecraft/smithing_tool_materials/campanion/iron.json"
-hash = "0def25a8a16448d08195eba9d75737bba43f0f8b1b36a95a523602e4145dac1e"
+hash = "a41522e5215b3ec18f34cc747fd61b0fc0cf526d0c6d0afec001c237e5b50a1b"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/data/minecraft/smithing_tool_materials/campanion/netherite.json"
-hash = "0a98760282eab261bbfa0c6d4005538b6a2fb98d6545dc9222b19305e07a8e37"
+hash = "ebdffbd6f940abb6f6714a0aa15405484a3de4c83e8735ea8620f674f29bea3e"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/data/minecraft/smithing_tool_materials/campanion/stone.json"
-hash = "07d3dafd87732ad7e727621dac5edfb0cadec0cf5a0e226a670ad31049592c05"
+hash = "65cf50acb692c573f2f83a5cf3ed427b7ea6132104edab0e5f6333ac7352572c"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/data/minecraft/smithing_tool_materials/campanion/wood.json"
-hash = "2d976111aab9c0fe073b52c1faa5bdfa1742cd4935d2336ec659afc2a1422d58"
+hash = "e0097484773a9aa03c1d528a846cf784aec3d7bfc35f7178a4c21f28b5aa6fe7"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_campanion/pack.mcmeta"
@@ -2502,11 +2502,11 @@ hash = "e58b7879e719c0d0729fcfe35af45b31d55fab3f5d583629ef860aa3d9d8a85e"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_chalk/data/chalk/smithing_unit_costs/chalk.json"
-hash = "a85a9ddca6aac85411c180e9b494cfc5480082589f48ff1cd1f1b9924d4e1fab"
+hash = "9dc62c5dabb181817383ccb86a1cd0341ae308e1a14182fb262817cc1f23f6c8"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_chalk/data/chalk/smithing_unit_costs/glow_chalk.json"
-hash = "6213eb1ed3ffd15c1c2fb792033841ac5d78d05f9ad6d463c1f2330afa3dd242"
+hash = "b994449a7d21fed5b2acf5d7d9777ae016f710f4db0b3a1eec34a8a1aa5ad77a"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_chalk/pack.mcmeta"
@@ -2514,7 +2514,7 @@ hash = "6c51f2d16e0192a561b037d103ffece287b7f5ffd90470be86044216872048c1"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_consistencyplus/data/tinkerers_smithing/tags/items/dework_materials.json"
-hash = "ecd290ab926a8074252c0167b77c0a47859db0cac23f4fe41bf22581cbfdc3d4"
+hash = "cd9c1f5536df08b44a76fff32571649aea5a14c1b20df6c63863e9926253ac0e"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_consistencyplus/pack.mcmeta"
@@ -2522,27 +2522,27 @@ hash = "04dfe37a2cdcc0af6b73760e88d9bf4fc8d21ed6a15d8352f6eeac02b937f3f7"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_create/data/create/smithing_armor_materials/copper.json"
-hash = "28e9974f4c403a5998afc45993713f105dc65eaf9a8f888754c01422300da0f2"
+hash = "f2ae98e802856e6a8d9961f94ecfd31c1842e9b94fba920f87b8652db51a60e3"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_create/data/create/smithing_unit_costs/extendo_grip.json"
-hash = "e5bd70c2487bca27dea144692852469bb36f1f43f973031628b550084f24f913"
+hash = "8414a25b3ec48f7ca3a1feba404fd466371605c5bc2ea251b6c9516569cd6b30"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_create/data/create/smithing_unit_costs/potato_cannon.json"
-hash = "598ebe6471a8605366e97073d2767f181ad2c270daa84e83b144a898f0ae1c56"
+hash = "f4b7ede418c3a23c476f41580b5c223833a3699dedb8e4c451c57bb96d7cf0fc"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_create/data/create/smithing_unit_costs/red_sand_paper.json"
-hash = "f607221c8deaf248065ad15de65ba7b072f7ffb9ecb0cb1406c5c8f683181486"
+hash = "62e573f0ab0f0c7d6c598cc8651c2c26de5acefe51a97f9ef81172954c4001a3"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_create/data/create/smithing_unit_costs/sand_paper.json"
-hash = "eecada52e4f8d031e31ec1d9a0f80b5b8e97ee581b106240269dbec8ed84a388"
+hash = "64dc21f886b1d14c3534f633722e3d0c12dad76bf7386c7b8bb07a159c3092de"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_create/data/create/smithing_unit_costs/super_glue.json"
-hash = "06d15510c9514a3212010cdbfefdf89f9ce0cbfd776a8332ae460eefb63556e9"
+hash = "066398ed0a7ccdb8a8701704aedbd3b39171efca51617187a09f3fcfb347ff34"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_create/pack.mcmeta"
@@ -2550,19 +2550,19 @@ hash = "b4c4b7dce96aa9e9bcfaa84990f35b01a5f8e1b47daa258903a68bd5f85d7b1d"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_farmersdelight/data/farmersdelight/smithing_tool_materials/flint.json"
-hash = "e4571b53b8b78d01a67b3de107ec559a512e8f8c7b6ad5fc161996284b6394c6"
+hash = "2cd3f2365c9d344e5bcacc26a03fbc91858688a36dde812e86957bf24cdf5fdf"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_farmersdelight/data/farmersdelight/smithing_types/knife.json"
-hash = "7afe8ea13a65b94539fd8c52a59519842fcb53b492968d9105e29c95cd9a1454"
+hash = "f23df84265ded7f12a2d30072648f03ec483f988a0766d2b05113c245c86b133"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_farmersdelight/data/farmersdelight/smithing_unit_costs/netherite_knife.json"
-hash = "5c69f9bf61f42255d02238269af970d54756c6a730b85acd11b093a37516129f"
+hash = "24db0e7ef65432200473f4e107fa028715011e1fdbcd493f6ddb17d52ff8fb0a"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_farmersdelight/data/farmersdelight/smithing_unit_costs/skillet.json"
-hash = "d1bbbdd9cf5cb0bf276b1b80fce398f9a61640eb0aec74566086e174397a45ff"
+hash = "fe693854d7e7f52915137bde1c0892d0f1d6a66df4a1257b79cbc8b2ecd5bfa5"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_farmersdelight/pack.mcmeta"
@@ -2570,55 +2570,55 @@ hash = "7ab5d21b1b6db2aed4b73f2981e9ce07155fd33afc67a1a681410e6183db5b02"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/c/tags/items/axes.json"
-hash = "9f080885fe8d321ed0f32b640a52b2d5626ee4799adc94c3c8e02094469a40e7"
+hash = "50fabcf6787473a691a148c73fd9e48774a214535ade7fcaf6892899cc6349d1"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/c/tags/items/hoes.json"
-hash = "033290e87077bcedeb99233fa31f1bb519fe6fbb4ccde0fbef7137adb23d4413"
+hash = "2dc891151e4833d601a7b5aba7d55fd140cfdc5e8ccd5bb65ec2fd2194ccee1f"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/c/tags/items/pickaxes.json"
-hash = "b59c5717264beda67942c697608ebbb96847f91daa8a87c3561ba9dbd78c3227"
+hash = "410d22990fbdd4c1c26e94eace77598d05e55c00fa5075ffae62cf63d4e7a4d0"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/c/tags/items/shovels.json"
-hash = "d947b42ca1db40812b558a57e87d5d45459eb7a8e738daf9bbf98b2425206871"
+hash = "b776ec0fa04bdcec9fe4722462b2ce1ee7f91003c1cf699c44069328b0b662e3"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/c/tags/items/swords.json"
-hash = "32a366a95744c54c8048d958a408db8c80401499ee551ba3a0144645878a8a1e"
+hash = "f732156da686d2ee8c97dd81d02c1f3dd5dd6122fe5dbe4b56015fdf5436d412"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/yttr/smithing_armor_materials/suit.json"
-hash = "cbecaa18d9af5f089bdf275436aea76b4428f9863a6e35132ef1099777f783d9"
+hash = "5b8fee6d29d09bfaefde56b62d53b4403b2e9ad251050cb3b8fba854384f3749"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/yttr/smithing_tool_materials/brookite.json"
-hash = "86cb0c69d5eaac9281adb9618bb9b35ab21fa6ffa608b4e2f4d86502adbb1c80"
+hash = "1bf75bb76bf217e9211aa79cdcc60f939d33da36fdcaf6ead713d5d397673ec5"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/yttr/smithing_unit_costs/cleaver.json"
-hash = "84c7b994c4481759a8e913c19b71b2739519076580d3f6b9c3e41eedff82b05a"
+hash = "6ad9875810c763d06343b81cd2957baa9f4d1a75046b9d7f2b0795170d4a1009"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/yttr/smithing_unit_costs/cuprosteel_coil.json"
-hash = "0dc7ebe073eee2ea2cde3ce1b0c8059ee0965d275de4432d1576dbe2ab6edacc"
+hash = "7de925dd001ce9ade98de119c86b22870d9657ab3ddb68f1106c970dd2a873f4"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/yttr/smithing_unit_costs/goggles.json"
-hash = "ebe191bd3c3ca942f4e8774825d58b1458a8817014de9ea5ac148d0833cc599e"
+hash = "f177678f18ce4cfe883370adc2ef2fbc3ef37c0b68f4da381e530aa2a86f7aaa"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/yttr/smithing_unit_costs/reinforced_cleaver.json"
-hash = "84c7b994c4481759a8e913c19b71b2739519076580d3f6b9c3e41eedff82b05a"
+hash = "6ad9875810c763d06343b81cd2957baa9f4d1a75046b9d7f2b0795170d4a1009"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/yttr/smithing_unit_costs/shears.json"
-hash = "68d12de48ef931bbf48e1be66e9423b5591565f18301081aa7aca70f461a27ba"
+hash = "88b30a88ad88a5f951766bb6007358b326980b5193a5c3b1c9bfe4aaa37224aa"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/data/yttr/smithing_unit_costs/spectral_axe.json"
-hash = "da190105bc91c8d1370b26d87d4f0cb2ec06a05355fdcd05590b56766c908589"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
 
 [[files]]
 file = "datapacks/tinkerers_smithing_yttr/pack.mcmeta"
@@ -2626,7 +2626,7 @@ hash = "3682fa179f7de89bf1448b0aeb0159fa08e76a8152e2e2c0b684f55921840891"
 
 [[files]]
 file = "datapacks/yung_tweaks/data/betterdungeons/tags/worldgen/biome/has_structure/spider_dungeon.json"
-hash = "d75e571bccf1360f82b438ec48b27e46f15f419a04c27443c9b3a8f90c9d8e4b"
+hash = "bef4d172fc1bfb34d342e79090726c4a0c272dd404783c3ea022b992e0e0415e"
 
 [[files]]
 file = "datapacks/yung_tweaks/pack.mcmeta"
@@ -3727,11 +3727,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/generic/assets/aurorasdeco/atlas/texture_sets/lavender_plains.json"
-hash = "bca84ca0e619768d8879c6a190ce02ba03747387262a7087cc0dd95aa060e7e2"
+hash = "9477efdf77f53409b639d2a0391ad025cfde2edcb909314d50966cf56495e46e"
 
 [[files]]
 file = "resourcepacks/generic/assets/aurorasdeco/atlas/tiles/lavender_plains.json"
-hash = "4d76e87ef4f9eb8030e3a062a1ddc1bdeb01ce9cdb4a89cb98faefd41dc36858"
+hash = "62d41023bfe663ad2fc4e9c2729bd5e3d282d43d31020df96e706deed57a0b50"
 
 [[files]]
 file = "resourcepacks/generic/assets/aurorasdeco/textures/gui/tiles/lavender_grass.png"
@@ -3751,19 +3751,19 @@ hash = "1583e851a19d36755fa3279f4fd33e5d2189dbb7a6d4cd46e29211d94679f334"
 
 [[files]]
 file = "resourcepacks/generic/assets/loadingscreentips/loading_tips/tips.json"
-hash = "fa689f2d802c3933f47c5562aef25acb3d13974f80040e8246c3cab71bac68a7"
+hash = "118301b62e10da3404c7b5b944ea232319080067f6d567ca4e400ed30c1a9bb0"
 
 [[files]]
 file = "resourcepacks/generic/assets/tinkerer/lang/en_us.json"
-hash = "7811f89f164990b28fb8418c034fb938f39903749b0632ac039caa2071db8438"
+hash = "bec21d92b95ce8556454362a18c93e2a9f08df907eb8db4a338b1131c67d8129"
 
 [[files]]
 file = "resourcepacks/generic/assets/yttr/atlas/tiles/scorched_summit.json"
-hash = "8b4b8bfbc417f9bd496ac6b0529ebc1b6147287301797a126c1d0de3abbe52cb"
+hash = "16bea592db7feb3767b9e30f50768bd2a26e102d9da7edb921e9c26037050525"
 
 [[files]]
 file = "resourcepacks/generic/assets/yttr/atlas/tiles/wasteland.json"
-hash = "8fb1c0a7f6f9e4c1303221a744a14af9b5967a7bf54718452ab3d85d9a05c58c"
+hash = "042491418464757c500b6dfbc5d998d5c705974ede2ca414e851f840a47e16f2"
 
 [[files]]
 file = "resourcepacks/generic/pack.mcmeta"
@@ -3771,7 +3771,7 @@ hash = "3a9295606b3aa69828fb41cac22012832893de0da15dfb1115ffbef21043f450"
 
 [[files]]
 file = "resourcepacks/styled_chat_emoji.json"
-hash = "fed5a10b86cc0a562cb3c57777e2b6189dd9ddd13ab19a810fb7d78dd57f2bad"
+hash = "c1ea6f9d34b4b8fce88b4ae35b77c8296a20da3d516335f1d542cfbe4a77ea7f"
 
 [[files]]
 file = "resourcepacks/tinkermoji.zip"

@@ -205,8 +205,8 @@
           "weight": 30,
           "functions": [
             {
-              "function":"set_nbt",
-              "tag":"{BlockEntityTag:{Patterns:[{Pattern:gra,Color:10},{Pattern:bri,Color:15},{Pattern:bri,Color:11},{Pattern:tts,Color:11},{Pattern:tts,Color:15},{Pattern:bts,Color:11},{Pattern:bts,Color:15},{Pattern:ms,Color:15},{Pattern:mr,Color:15},{Pattern:ms,Color:11},{Pattern:mr,Color:11},{Pattern:pig,Color:15}]}}"
+              "function": "set_nbt",
+              "tag": "{BlockEntityTag:{Patterns:[{Pattern:gra,Color:10},{Pattern:bri,Color:15},{Pattern:bri,Color:11},{Pattern:tts,Color:11},{Pattern:tts,Color:15},{Pattern:bts,Color:11},{Pattern:bts,Color:15},{Pattern:ms,Color:15},{Pattern:mr,Color:15},{Pattern:ms,Color:11},{Pattern:mr,Color:11},{Pattern:pig,Color:15}]}}"
             }
           ]
         },

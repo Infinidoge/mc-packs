@@ -1,18 +1,18 @@
 {
-	"type": "crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:axolotl_bucket",
-			"remainder": {
-				"item": "minecraft:axolotl_bucket"
-			}
-		},
-		{
-			"item": "minecraft:glow_berries"
-		}
-	],
-	"result": {
-		"item": "minecraft:glow_ink_sac",
-		"count": 1
-	}
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:axolotl_bucket",
+      "remainder": {
+        "item": "minecraft:axolotl_bucket"
+      }
+    },
+    {
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glow_ink_sac",
+    "count": 1
+  }
 }

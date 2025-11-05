@@ -636,7 +636,7 @@
           "weight": 10,
           "functions": [
             {
-              "function":"set_nbt",
+              "function": "set_nbt",
               "tag": "{BlockEntityTag:{Patterns:[{Pattern:mr,Color:10},{Pattern:flo,Color:2},{Pattern:flo,Color:10},{Pattern:flo,Color:15},{Pattern:tts,Color:10},{Pattern:bts,Color:10},{Pattern:cbo,Color:2},{Pattern:cbo,Color:10},{Pattern:bo,Color:10},{Pattern:bo,Color:10},{Pattern:bo,Color:2},{Pattern:cbo,Color:15}]}}"
             }
           ]
