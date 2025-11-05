@@ -1421,10 +1421,6 @@ file = "config/paxi/datapacks/recipes/data/farmersdelight/recipes/cutting/wool_t
 hash = "3ce9749ed5ec68dee18cdcf32dd6fe855ec0fd1b2f6d48ee132e989cf5524477"
 
 [[files]]
-file = "config/paxi/datapacks/recipes/data/rotten_flesh_to_leather/recipes/leather.json"
-hash = "685f60ae29d2fe2089b2bc8336ae13766fd7697e63e39c0b2338a066902fa233"
-
-[[files]]
 file = "config/paxi/datapacks/recipes/pack.mcmeta"
 hash = "9dd6f816e923efdeadf5b7360594efd4c4756f5c5e7f31ddc543f6ec5aa0cfea"
 
