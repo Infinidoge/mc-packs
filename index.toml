@@ -1505,6 +1505,34 @@ file = "datapacks/hide_yigd/pack.mcmeta"
 hash = "c9b84c7d95f0aac4f81b5a7ebaa7d727d8bd1f3d53f67ea5fcee9fed4de90b82"
 
 [[files]]
+file = "datapacks/recipes/data/botania/recipes/mana_infusion/black_dye_to_ink_sac.json"
+hash = "356b121288d82ebef58420731e94d9f39597d84cac2aba4351f1c64481249254"
+
+[[files]]
+file = "datapacks/recipes/data/botania/recipes/mana_infusion/stripped_edified_log_to_chorus_fruit.json"
+hash = "7b4ee77381d0814965a89ae06f1a3b6fc138fe009402c387702b30251a09aefc"
+
+[[files]]
+file = "datapacks/recipes/data/create/recipes/mixing/ender_air.json"
+hash = "05f849b37b7637e39fc371aa5b8d756a8e6aab7d86d030a3da8c00e81ef8ed2d"
+
+[[files]]
+file = "datapacks/recipes/data/farmersdelight/recipes/cutting/arrow_to_flint_feather.json"
+hash = "e00090b50c92e9b6ae0fa4b4b5b61f462420ff49a7a36dedef70e45491818485"
+
+[[files]]
+file = "datapacks/recipes/data/farmersdelight/recipes/cutting/wool_to_string.json"
+hash = "cfa3d333a8c6174ff2a3041bd9aa5a352409ac23e2a630c56f283a8e461aabf1"
+
+[[files]]
+file = "datapacks/recipes/data/rotten_flesh_to_leather/recipes/leather.json"
+hash = "685f60ae29d2fe2089b2bc8336ae13766fd7697e63e39c0b2338a066902fa233"
+
+[[files]]
+file = "datapacks/recipes/pack.mcmeta"
+hash = "9dd6f816e923efdeadf5b7360594efd4c4756f5c5e7f31ddc543f6ec5aa0cfea"
+
+[[files]]
 file = "datapacks/repurposed_structures_tweaks/data/repurposed_structures/loot_modifiers/import_modded_loot.json"
 hash = "9c1530a571c03ca73156a030f58cc8e95317a9f87b556c8246ea0c5b8dbb40fc"
 
@@ -1951,6 +1979,14 @@ hash = "a9c8958c4bf427414e9fede596568b6b562ed76a6e1baecb6f7a6a416af0f5ed"
 [[files]]
 file = "datapacks/repurposed_structures_tweaks/pack.mcmeta"
 hash = "9b468e5b4e46cf0ce0a639467f9f8c9fa9e6061f415ec2b48cead876c8637645"
+
+[[files]]
+file = "datapacks/rom/data/computercraft/lua/rom/modules/main/ecc.lua"
+hash = "104c42027e9f5e9463e7e311df2a20c7ac4a63fd26bfa0904c6bf18b236505f9"
+
+[[files]]
+file = "datapacks/rom/pack.mcmeta"
+hash = "aecc894caad07efe2609588f69e71559b015ec360ce4e5dc74ef6d15bcbe3dc1"
 
 [[files]]
 file = "datapacks/slabs_to_blocks/data/slabs_stairs_to_block/advancements/recipes/building_blocks/slabs/acacia_planks.json"

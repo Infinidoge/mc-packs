@@ -1,0 +1,23 @@
+{
+	"type": "farmersdelight:cutting",
+	"ingredients": [
+		{
+			"item": "minecraft:arrow"
+		}
+	],
+	"result": [
+		{
+			"chance": 0.25,
+			"count": 1,
+			"item": "minecraft:feather"
+		},
+		{
+			"chance": 0.25,
+			"count": 1,
+			"item": "minecraft:flint"
+		}
+	],
+	"tool": {
+		"tag": "c:tools/knives"
+	}
+}

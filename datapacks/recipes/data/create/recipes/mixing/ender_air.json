@@ -1,0 +1,17 @@
+{
+	"type": "create:mixing",
+	"heatRequirement": "heated",
+	"ingredients": [
+		{
+			"item": "minecraft:ender_eye"
+		},
+		{
+			"item": "minecraft:glass_bottle"
+		}
+	],
+	"results": [
+		{
+			"item": "botania:ender_air_bottle"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "botania:mana_infusion",
+  "catalyst": {
+    "type": "block",
+    "block": "botania:alchemy_catalyst"
+  },
+  "input": {
+    "item": "minecraft:black_dye"
+  },
+  "mana": 100,
+  "output": {
+    "item": "minecraft:ink_sac"
+  }
+}

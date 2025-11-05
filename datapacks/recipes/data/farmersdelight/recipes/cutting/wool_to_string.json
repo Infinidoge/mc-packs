@@ -1,0 +1,28 @@
+{
+	"type": "farmersdelight:cutting",
+	"ingredients": [
+		{
+			"tag": "minecraft:wool"
+		}
+	],
+	"result": [
+		{
+			"chance": 1,
+			"count": 2,
+			"item": "minecraft:string"
+		},
+		{
+			"chance": 0.25,
+			"count": 1,
+			"item": "minecraft:string"
+		},
+		{
+			"chance": 0.25,
+			"count": 1,
+			"item": "minecraft:string"
+		}
+	],
+	"tool": {
+		"tag": "c:tools/knives"
+	}
+}
