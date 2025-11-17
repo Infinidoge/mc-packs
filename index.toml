@@ -3392,6 +3392,11 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "1ad10e49f33f980db997a1189372ce63301662e09cd26e28b3aba049a396901d"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "6757363eeff33967a7beb9782d833cd9f23486933a88373e576a3856fbbaf1bd"
 metafile = true
@@ -3542,6 +3547,11 @@ hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "95dc1c49d6f94a6484e3c3688fa062fed91b323aa4cc088cc2748ca0dd43a7da"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "48000ec64515238dc778396ab8e322ce2fcb64177cb9611b03fe5071b67fe306"
 metafile = true
@@ -3588,6 +3598,11 @@ metafile = true
 [[files]]
 file = "mods/soundsbegone.pw.toml"
 hash = "a6e749640e41f01665033aba74ea4b8ad81186a8665e2080000a12451575db39"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "0dba0359d4d1905cdcb2b2737c981e267bc195afbcaf94667a4afbe2381b4ba1"
 metafile = true
 
 [[files]]
