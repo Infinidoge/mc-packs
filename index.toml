@@ -2810,6 +2810,16 @@ file = "mods/Origins-1.20.1-1.10.0.jar"
 hash = "01675e2b3732782f5bfbc08a211f739c8123b269bb9f40d36ac56d9fbc90ae3d"
 
 [[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "f9de150fd28847bbae0649278f098babfb0ea4961caf93bec38835c4574e5ab3"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "ddb73a24312769d0023e70d764db13e2de3cfe271c1e7e7c6ae9bd4e1201cd20"
+metafile = true
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "c631326a0c1333d1664315857d460cb3e1d5f3a54a75b8e6ac65944e93d2e455"
 metafile = true
